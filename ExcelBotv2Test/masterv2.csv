@@ -1,0 +1,1005 @@
+Name,light.gg URL,PvX,Weap Type,Archetype,Perk 1,Perk 2,Perk 3,Perk 4
+crown-splitter,https://www.light.gg/db/items/1180270694,pve,Sword,Aggressive Frame,[],[],[],[]
+crown-splitter,https://www.light.gg/db/items/1180270694,pvp,Sword,Aggressive Frame,[],[],[],[]
+throne-cleaver,https://www.light.gg/db/items/569799273,pve,Sword,Aggressive Frame,"['Hungry Edge', 'Jagged Edge', 'Tempered Edge']","['Relentless Strikes', 'Tireless Blade', 'Shattering Blade']","['Counterattack', 'En Garde', 'Whirlwind Blade']",[]
+throne-cleaver,https://www.light.gg/db/items/569799273,pvp,Sword,Aggressive Frame,"['Hungry Edge', 'Jagged Edge', 'Tempered Edge']","['Relentless Strikes', 'Tireless Blade']","['Counterattack', ""Assassin's Blade""]",[]
+goldtusk,https://www.light.gg/db/items/569799275,pve,Sword,Lightweight Frame,"['Hungry Edge', 'Jagged Edge', 'Tempered Edge']","['Relentless Strikes', 'Tireless Blade', 'En Garde']","['Surrounded', 'Whirlwind Blade']",[]
+goldtusk,https://www.light.gg/db/items/569799275,pvp,Sword,Lightweight Frame,"['Hungry Edge', 'Jagged Edge', 'Tempered Edge']","['Relentless Strikes', 'Tireless Blade']","['Surrounded', ""Assassin's Blade""]",[]
+quickfang,https://www.light.gg/db/items/1180270692,pve,Sword,Lightweight Frame,[],[],[],[]
+quickfang,https://www.light.gg/db/items/1180270692,pvp,Sword,Lightweight Frame,[],[],[],[]
+death's razor,https://www.light.gg/db/items/569799274,pve,Sword,Adaptive Frame,"['Hungry Edge', 'Jagged Edge', 'Tempered Edge']","['Energy Transfer', 'Relentless Strikes', 'Tireless Blade']",['Whirlwind Blade'],[]
+death's razor,https://www.light.gg/db/items/569799274,pvp,Sword,Adaptive Frame,"['Hungry Edge', 'Jagged Edge', 'Tempered Edge']","['Energy Transfer', 'Relentless Strikes', 'Tireless Blade']","['Counterattack', ""Assassin's Blade""]",[]
+eternity's edge,https://www.light.gg/db/items/1180270693,pve,Sword,Adaptive Frame,[],[],[],[]
+eternity's edge,https://www.light.gg/db/items/1180270693,pvp,Sword,Adaptive Frame,[],[],[],[]
+braytech werewolf,https://www.light.gg/db/items/528834068,pve,Auto Rifle,Precision Frame,[],[],[],[]
+braytech werewolf,https://www.light.gg/db/items/528834068,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+braytech winter wolf,https://www.light.gg/db/items/1752585070,pve,Auto Rifle,Precision Frame,[],[],[],[]
+braytech winter wolf,https://www.light.gg/db/items/1752585070,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+breakneck,https://www.light.gg/db/items/324382200,pve,Auto Rifle,Precision Frame,[],[],[],[]
+breakneck,https://www.light.gg/db/items/324382200,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+duty bound,https://www.light.gg/db/items/1457979868,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+duty bound,https://www.light.gg/db/items/1457979868,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+ether doctor,https://www.light.gg/db/items/1839565992,pve,Auto Rifle,Adaptive Frame,"['King Sight K1', 'Dusk Sight D1', 'Dusk Dot D1']","['Extended Mag', 'Alloy Magazine', 'High-Caliber Rounds']",['Zen Moment'],"['Rampage', 'High-Impact Reserves']"
+ether doctor,https://www.light.gg/db/items/1839565992,pvp,Auto Rifle,Adaptive Frame,"['King Sight K1', 'Dusk Sight D1', 'Dusk Dot D1']","['Ricochet Rounds', 'Flared Magwell']","['Zen Moment', 'Tap the Trigger', 'Dynamic Sway Reduction']","['Slideways', 'Under Pressure']"
+foregone conclusion,https://www.light.gg/db/items/1137768695,pve,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+foregone conclusion,https://www.light.gg/db/items/1137768695,pvp,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+gahlran's right hand,https://www.light.gg/db/items/1286686760,pve,Auto Rifle,High-Impact Frame,"['Chambered Compensator', 'Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling']","['High-Caliber Rounds', 'Ricochet Rounds', 'Extended Mag', 'Armor-Piercing Rounds']","['Zen Moment', 'Tap the Trigger', 'Outlaw']","['Demolitionist', 'Multikill Clip', 'High-Impact Reserves']"
+gahlran's right hand,https://www.light.gg/db/items/1286686760,pvp,Auto Rifle,High-Impact Frame,"['Chambered Compensator', 'Arrowhead Brake', 'Extended Barrel']","['High-Caliber Rounds', 'Ricochet Rounds']","['Zen Moment', 'Tap the Trigger', 'Eye of the Storm']","['Demolitionist', 'Underdog', 'Rangefinder']"
+ghost primus,https://www.light.gg/db/items/2505533224,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+ghost primus,https://www.light.gg/db/items/2505533224,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+guiding star,https://www.light.gg/db/items/472847207,pve,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+guiding star,https://www.light.gg/db/items/472847207,pvp,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+halfdan-d,https://www.light.gg/db/items/3778520450,pve,Auto Rifle,High-Impact Frame,[],[],[],[]
+halfdan-d,https://www.light.gg/db/items/3778520450,pvp,Auto Rifle,High-Impact Frame,[],[],[],[]
+halfdan-d,https://www.light.gg/db/items/1518042134,pve,Auto Rifle,High-Impact Frame,"['SC Holo', 'GA Post']","['Tactical Mag', 'Steady Rounds', 'Alloy Magazine']","['Dynamic Sway Reduction', 'Outlaw']","['Kill Clip', 'Rampage']"
+halfdan-d,https://www.light.gg/db/items/1518042134,pvp,Auto Rifle,High-Impact Frame,['SC Holo'],"['Tactical Mag', 'Steady Rounds', 'Drop Mag']","['Dynamic Sway Reduction', 'Tap the Trigger']","['Kill Clip', 'Rangefinder']"
+hazard of the cast,https://www.light.gg/db/items/1789347249,pve,Auto Rifle,Precision Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Extended Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Appended Mag', 'Armor-Piercing Rounds', 'Ricochet Rounds', 'Flared Magwell', 'Light Mag']","['Zen Moment', 'Ambitious Assassin', 'Tap the Trigger', 'Triple Tap']","['Rampage', 'Kill Clip', 'High-Impact Reserves']"
+hazard of the cast,https://www.light.gg/db/items/1789347249,pvp,Auto Rifle,Precision Frame,"['Arrowhead Brake', 'Chambered Compensator']","['High-Caliber Rounds', 'Extended Mag']",['Zen Moment'],"['Rampage', 'Quickdraw']"
+horror story,https://www.light.gg/db/items/3829285960,pve,Auto Rifle,Precision Frame,[],[],[],[]
+horror story,https://www.light.gg/db/items/3829285960,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+loquitor iv,https://www.light.gg/db/items/1650442173,pve,Auto Rifle,High-Impact Frame,[],[],[],[]
+loquitor iv,https://www.light.gg/db/items/1650442173,pvp,Auto Rifle,High-Impact Frame,[],[],[],[]
+origin story,https://www.light.gg/db/items/1644162710,pve,Auto Rifle,Precision Frame,[],[],[],[]
+origin story,https://www.light.gg/db/items/1644162710,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+orimund's anvil,https://www.light.gg/db/items/1369487074,pve,Auto Rifle,Precision Frame,[],[],[],[]
+orimund's anvil,https://www.light.gg/db/items/1369487074,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+pluperfect,https://www.light.gg/db/items/1952163498,pve,Auto Rifle,High-Impact Frame,"['Chambered Compensator', 'Smallbore', 'Corkscrew Rifling', 'Fluted Barrel']","['High-Caliber Rounds', 'Ricochet Rounds', 'Appended Mag']","['Underdog', 'Outlaw', 'Zen Moment']","['Kill Clip', 'Rampage', 'High-Impact Reserves']"
+pluperfect,https://www.light.gg/db/items/1952163498,pvp,Auto Rifle,High-Impact Frame,"['Chambered Compensator', 'Smallbore', 'Extended Barrel', 'Hammer-Forged Rifling']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Underdog', 'Outlaw', 'Zen Moment', 'Slideways']","['Kill Clip', 'Rampage', 'Dynamic Sway Reduction', 'Mulligan']"
+scathelocke,https://www.light.gg/db/items/3762467078,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+scathelocke,https://www.light.gg/db/items/3762467078,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+seventh seraph carbine,https://www.light.gg/db/items/1561006927,pve,Auto Rifle,Precision Frame,"['Chambered Compensator', 'Extended Barrel', 'Arrowhead Brake', 'Fluted Barrel']","['High-Caliber Rounds', 'Appended Mag', 'Armor-Piercing Rounds']","[""Fourth Time's the Charm"", 'Auto-Loading Holster']","['Vorpal Weapon', 'Swashbuckler', 'Rampage']"
+seventh seraph carbine,https://www.light.gg/db/items/1561006927,pvp,Auto Rifle,Precision Frame,"['Chambered Compensator', 'Extended Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell', 'Light Mag']","['Slideshot', 'Threat Detector']","['Vorpal Weapon', 'Elemental Capacitor', 'Rangefinder', 'Moving Target']"
+steelfeather repeater,https://www.light.gg/db/items/1251729046,pve,Auto Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore', 'Corkscrew Rifling', 'Extended Barrel', 'Fluted Barrel']","['High-Caliber Rounds', 'Appended Mag', 'Armor-Piercing Rounds', 'Flared Magwell']","['Feeding Frenzy', 'Firmly Planted', 'Grave Robber', 'Subsistence']","['Swashbuckler', 'Multikill Clip', 'Vorpal Weapon']"
+steelfeather repeater,https://www.light.gg/db/items/1251729046,pvp,Auto Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore', 'Full Bore']","['High-Caliber Rounds', 'Ricochet Rounds']","['Feeding Frenzy', 'Firmly Planted', 'Slideways']","['Swashbuckler', 'Multikill Clip', 'Vorpal Weapon', 'Elemental Capacitor']"
+the doubt,https://www.light.gg/db/items/1099433612,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+the doubt,https://www.light.gg/db/items/1099433612,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+the forward path,https://www.light.gg/db/items/2014642399,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+the forward path,https://www.light.gg/db/items/2014642399,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+the last breath,https://www.light.gg/db/items/1503609584,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+the last breath,https://www.light.gg/db/items/1503609584,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+tigerspite,https://www.light.gg/db/items/640114618,pve,Auto Rifle,Precision Frame,"['Chambered Compensator', 'Corkscrew Rifling', 'Extended Barrel', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']",['Ricochet Rounds'],['Dynamic Sway Reduction'],['Kill Clip']
+tigerspite,https://www.light.gg/db/items/640114618,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+accrued redemption,https://www.light.gg/db/items/4095896073,pve,Combat Bow,Precision Frame,"['Polymer String', 'Agile Bowstring', 'Natural String']","['Helical Fletching', 'Straight Fletching', 'Compact Arrow Shaft']","[""Archer's Tempo"", 'Quickdraw']","['Rampage', 'Rapid Hit', 'Explosive Head']"
+accrued redemption,https://www.light.gg/db/items/4095896073,pvp,Combat Bow,Precision Frame,"['Polymer String', 'Elastic String', 'Flexible String']","['Helical Fletching', 'Straight Fletching']","[""Archer's Tempo"", 'Rangefinder', 'No Distractions']","['Rampage', 'Rapid Hit', 'Moving Target']"
+no turning back,https://www.light.gg/db/items/720351794,pve,Combat Bow,Precision Frame,[],[],[],[]
+no turning back,https://www.light.gg/db/items/720351794,pvp,Combat Bow,Precision Frame,[],[],[],[]
+the spiteful fang,https://www.light.gg/db/items/421573768,pve,Combat Bow,Lightweight Frame,"['Elastic String', 'Flexible String', 'Polymer String']","['Fiberglass Arrow Shaft', 'Straight Fletching', 'Compact Arrow Shaft']","[""Archer's Tempo"", 'Sneak Bow', 'Snapshot Sights']","['Explosive Head', 'Rampage', 'Hip-Fire Grip']"
+the spiteful fang,https://www.light.gg/db/items/421573768,pvp,Combat Bow,Lightweight Frame,"['Elastic String', 'Flexible String', 'Polymer String']","['Fiberglass Arrow Shaft', 'Straight Fletching']","[""Archer's Tempo"", 'Rangefinder', 'Moving Target']","['Explosive Head', 'Rampage', 'Quickdraw']"
+the militia's birthright,https://www.light.gg/db/items/3745974521,pve,Grenade Launcher,Lightweight Frame,"['Linear Compensator', 'Quick Launch']","['Proximity Grenades', 'Concussion Grenades', 'Spike Grenades']","['Quickdraw', 'Genesis', 'Ambitious Assassin']",['Rangefinder']
+the militia's birthright,https://www.light.gg/db/items/3745974521,pvp,Grenade Launcher,Lightweight Frame,"['Linear Compensator', 'Quick Launch']","['Proximity Grenades', 'Concussion Grenades']",['Quickdraw'],"['Rangefinder', 'Snapshot Sights']"
+the mountaintop,https://www.light.gg/db/items/3993415705,pve,Grenade Launcher,Lightweight Frame,[],[],[],[]
+the mountaintop,https://www.light.gg/db/items/3993415705,pvp,Grenade Launcher,Lightweight Frame,[],[],[],[]
+agamid,https://www.light.gg/db/items/1406475890,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+agamid,https://www.light.gg/db/items/1406475890,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+austringer,https://www.light.gg/db/items/2429822977,pve,Hand Cannon,Adaptive Frame,"['Full Bore', 'Hammer-Forged Rifling', 'Smallbore']","['Accurized Rounds', 'Tactical Mag', 'Appended Mag']","['Outlaw', 'Subsistence', 'Triple Tap']","['Rangefinder', 'Demolitionist', 'Rampage']"
+austringer,https://www.light.gg/db/items/2429822977,pvp,Hand Cannon,Adaptive Frame,"['Full Bore', 'Hammer-Forged Rifling', 'Extended Barrel']","['Accurized Rounds', 'Tactical Mag']","['Outlaw', 'Eye of the Storm']","['Rangefinder', 'Demolitionist', 'Opening Shot']"
+bad news,https://www.light.gg/db/items/2145476620,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+bad news,https://www.light.gg/db/items/2145476620,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+bad news xf4354,https://www.light.gg/db/items/2824241403,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+bad news xf4354,https://www.light.gg/db/items/2824241403,pvp,Hand Cannon,Aggressive Frame,"['HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']",['Accurized Rounds'],"['Moving Target', 'Outlaw', 'Rangefinder']","['Kill Clip', 'Opening Shot', 'Explosive Payload']"
+better devils,https://www.light.gg/db/items/1048266744,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+better devils,https://www.light.gg/db/items/1048266744,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+better devils,https://www.light.gg/db/items/153979397,pve,Hand Cannon,Adaptive Frame,"['Crossfire HCS', 'Sureshot HCS']","['Extended Mag', 'Flared Magwell', 'Alloy Magazine']","['Outlaw', 'Triple Tap']","['Explosive Payload', 'Kill Clip', 'Zen Moment']"
+better devils,https://www.light.gg/db/items/153979397,pvp,Hand Cannon,Adaptive Frame,"['Crossfire HCS', 'Sureshot HCS', 'HitMark HCS']","['Extended Mag', 'Flared Magwell', 'Accurized Rounds', 'Drop Mag']","['Outlaw', 'Moving Target', 'Rangefinder']","['Explosive Payload', 'Opening Shot']"
+crimil's dagger,https://www.light.gg/db/items/3649055823,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+crimil's dagger,https://www.light.gg/db/items/3649055823,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+crimil's dagger,https://www.light.gg/db/items/4292849692,pve,Hand Cannon,Aggressive Frame,"['HitMark HCS', 'Fastdraw HCS', 'SteadyHand HCS', 'TrueSight HCS']","['Drop Mag', 'Appended Mag', 'Flared Magwell']",['Outlaw'],"['Kill Clip', 'Zen Moment']"
+crimil's dagger,https://www.light.gg/db/items/4292849692,pvp,Hand Cannon,Aggressive Frame,"['HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']",['Accurized Rounds'],"['Outlaw', 'Moving Target', 'Rangefinder']","['Kill Clip', 'Opening Shot', 'Explosive Payload']"
+d.f.a.,https://www.light.gg/db/items/4238497225,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+d.f.a.,https://www.light.gg/db/items/4238497225,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+dire promise,https://www.light.gg/db/items/2742838701,pve,Hand Cannon,Lightweight Frame,"['Fastdraw HCS', 'SteadyHand HCS', 'TrueSight HCS']","['High-Caliber Rounds', 'Appended Mag', 'Armor-Piercing Rounds']","['Overflow', 'Triple Tap', 'Auto-Loading Holster']","['Swashbuckler', 'Elemental Capacitor', 'Osmosis']"
+dire promise,https://www.light.gg/db/items/2742838701,pvp,Hand Cannon,Lightweight Frame,"['Fastdraw HCS', 'SteadyHand HCS', 'TrueSight HCS', 'HitMark HCS']","['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell']","['Overflow', 'Opening Shot', 'Snapshot Sights']","['Swashbuckler', 'Elemental Capacitor', 'Rangefinder']"
+dire promise,https://www.light.gg/db/items/582335600,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+dire promise,https://www.light.gg/db/items/582335600,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+duke mk. 44,https://www.light.gg/db/items/2112909414,pve,Hand Cannon,Aggressive Frame,"['Crossfire HCS', 'Sureshot HCS']","['Outlaw', 'Rapid Hit']","['Ricochet Rounds', 'Extended Mag']",['Rampage']
+duke mk. 44,https://www.light.gg/db/items/2112909414,pvp,Hand Cannon,Aggressive Frame,"['Crossfire HCS', 'Sureshot HCS', 'HitMark HCS']","['Outlaw', 'Opening Shot', 'Rangefinder']","['Ricochet Rounds', 'Alloy Magazine', 'High-Caliber Rounds']","['Rampage', 'Kill Clip', 'Moving Target']"
+home for the lost,https://www.light.gg/db/items/3216383791,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+home for the lost,https://www.light.gg/db/items/3216383791,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+judgment,https://www.light.gg/db/items/2850415209,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+judgment,https://www.light.gg/db/items/2850415209,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+living memory,https://www.light.gg/db/items/2957542878,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+living memory,https://www.light.gg/db/items/2957542878,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+loud lullaby,https://www.light.gg/db/items/3924212056,pve,Hand Cannon,Aggressive Frame,"['Hammer-Forged Rifling', 'Corkscrew Rifling', 'Smallbore']","['Tactical Mag', 'Extended Mag']",['Outlaw'],"['Demolitionist', 'Multikill Clip', 'Rampage']"
+loud lullaby,https://www.light.gg/db/items/3924212056,pvp,Hand Cannon,Aggressive Frame,"['Hammer-Forged Rifling', 'Extended Barrel', 'Full Bore']","['Tactical Mag', 'Accurized Rounds']",['Outlaw'],"['Demolitionist', 'Explosive Payload', 'Opening Shot']"
+midnight coup,https://www.light.gg/db/items/1128225405,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+midnight coup,https://www.light.gg/db/items/1128225405,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+pribina-d,https://www.light.gg/db/items/3860697509,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+pribina-d,https://www.light.gg/db/items/3860697509,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+pribina-d,https://www.light.gg/db/items/4211534763,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+pribina-d,https://www.light.gg/db/items/4211534763,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+rose,https://www.light.gg/db/items/2429822976,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+rose,https://www.light.gg/db/items/2429822976,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+service revolver,https://www.light.gg/db/items/2171006181,pve,Hand Cannon,Precision Frame,[],[],[],[]
+service revolver,https://www.light.gg/db/items/2171006181,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+service revolver,https://www.light.gg/db/items/834081972,pve,Hand Cannon,Precision Frame,"['Fastdraw HCS', 'SteadyHand HCS', 'TrueSight HCS']","['Extended Mag', 'Appended Mag', 'High-Caliber Rounds', 'Light Mag']","['Outlaw', 'Rapid Hit', 'Triple Tap']","['Kill Clip', 'Rampage']"
+service revolver,https://www.light.gg/db/items/834081972,pvp,Hand Cannon,Precision Frame,"['Crossfire HCS', 'Sureshot HCS']","['Ricochet Rounds', 'Accurized Rounds']","['Outlaw', 'Moving Target', 'Rangefinder']","['Kill Clip', 'Zen Moment', 'Opening Shot']"
+seventh seraph officer revolver,https://www.light.gg/db/items/3037520408,pve,Hand Cannon,Precision Frame,"['Corkscrew Rifling', 'Fluted Barrel', 'Smallbore']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Threat Detector', 'Ambitious Assassin', ""Fourth Time's the Charm""]","['Feeding Frenzy', 'High-Impact Reserves', 'Multikill Clip']"
+seventh seraph officer revolver,https://www.light.gg/db/items/3037520408,pvp,Hand Cannon,Precision Frame,"['Corkscrew Rifling', 'Fluted Barrel', 'Smallbore', 'Chambered Compensator', 'Polygonal Rifling']","['Appended Mag', 'Tactical Mag', 'Steady Rounds', 'Flared Magwell']","['Threat Detector', 'Firmly Planted']","['Feeding Frenzy', 'Vorpal Weapon', 'Timed Payload']"
+spare rations,https://www.light.gg/db/items/3116356268,pve,Hand Cannon,Lightweight Frame,"['Hammer-Forged Rifling', 'Corkscrew Rifling', 'Fluted Barrel']","['High-Caliber Rounds', 'Appended Mag', 'Flared Magwell']","['Rapid Hit', ""Fourth Time's the Charm""]","['Kill Clip', 'Rampage', 'Multikill Clip']"
+spare rations,https://www.light.gg/db/items/3116356268,pvp,Hand Cannon,Lightweight Frame,"['Hammer-Forged Rifling', 'Full Bore', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Rapid Hit', 'Snapshot Sights']","['Kill Clip', 'Slideshot', 'Rangefinder', 'Moving Target']"
+ten paces,https://www.light.gg/db/items/2112909415,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+ten paces,https://www.light.gg/db/items/2112909415,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+the old fashioned,https://www.light.gg/db/items/1706536806,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+the old fashioned,https://www.light.gg/db/items/1706536806,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+the old fashioned,https://www.light.gg/db/items/3569802112,pve,Hand Cannon,Adaptive Frame,"['HitMark HCS', 'Fastdraw HCS', 'SteadyHand HCS', 'TrueSight HCS']","['Tactical Mag', 'Steady Rounds', 'Appended Mag', 'Extended Mag', 'Flared Magwell']","['Slideshot', 'Demolitionist', 'Feeding Frenzy']","['Kill Clip', 'Snapshot Sights', 'Explosive Payload', 'Surrounded']"
+the old fashioned,https://www.light.gg/db/items/3569802112,pvp,Hand Cannon,Adaptive Frame,"['HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']","['Tactical Mag', 'Steady Rounds', 'Accurized Rounds']","['Slideshot', 'Demolitionist', 'Feeding Frenzy', 'Firmly Planted', 'Quickdraw']","['Kill Clip', 'Snapshot Sights', 'Explosive Payload', 'Moving Target']"
+the steady hand,https://www.light.gg/db/items/1189790632,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+the steady hand,https://www.light.gg/db/items/1189790632,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+true prophecy,https://www.light.gg/db/items/408440598,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+true prophecy,https://www.light.gg/db/items/408440598,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+true prophecy,https://www.light.gg/db/items/2742838700,pve,Hand Cannon,Aggressive Frame,"['Fastdraw HCS', 'TrueSight HCS', 'SteadyHand HCS']","['Tactical Mag', 'Drop Mag', 'Appended Mag']","['Overflow', 'Grave Robber']","['Demolitionist', 'Elemental Capacitor', 'Rampage']"
+true prophecy,https://www.light.gg/db/items/2742838700,pvp,Hand Cannon,Aggressive Frame,"['Fastdraw HCS', 'TrueSight HCS', 'HitMark HCS']","['Tactical Mag', 'Accurized Rounds', 'Steady Rounds']","['Overflow', 'Rangefinder', 'Opening Shot']","['Demolitionist', 'Elemental Capacitor', 'Timed Payload', 'Explosive Payload']"
+warden's law,https://www.light.gg/db/items/233423981,pve,Hand Cannon,Double Fire,"['HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']","['Drop Mag', 'Tactical Mag', 'Steady Rounds', 'Flared Magwell']","['Kill Clip', 'Rampage', 'Zen Moment']",[]
+warden's law,https://www.light.gg/db/items/233423981,pvp,Hand Cannon,Double Fire,"['HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']","['Drop Mag', 'Accurized Rounds']","['Kill Clip', 'Rampage', 'Opening Shot']","['Moving Target', 'Rangefinder']"
+west of sunfall 7,https://www.light.gg/db/items/3285365667,pve,Hand Cannon,Precision Frame,[],[],[],[]
+west of sunfall 7,https://www.light.gg/db/items/3285365667,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+autumn wind,https://www.light.gg/db/items/1674742470,pve,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+autumn wind,https://www.light.gg/db/items/1674742470,pvp,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+battle scar,https://www.light.gg/db/items/1178397319,pve,Pulse Rifle,Lightweight Frame,[],[],[],[]
+battle scar,https://www.light.gg/db/items/1178397319,pvp,Pulse Rifle,Lightweight Frame,[],[],[],[]
+blast furnace,https://www.light.gg/db/items/3843477312,pve,Pulse Rifle,Aggressive Burst,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Appended Mag', 'Tactical Mag', 'Drop Mag', 'Extended Mag', 'Flared Magwell']","['Outlaw', 'Feeding Frenzy', 'Quickdraw']","['Kill Clip', 'Rampage', 'High-Impact Reserves']"
+blast furnace,https://www.light.gg/db/items/3843477312,pvp,Pulse Rifle,Aggressive Burst,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Appended Mag', 'Tactical Mag', 'Accurized Rounds']","['Outlaw', 'Feeding Frenzy', 'Zen Moment']","['Kill Clip', 'Rampage', 'Headseeker']"
+bygones,https://www.light.gg/db/items/2712244741,pve,Pulse Rifle,Adaptive Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Extended Barrel', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['Extended Mag', 'High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell', 'Light Mag']","['Rampage', 'Kill Clip', 'High-Impact Reserves']","['Full Auto Trigger System', 'Outlaw']"
+bygones,https://www.light.gg/db/items/2712244741,pvp,Pulse Rifle,Adaptive Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Polygonal Rifling']","['Extended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Rampage', 'Opening Shot', 'Rangefinder']","['Full Auto Trigger System', 'Outlaw', 'Slideshot']"
+chattering bone,https://www.light.gg/db/items/568515759,pve,Pulse Rifle,Lightweight Frame,"['Corkscrew Rifling', 'Extended Barrel']","['Ricochet Rounds', 'Light Mag']",['Outlaw'],"['Rampage', 'High-Impact Reserves']"
+chattering bone,https://www.light.gg/db/items/568515759,pvp,Pulse Rifle,Lightweight Frame,[],[],[],[]
+disrespectful stare,https://www.light.gg/db/items/1513927137,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+disrespectful stare,https://www.light.gg/db/items/1513927137,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+eternal slumber,https://www.light.gg/db/items/1523647826,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+eternal slumber,https://www.light.gg/db/items/1523647826,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+eystein-d,https://www.light.gg/db/items/1291586825,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+eystein-d,https://www.light.gg/db/items/1291586825,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+eystein-d,https://www.light.gg/db/items/3199662972,pve,Pulse Rifle,High-Impact Frame,"['GB Iron', 'SC Holo']","['Flared Magwell', 'Alloy Magazine', 'Light Mag']","['Firmly Planted', 'Under Pressure', 'Outlaw']","['Zen Moment', 'Rampage', 'Kill Clip', 'Full Auto Trigger System']"
+eystein-d,https://www.light.gg/db/items/3199662972,pvp,Pulse Rifle,High-Impact Frame,"['GB Iron', 'SC Holo']","['Flared Magwell', 'High-Caliber Rounds']","['Firmly Planted', 'Under Pressure', 'Moving Target']","['Zen Moment', 'Snapshot Sights', 'Headseeker']"
+go figure,https://www.light.gg/db/items/4138174248,pve,Pulse Rifle,Aggressive Burst,"['Wolf Sight W1', 'King Sight K1', 'Dusk Sight D1', 'Dusk Dot D1']","['High-Caliber Rounds', 'Flared Magwell']","['Firmly Planted', 'Zen Moment', 'Outlaw']","['Rampage', 'Kill Clip', 'High-Impact Reserves']"
+go figure,https://www.light.gg/db/items/4138174248,pvp,Pulse Rifle,Aggressive Burst,"['Wolf Sight W1', 'King Sight K1', 'Dusk Sight D1', 'Dusk Dot D1']","['High-Caliber Rounds', 'Flared Magwell']","['Firmly Planted', 'Zen Moment', 'Moving Target']","['Rampage', 'Rangefinder', 'Headseeker']"
+legal action ii,https://www.light.gg/db/items/1760543913,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+legal action ii,https://www.light.gg/db/items/1760543913,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+lincoln green,https://www.light.gg/db/items/1513927138,pve,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+lincoln green,https://www.light.gg/db/items/1513927138,pvp,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+machina dei 4,https://www.light.gg/db/items/161537636,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+machina dei 4,https://www.light.gg/db/items/161537636,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+magnum shepherd,https://www.light.gg/db/items/210065223,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+magnum shepherd,https://www.light.gg/db/items/210065223,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+nightshade,https://www.light.gg/db/items/339163900,pve,Pulse Rifle,Lightweight Frame,[],[],[],[]
+nightshade,https://www.light.gg/db/items/339163900,pvp,Pulse Rifle,Lightweight Frame,[],[],[],[]
+nightshade,https://www.light.gg/db/items/792755504,pve,Pulse Rifle,Lightweight Frame,"['Cleanshot IS', 'Hitmark IS', 'Red Dot Micro']","['Tactical Mag', 'Appended Mag', 'Extended Mag', 'Flared Magwell']","['Outlaw', 'Ambitious Assassin']","['Rampage', 'Kill Clip', 'Full Auto Trigger System']"
+nightshade,https://www.light.gg/db/items/792755504,pvp,Pulse Rifle,Lightweight Frame,"['Cleanshot IS', 'Hitmark IS', 'Red Dot Micro']","['Tactical Mag', 'Accurized Rounds', 'Steady Rounds']","['Outlaw', 'Rangefinder', 'Moving Target']","['Rampage', 'Kill Clip', 'Headseeker', 'Zen Moment']"
+redrix's broadsword,https://www.light.gg/db/items/1161276682,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+redrix's broadsword,https://www.light.gg/db/items/1161276682,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+redrix's claymore,https://www.light.gg/db/items/191996029,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+redrix's claymore,https://www.light.gg/db/items/191996029,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+relentless,https://www.light.gg/db/items/1187594590,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+relentless,https://www.light.gg/db/items/1187594590,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+sacred provenance,https://www.light.gg/db/items/2408405461,pve,Pulse Rifle,Aggressive Burst,"['Arrowhead Brake', 'Smallbore', 'Chambered Compensator', 'Corkscrew Rifling', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag', 'Extended Mag']","['Rapid Hit', 'Outlaw', 'Full Auto Trigger System']","['Kill Clip', 'Quickdraw']"
+sacred provenance,https://www.light.gg/db/items/2408405461,pvp,Pulse Rifle,Aggressive Burst,"['Arrowhead Brake', 'Smallbore', 'Full Bore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Rapid Hit', 'Outlaw']","['Kill Clip', 'Quickdraw', 'Snapshot Sights']"
+the marine,https://www.light.gg/db/items/3529780349,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+the marine,https://www.light.gg/db/items/3529780349,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+the time-worn spire,https://www.light.gg/db/items/4425887,pve,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+the time-worn spire,https://www.light.gg/db/items/4425887,pvp,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+three graves,https://www.light.gg/db/items/1587439031,pve,Pulse Rifle,High-Impact Frame,[],[],[],[]
+three graves,https://www.light.gg/db/items/1587439031,pvp,Pulse Rifle,High-Impact Frame,[],[],[],[]
+call to serve,https://www.light.gg/db/items/1885753222,pve,Scout Rifle,Precision Frame,[],[],[],[]
+call to serve,https://www.light.gg/db/items/1885753222,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+does not compute,https://www.light.gg/db/items/4193877020,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+does not compute,https://www.light.gg/db/items/4193877020,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+does not compute,https://www.light.gg/db/items/2278995296,pve,Scout Rifle,High-Impact Frame,"['Cleanshot IS', 'Hitmark IS', 'Red Dot Micro']","['Tactical Mag', 'Flared Magwell', 'Appended Mag', 'Alloy Magazine']","['Triple Tap', 'High-Impact Reserves']","['Outlaw', 'Kill Clip', 'Rampage']"
+does not compute,https://www.light.gg/db/items/2278995296,pvp,Scout Rifle,High-Impact Frame,"['Cleanshot IS', 'Hitmark IS', 'Red Dot Micro']","['Tactical Mag', 'Flared Magwell', 'Steady Rounds']","['Zen Moment', 'Moving Target']","['Outlaw', 'Kill Clip', 'Explosive Payload', 'Opening Shot']"
+frontier justice,https://www.light.gg/db/items/273396910,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+frontier justice,https://www.light.gg/db/items/273396910,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+garden progeny 1,https://www.light.gg/db/items/472169727,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+garden progeny 1,https://www.light.gg/db/items/472169727,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+good counsel ix,https://www.light.gg/db/items/3435238843,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+good counsel ix,https://www.light.gg/db/items/3435238843,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+haunted earth,https://www.light.gg/db/items/2625782212,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+haunted earth,https://www.light.gg/db/items/2625782212,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+imperative,https://www.light.gg/db/items/2314999489,pve,Scout Rifle,High-Impact Frame,"['Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Steady Rounds', 'Appended Mag', 'Flared Magwell']","['Eye of the Storm', 'Outlaw', 'Triple Tap']","['Explosive Payload', 'Rampage', 'Multikill Clip']"
+imperative,https://www.light.gg/db/items/2314999489,pvp,Scout Rifle,High-Impact Frame,"['Corkscrew Rifling', 'Fluted Barrel', 'Hammer-Forged Rifling']","['Tactical Mag', 'Steady Rounds', 'Accurized Rounds']","['Eye of the Storm', 'Outlaw', 'No Distractions']","['Explosive Payload', 'Rampage', 'Opening Shot']"
+nameless midnight,https://www.light.gg/db/items/1960218487,pve,Scout Rifle,Precision Frame,[],[],[],[]
+nameless midnight,https://www.light.gg/db/items/1960218487,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+nameless midnight,https://www.light.gg/db/items/3040742682,pve,Scout Rifle,Precision Frame,"['Cleanshot IS', 'Hitmark IS', 'Red Dot Micro', 'Red Dot 2 MOA']","['Tactical Mag', 'Steady Rounds', 'Extended Mag', 'Flared Magwell']","['Triple Tap', 'High-Impact Reserves']","['Outlaw', 'Rampage', 'Explosive Payload', 'Kill Clip']"
+nameless midnight,https://www.light.gg/db/items/3040742682,pvp,Scout Rifle,Precision Frame,"['Cleanshot IS', 'Hitmark IS', 'Red Dot Micro']","['Tactical Mag', 'Steady Rounds']","['Zen Moment', 'Moving Target']","['Outlaw', 'Rampage', 'Opening Shot']"
+niflheim frost,https://www.light.gg/db/items/1350102270,pve,Scout Rifle,Precision Frame,[],[],[],[]
+niflheim frost,https://www.light.gg/db/items/1350102270,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+night watch,https://www.light.gg/db/items/3504336176,pve,Scout Rifle,Lightweight Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Fluted Barrel']","['Tactical Mag', 'Appended Mag']","['Outlaw', 'Rapid Hit', 'Subsistence']","['Explosive Payload', 'Rampage', 'Multikill Clip']"
+night watch,https://www.light.gg/db/items/3504336176,pvp,Scout Rifle,Lightweight Frame,"['Arrowhead Brake', 'Extended Barrel']","['Tactical Mag', 'Accurized Rounds', 'Steady Rounds', 'Flared Magwell']","['Outlaw', 'Rapid Hit']","['Explosive Payload', 'Moving Target', 'Demolitionist']"
+patron of lost causes,https://www.light.gg/db/items/2723241847,pve,Scout Rifle,Lightweight Frame,"['Hammer-Forged Rifling', 'Smallbore', 'Chambered Compensator', 'Corkscrew Rifling']","['Tactical Mag', 'Steady Rounds', 'Appended Mag', 'Flared Magwell']","['Rapid Hit', 'Full Auto Trigger System']","['Vorpal Weapon', 'Explosive Payload', 'Osmosis']"
+patron of lost causes,https://www.light.gg/db/items/2723241847,pvp,Scout Rifle,Lightweight Frame,"['Hammer-Forged Rifling', 'Smallbore', 'Fluted Barrel']","['Tactical Mag', 'Steady Rounds', 'Accurized Rounds']",['Rapid Hit'],"['Vorpal Weapon', 'Explosive Payload', 'Opening Shot']"
+purpose,https://www.light.gg/db/items/2516360525,pve,Scout Rifle,Lightweight Frame,[],[],[],[]
+purpose,https://www.light.gg/db/items/2516360525,pvp,Scout Rifle,Lightweight Frame,[],[],[],[]
+randy's throwing knife,https://www.light.gg/db/items/3535742959,pve,Scout Rifle,Rapid-Fire Frame,[],[],[],[]
+randy's throwing knife,https://www.light.gg/db/items/3535742959,pvp,Scout Rifle,Rapid-Fire Frame,[],[],[],[]
+song of justice vi,https://www.light.gg/db/items/3435238842,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+song of justice vi,https://www.light.gg/db/items/3435238842,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+talons of the eagle,https://www.light.gg/db/items/1982711279,pve,Scout Rifle,High-Impact Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Steady Rounds']","['Zen Moment', 'Outlaw', 'Full Auto Trigger System']","['Rampage', 'Explosive Payload']"
+talons of the eagle,https://www.light.gg/db/items/1982711279,pvp,Scout Rifle,High-Impact Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel']",['Tactical Mag'],['Zen Moment'],"['Opening Shot', 'Moving Target']"
+telemachus-c,https://www.light.gg/db/items/541053086,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+telemachus-c,https://www.light.gg/db/items/541053086,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+the dream,https://www.light.gg/db/items/3826803617,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+the dream,https://www.light.gg/db/items/3826803617,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+the guiding sight,https://www.light.gg/db/items/3890960908,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+the guiding sight,https://www.light.gg/db/items/3890960908,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+the scholar,https://www.light.gg/db/items/2478792241,pve,Scout Rifle,High-Impact Frame,"['Corkscrew Rifling', 'Smallbore', 'Fluted Barrel']","['High-Caliber Rounds', 'Ricochet Rounds', 'Appended Mag']","['Quickdraw', 'Full Auto Trigger System']","['Vorpal Weapon', 'Elemental Capacitor']"
+the scholar,https://www.light.gg/db/items/2478792241,pvp,Scout Rifle,High-Impact Frame,"['Corkscrew Rifling', 'Smallbore', 'Hammer-Forged Rifling', 'Polygonal Rifling']","['High-Caliber Rounds', 'Ricochet Rounds']","['Quickdraw', 'Opening Shot']","['Vorpal Weapon', 'Elemental Capacitor', 'No Distractions', 'Celerity']"
+transfiguration,https://www.light.gg/db/items/3799980700,pve,Scout Rifle,High-Impact Frame,"['Fluted Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Steady Rounds']",['Rampage'],['Kill Clip']
+transfiguration,https://www.light.gg/db/items/3799980700,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+wrong side of right,https://www.light.gg/db/items/3957603605,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+wrong side of right,https://www.light.gg/db/items/3957603605,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+astral horizon,https://www.light.gg/db/items/1697682876,pve,Shotgun,Aggressive Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Assault Mag', 'Tactical Mag', 'Appended Mag']","['Slideshot', 'Field Prep', 'Auto-Loading Holster']","['Elemental Capacitor', 'Swashbuckler', 'One-Two Punch']"
+astral horizon,https://www.light.gg/db/items/1697682876,pvp,Shotgun,Aggressive Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling', 'Full Choke']","['Assault Mag', 'Tactical Mag', 'Light Mag']",['Quickdraw'],"['Elemental Capacitor', 'Celerity', 'Opening Shot']"
+baligant,https://www.light.gg/db/items/731147179,pve,Shotgun,Aggressive Frame,[],[],[],[]
+baligant,https://www.light.gg/db/items/731147179,pvp,Shotgun,Aggressive Frame,[],[],[],[]
+baligant xu7743,https://www.light.gg/db/items/3461377698,pve,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Barrel Shroud', 'Corkscrew Rifling']","['Assault Mag', 'Appended Mag', 'Tactical Mag', 'Extended Mag']","['Slideshot', 'Threat Detector', 'Full Auto Trigger System']","['Rampage', 'Outlaw', 'Auto-Loading Holster']"
+baligant xu7743,https://www.light.gg/db/items/3461377698,pvp,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],['Slideshot'],"['Rampage', 'Snapshot Sights', 'Moving Target']"
+blasphemer,https://www.light.gg/db/items/2782847179,pve,Shotgun,Precision Frame,[],[],[],[]
+blasphemer,https://www.light.gg/db/items/2782847179,pvp,Shotgun,Precision Frame,[],[],[],[]
+dust rock blues,https://www.light.gg/db/items/636912560,pve,Shotgun,Precision Frame,"['Rifled Barrel', 'Full Choke']","['Assault Mag', 'Appended Mag', 'Tactical Mag']","['Slideshot', 'Threat Detector']","['Rampage', 'Grave Robber', 'Full Auto Trigger System']"
+dust rock blues,https://www.light.gg/db/items/636912560,pvp,Shotgun,Precision Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],"['Slideshot', 'Threat Detector', 'Moving Target']","['Rampage', 'Grave Robber', 'Full Auto Trigger System']"
+hawthorne's field-forged shotgun,https://www.light.gg/db/items/731147177,pve,Shotgun,Lightweight Frame,[],[],[],[]
+hawthorne's field-forged shotgun,https://www.light.gg/db/items/731147177,pvp,Shotgun,Lightweight Frame,[],[],[],[]
+hawthorne's field-forged shotgun,https://www.light.gg/db/items/1807343361,pve,Shotgun,Lightweight Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Assault Mag', 'Tactical Mag', 'Light Mag']","['Full Auto Trigger System', 'Grave Robber', 'Field Prep']","['Demolitionist', 'One-Two Punch', 'Surrounded']"
+hawthorne's field-forged shotgun,https://www.light.gg/db/items/1807343361,pvp,Shotgun,Lightweight Frame,"['Rifled Barrel', 'Full Choke']","['Assault Mag', 'Accurized Rounds']","['Full Auto Trigger System', 'Grave Robber']","['Demolitionist', 'One-Two Punch', 'Opening Shot']"
+imperial decree,https://www.light.gg/db/items/2919334548,pve,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Full Choke', 'Smallbore', 'Corkscrew Rifling']","['Accurized Rounds', 'Assault Mag', 'Appended Mag', 'Tactical Mag', 'Extended Mag']","['Feeding Frenzy', 'Grave Robber', 'Full Auto Trigger System']","['Swashbuckler', 'Rampage', 'Trench Barrel']"
+imperial decree,https://www.light.gg/db/items/2919334548,pvp,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],"['Feeding Frenzy', 'Slideshot']","['Swashbuckler', 'Rampage', 'Snapshot Sights']"
+one small step,https://www.light.gg/db/items/1016668089,pve,Shotgun,Rapid-Fire Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Quickdraw', 'Grave Robber', 'Auto-Loading Holster']","['One-Two Punch', 'Rampage']"
+one small step,https://www.light.gg/db/items/1016668089,pvp,Shotgun,Rapid-Fire Frame,"['Rifled Barrel', 'Full Choke']","['Accurized Rounds', 'Light Mag']",['Quickdraw'],"['One-Two Punch', 'Snapshot Sights', 'Opening Shot']"
+parcel of stardust,https://www.light.gg/db/items/2217366863,pve,Shotgun,Lightweight Frame,"['Rifled Barrel', 'Full Choke']","['Accurized Rounds', 'Assault Mag', 'Appended Mag', 'Tactical Mag']","['Opening Shot', 'Full Auto Trigger System', 'Threat Detector']","['Rampage', 'Outlaw']"
+parcel of stardust,https://www.light.gg/db/items/2217366863,pvp,Shotgun,Lightweight Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],"['Opening Shot', 'Full Auto Trigger System', 'Slideshot']","['Rampage', 'Moving Target']"
+perfect paradox,https://www.light.gg/db/items/2248667690,pve,Shotgun,Rapid-Fire Frame,[],[],[],[]
+perfect paradox,https://www.light.gg/db/items/2248667690,pvp,Shotgun,Rapid-Fire Frame,[],[],[],[]
+perfect paradox,https://www.light.gg/db/items/3393519051,pve,Shotgun,Rapid-Fire Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Appended Mag', 'Tactical Mag', 'Light Mag']","['Demolitionist', 'Slideshot', 'Field Prep']","['Swashbuckler', 'Trench Barrel', 'One-Two Punch']"
+perfect paradox,https://www.light.gg/db/items/3393519051,pvp,Shotgun,Rapid-Fire Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling', 'Rifled Barrel', 'Full Choke']","['Appended Mag', 'Tactical Mag', 'Accurized Rounds']","['Demolitionist', 'Slideshot', 'Field Prep']","['Swashbuckler', 'Trench Barrel', 'One-Two Punch', 'Rampage', 'Opening Shot']"
+threat level,https://www.light.gg/db/items/1664372054,pve,Shotgun,Rapid-Fire Frame,"['Rifled Barrel', 'Full Choke', 'Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Rampage', 'Slideshot', 'Trench Barrel', 'Surrounded']","['Grave Robber', 'Quickdraw', 'Threat Detector']"
+threat level,https://www.light.gg/db/items/1664372054,pvp,Shotgun,Rapid-Fire Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],"['Rampage', 'Slideshot', 'Moving Target']","['Grave Robber', 'Quickdraw', 'Snapshot Sights']"
+toil and trouble,https://www.light.gg/db/items/2957367743,pve,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Full Choke']","['Assault Mag', 'Appended Mag', 'Tactical Mag']","['Slideshot', 'Full Auto Trigger System']","['Rampage', 'Outlaw', 'Auto-Loading Holster']"
+toil and trouble,https://www.light.gg/db/items/2957367743,pvp,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],"['Slideshot', 'Full Auto Trigger System', 'Threat Detector']","['Rampage', 'Moving Target']"
+allied demand,https://www.light.gg/db/items/982229638,pve,Sidearm,Adaptive Frame,[],[],[],[]
+allied demand,https://www.light.gg/db/items/982229638,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+athelflad-d,https://www.light.gg/db/items/1533499360,pve,Sidearm,Precision Frame,[],[],[],[]
+athelflad-d,https://www.light.gg/db/items/1533499360,pvp,Sidearm,Precision Frame,[],[],[],[]
+breachlight,https://www.light.gg/db/items/1289997971,pve,Sidearm,Aggressive Burst,"['Hammer-Forged Rifling', 'Smallbore', 'Chambered Compensator', 'Fluted Barrel']","['Appended Mag', 'Tactical Mag']","['Demolitionist', 'Outlaw', 'Hip-Fire Grip']","['Vorpal Weapon', 'Quickdraw', 'Multikill Clip', 'Rampage', 'Osmosis']"
+breachlight,https://www.light.gg/db/items/1289997971,pvp,Sidearm,Aggressive Burst,"['Hammer-Forged Rifling', 'Smallbore', 'Extended Barrel', 'Polygonal Rifling']","['Appended Mag', 'Accurized Rounds', 'Steady Rounds']","['Demolitionist', 'Outlaw']","['Vorpal Weapon', 'Quickdraw', 'Multikill Clip']"
+buzzard,https://www.light.gg/db/items/805677041,pve,Sidearm,Adaptive Frame,[],[],[],[]
+buzzard,https://www.light.gg/db/items/805677041,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+controlling vision,https://www.light.gg/db/items/48361212,pve,Sidearm,Adaptive Frame,[],[],[],[]
+controlling vision,https://www.light.gg/db/items/48361212,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+enigma's draw,https://www.light.gg/db/items/1723380073,pve,Sidearm,Precision Frame,"['QuickDot SAS', 'Control SAS', 'Shortspec SAS']","['Appended Mag', 'High-Caliber Rounds', 'Armor-Piercing Rounds']","['Full Auto Trigger System', 'Grave Robber', 'Triple Tap']","['Demolitionist', 'Rapid Hit', 'Swashbuckler']"
+enigma's draw,https://www.light.gg/db/items/1723380073,pvp,Sidearm,Precision Frame,"['QuickDot SAS', 'Control SAS', 'Shortspec SAS', 'Tactic SAS']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Full Auto Trigger System', 'Zen Moment', 'Opening Shot']","['Demolitionist', 'Rapid Hit', 'Rangefinder']"
+enigma's draw,https://www.light.gg/db/items/2581162758,pve,Sidearm,Precision Frame,[],[],[],[]
+enigma's draw,https://www.light.gg/db/items/2581162758,pvp,Sidearm,Precision Frame,[],[],[],[]
+last of the legion,https://www.light.gg/db/items/2084611899,pve,Sidearm,Adaptive Frame,[],[],[],[]
+last of the legion,https://www.light.gg/db/items/2084611899,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+lonesome,https://www.light.gg/db/items/2199171672,pve,Sidearm,Precision Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling']","['Alloy Magazine', 'Appended Mag', 'Flared Magwell']","['Full Auto Trigger System', 'Zen Moment', 'Outlaw', 'Rapid Hit']","['Demolitionist', 'Kill Clip', 'Swashbuckler', 'Multikill Clip']"
+lonesome,https://www.light.gg/db/items/2199171672,pvp,Sidearm,Precision Frame,"['Chambered Compensator', 'Extended Barrel', 'Hammer-Forged Rifling']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Full Auto Trigger System', 'Zen Moment', 'Grave Robber']","['Demolitionist', 'Kill Clip', 'Opening Shot']"
+minimum distance,https://www.light.gg/db/items/1911843789,pve,Sidearm,Precision Frame,[],[],[],[]
+minimum distance,https://www.light.gg/db/items/1911843789,pvp,Sidearm,Precision Frame,[],[],[],[]
+peace by consensus,https://www.light.gg/db/items/806021398,pve,Sidearm,Precision Frame,[],[],[],[]
+peace by consensus,https://www.light.gg/db/items/806021398,pvp,Sidearm,Precision Frame,[],[],[],[]
+smuggler's word,https://www.light.gg/db/items/1843044399,pve,Sidearm,Aggressive Burst,"['Control SAS', 'Shortspec SAS', 'Target SAS']","['High-Caliber Rounds', 'Extended Mag', 'Alloy Magazine']","['Full Auto Trigger System', 'Outlaw']","['Kill Clip', 'Rampage']"
+smuggler's word,https://www.light.gg/db/items/1843044399,pvp,Sidearm,Aggressive Burst,"['Control SAS', 'Shortspec SAS', 'Target SAS']","['High-Caliber Rounds', 'Ricochet Rounds']","['Moving Target', 'Quickdraw']","['Rangefinder', 'Tap the Trigger', 'Opening Shot']"
+spoiler alert,https://www.light.gg/db/items/819358961,pve,Sidearm,Lightweight Frame,[],[],[],[]
+spoiler alert,https://www.light.gg/db/items/819358961,pvp,Sidearm,Lightweight Frame,[],[],[],[]
+vertical orbit qsm,https://www.light.gg/db/items/2812672356,pve,Sidearm,Adaptive Frame,[],[],[],[]
+vertical orbit qsm,https://www.light.gg/db/items/2812672356,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+alone as a god,https://www.light.gg/db/items/3380742308,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+alone as a god,https://www.light.gg/db/items/3380742308,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+bite of the fox,https://www.light.gg/db/items/3169616514,pve,Sniper Rifle,Aggressive Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling']","['Appended Mag', 'Tactical Mag', 'Extended Mag', 'Alloy Magazine', 'Flared Magwell']",['Rapid Hit'],['Rampage']
+bite of the fox,https://www.light.gg/db/items/3169616514,pvp,Sniper Rifle,Aggressive Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling']","['Appended Mag', 'Tactical Mag', 'Extended Mag', 'Alloy Magazine', 'Flared Magwell', 'Drop Mag']","['Rapid Hit', 'Snapshot Sights']","['Explosive Payload', 'Moving Target', 'Opening Shot']"
+dreaded venture,https://www.light.gg/db/items/3100452337,pve,Sniper Rifle,Aggressive Frame,['Hammer-Forged Rifling'],['Accurized Rounds'],['Explosive Payload'],[]
+dreaded venture,https://www.light.gg/db/items/3100452337,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+eye of sol,https://www.light.gg/db/items/3164743584,pve,Sniper Rifle,Adaptive Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Corkscrew Rifling']","['Tactical Mag', 'Appended Mag', 'Extended Mag']","['Firmly Planted', 'Field Prep', 'Outlaw']","['Vorpal Weapon', 'Box Breathing']"
+eye of sol,https://www.light.gg/db/items/3164743584,pvp,Sniper Rifle,Adaptive Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Smallbore']","['Tactical Mag', 'Accurized Rounds', 'Flared Magwell']","['Firmly Planted', 'Snapshot Sights']","['Vorpal Weapon', 'Box Breathing', 'Celerity', 'Opening Shot']"
+long shadow,https://www.light.gg/db/items/3745990145,pve,Sniper Rifle,Adaptive Frame,"['ATA Scout', 'ATC Rex']","['Appended Mag', 'Extended Mag', 'Alloy Magazine']","['Firmly Planted', 'Rapid Hit', 'Field Prep']","['Rampage', 'Outlaw', 'Triple Tap']"
+long shadow,https://www.light.gg/db/items/3745990145,pvp,Sniper Rifle,Adaptive Frame,"['ATA Scout', 'ATC Rex']","['Drop Mag', 'Tactical Mag', 'Flared Magwell']","['Firmly Planted', 'Snapshot Sights', 'Threat Detector']","['Rampage', 'Outlaw', 'Moving Target']"
+revoker,https://www.light.gg/db/items/654608616,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+revoker,https://www.light.gg/db/items/654608616,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+shepherd's watch,https://www.light.gg/db/items/3312073053,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+shepherd's watch,https://www.light.gg/db/items/3312073053,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+show of force xf4865,https://www.light.gg/db/items/4148143418,pve,Sniper Rifle,Aggressive Frame,"['ATD Raptor', 'ATA Scout', 'ATC Rex']","['Tactical Mag', 'Flared Magwell', 'Appended Mag', 'Extended Mag']","['Firmly Planted', 'Mulligan', 'Rapid Hit']","['Rampage', 'Outlaw', 'Triple Tap']"
+show of force xf4865,https://www.light.gg/db/items/4148143418,pvp,Sniper Rifle,Aggressive Frame,"['ATD Raptor', 'ATA Scout', 'ATC Rex']","['Tactical Mag', 'Flared Magwell', 'Steady Rounds']","['Firmly Planted', 'Snapshot Sights']","['Rampage', 'Outlaw', 'Moving Target']"
+silicon neuroma,https://www.light.gg/db/items/990416096,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+silicon neuroma,https://www.light.gg/db/items/990416096,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+the frigid jackal,https://www.light.gg/db/items/689453941,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+the frigid jackal,https://www.light.gg/db/items/689453941,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+the supremacy,https://www.light.gg/db/items/686951703,pve,Sniper Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling', 'Hammer-Forged Rifling']","['Alloy Magazine', 'Light Mag', 'Extended Mag', 'Appended Mag', 'Armor-Piercing Rounds', 'Ricochet Rounds']","['Snapshot Sights', 'Outlaw', 'Ambitious Assassin', 'Genesis']","['Rampage', 'Rapid Hit', 'Triple Tap', 'Kill Clip']"
+the supremacy,https://www.light.gg/db/items/686951703,pvp,Sniper Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling']","['Alloy Magazine', 'Light Mag', 'Flared Magwell']","['Snapshot Sights', 'Outlaw']","['Rampage', 'Rapid Hit']"
+tranquility,https://www.light.gg/db/items/1645386487,pve,Sniper Rifle,Adaptive Frame,"['Corkscrew Rifling', 'Fluted Barrel']","['Tactical Mag', 'Appended Mag', 'Extended Mag']","['Outlaw', 'Auto-Loading Holster', 'Field Prep']","['Firing Line', ""Fourth Time's the Charm"", 'Box Breathing']"
+tranquility,https://www.light.gg/db/items/1645386487,pvp,Sniper Rifle,Adaptive Frame,"['Corkscrew Rifling', 'Fluted Barrel', 'Arrowhead Brake']","['Tactical Mag', 'Accurized Rounds']","['Outlaw', 'No Distractions']","['Snapshot Sights', 'Opening Shot']"
+adjudicator,https://www.light.gg/db/items/2094938673,pve,Submachine Gun,Precision Frame,[],[],[],[]
+adjudicator,https://www.light.gg/db/items/2094938673,pvp,Submachine Gun,Precision Frame,[],[],[],[]
+antiope-d,https://www.light.gg/db/items/2561659919,pve,Submachine Gun,Precision Frame,[],[],[],[]
+antiope-d,https://www.light.gg/db/items/2561659919,pvp,Submachine Gun,Precision Frame,[],[],[],[]
+antiope-d,https://www.light.gg/db/items/566976653,pve,Submachine Gun,Precision Frame,[],[],[],[]
+antiope-d,https://www.light.gg/db/items/566976653,pvp,Submachine Gun,Precision Frame,[],[],[],[]
+atalanta-d,https://www.light.gg/db/items/2414612777,pve,Submachine Gun,Precision Frame,[],[],[],[]
+atalanta-d,https://www.light.gg/db/items/2414612777,pvp,Submachine Gun,Precision Frame,[],[],[],[]
+atalanta-d xg1992,https://www.light.gg/db/items/2422664927,pve,Submachine Gun,Precision Frame,"['SC Holo', 'GA Post', 'GB Iron']","['Extended Mag', 'Appended Mag', 'Light Mag']","['Slideways', 'Zen Moment']","['Kill Clip', 'Tap the Trigger', 'High-Impact Reserves']"
+atalanta-d xg1992,https://www.light.gg/db/items/2422664927,pvp,Submachine Gun,Precision Frame,['SC Holo'],"['High-Caliber Rounds', 'Ricochet Rounds']","['Slideways', 'Zen Moment', 'Moving Target']","['Kill Clip', 'Tap the Trigger', 'Grave Robber']"
+beidenhander,https://www.light.gg/db/items/516243773,pve,Submachine Gun,Precision Frame,[],[],[],[]
+beidenhander,https://www.light.gg/db/items/516243773,pvp,Submachine Gun,Precision Frame,[],[],[],[]
+cold front,https://www.light.gg/db/items/1506719573,pve,Submachine Gun,Aggressive Frame,"['Extended Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore', 'Fluted Barrel']","['Tactical Mag', 'Steady Rounds', 'Appended Mag', 'Extended Mag']","['Zen Moment', 'Feeding Frenzy', 'Auto-Loading Holster']","['Kill Clip', 'Vorpal Weapon', 'Osmosis']"
+cold front,https://www.light.gg/db/items/1506719573,pvp,Submachine Gun,Aggressive Frame,"['Extended Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore', 'Chambered Compensator', 'Full Bore']","['Tactical Mag', 'Steady Rounds', 'Accurized Rounds', 'Flared Magwell']","['Zen Moment', 'Feeding Frenzy', 'Underdog']","['Kill Clip', 'Vorpal Weapon', 'Rangefinder']"
+escape velocity,https://www.light.gg/db/items/1786797708,pve,Submachine Gun,Lightweight Frame,"['IS 2 Classic', 'IS 5 Circle', 'Model 6 Loop']","['Tactical Mag', 'Appended Mag', 'Flared Magwell']","['Overflow', 'Threat Detector', 'Grave Robber']","['Quickdraw', 'Osmosis', 'Surrounded']"
+escape velocity,https://www.light.gg/db/items/1786797708,pvp,Submachine Gun,Lightweight Frame,"['IS 2 Classic', 'IS 5 Circle', 'Model 6 Loop', 'Model 8 Red']","['Tactical Mag', 'Accurized Rounds', 'Steady Rounds']","['Overflow', 'Threat Detector', 'Zen Moment']","['Quickdraw', 'Elemental Capacitor', 'Vorpal Weapon']"
+escape velocity,https://www.light.gg/db/items/1459443448,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+escape velocity,https://www.light.gg/db/items/1459443448,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+exit strategy,https://www.light.gg/db/items/4227181568,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+exit strategy,https://www.light.gg/db/items/4227181568,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+hard truths,https://www.light.gg/db/items/105567493,pve,Submachine Gun,Aggressive Frame,"['IS 2 Classic', 'Model 8 Red']","['Appended Mag', 'High-Caliber Rounds', 'Alloy Magazine']","['Zen Moment', 'Pulse Monitor']","['Kill Clip', 'High-Impact Reserves', 'Grave Robber']"
+hard truths,https://www.light.gg/db/items/105567493,pvp,Submachine Gun,Aggressive Frame,"['IS 2 Classic', 'Model 8 Red']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Zen Moment', 'Snapshot Sights', 'Moving Target']","['Kill Clip', 'Tap the Trigger', 'Threat Detector']"
+imminent storm,https://www.light.gg/db/items/2611861926,pve,Submachine Gun,Aggressive Frame,[],[],[],[]
+imminent storm,https://www.light.gg/db/items/2611861926,pvp,Submachine Gun,Aggressive Frame,[],[],[],[]
+motion to suppress,https://www.light.gg/db/items/3950088638,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+motion to suppress,https://www.light.gg/db/items/3950088638,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+multimach ccx,https://www.light.gg/db/items/4265183314,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+multimach ccx,https://www.light.gg/db/items/4265183314,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+new city,https://www.light.gg/db/items/2414612776,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+new city,https://www.light.gg/db/items/2414612776,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+pillager,https://www.light.gg/db/items/2653316158,pve,Submachine Gun,Lightweight Frame,"['Polygonal Rifling', 'Hammer-Forged Rifling', 'Smallbore']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds', 'Alloy Magazine']","['Zen Moment', 'Outlaw']","['Kill Clip', 'Rampage', 'High-Impact Reserves']"
+pillager,https://www.light.gg/db/items/2653316158,pvp,Submachine Gun,Lightweight Frame,"['Polygonal Rifling', 'Chambered Compensator', 'Corkscrew Rifling']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Zen Moment', 'Grave Robber']","['Kill Clip', 'Moving Target', 'Under Pressure']"
+the conqueror 2,https://www.light.gg/db/items/3991544423,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+the conqueror 2,https://www.light.gg/db/items/3991544423,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+the showrunner,https://www.light.gg/db/items/1200414607,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+the showrunner,https://www.light.gg/db/items/1200414607,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+trackless waste,https://www.light.gg/db/items/2681395357,pve,Submachine Gun,Adaptive Frame,"['Wolf Sight W1', 'King Sight K1', 'Dusk Sight D1', 'Wolf Dot W2', 'King Dot K2', 'Dusk Dot D1']","['Appended Mag', 'High-Caliber Rounds', 'Alloy Magazine']","['Grave Robber', 'Zen Moment']","['Kill Clip', 'High-Impact Reserves']"
+trackless waste,https://www.light.gg/db/items/2681395357,pvp,Submachine Gun,Adaptive Frame,"['Wolf Sight W1', 'King Sight K1', 'Dusk Sight D1', 'Wolf Dot W2', 'King Dot K2', 'Dusk Dot D1']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Threat Detector', 'Tap the Trigger', 'Quickdraw']","['Kill Clip', 'Dynamic Sway Reduction', 'Snapshot Sights']"
+age-old bond,https://www.light.gg/db/items/601592879,pve,Auto Rifle,High-Impact Frame,"['Chambered Compensator', 'Extended Barrel', 'Polygonal Rifling']","['Ricochet Rounds', 'Light Mag']",['Zen Moment'],['Kill Clip']
+age-old bond,https://www.light.gg/db/items/601592879,pvp,Auto Rifle,High-Impact Frame,[],[],[],[]
+arc logic,https://www.light.gg/db/items/2723909519,pve,Auto Rifle,Adaptive Frame,"['Smallbore', 'Corkscrew Rifling', 'Fluted Barrel']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Outlaw', 'Overflow', 'Field Prep']","['Triple Tap', 'Demolitionist', 'Rampage']"
+arc logic,https://www.light.gg/db/items/2723909519,pvp,Auto Rifle,Adaptive Frame,"['Smallbore', 'Arrowhead Brake', 'Extended Barrel']",['Accurized Rounds'],"['Outlaw', 'Moving Target']","['Tap the Trigger', 'Rangefinder']"
+dark decider,https://www.light.gg/db/items/1942069133,pve,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+dark decider,https://www.light.gg/db/items/1942069133,pvp,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+galliard-42,https://www.light.gg/db/items/3778520451,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+galliard-42,https://www.light.gg/db/items/3778520451,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+galliard-42 xn7568,https://www.light.gg/db/items/1775804198,pve,Auto Rifle,Adaptive Frame,"['SLO-12 Post', 'SLO-21 Post', 'SLO-10 Post', 'SPO-57 Front', 'SPO-26 Front']","['Extended Mag', 'High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Quickdraw', 'Under Pressure', 'Outlaw']","['Rampage', 'High-Impact Reserves', 'Kill Clip', 'Grave Robber']"
+galliard-42 xn7568,https://www.light.gg/db/items/1775804198,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+gnawing hunger,https://www.light.gg/db/items/821154603,pve,Auto Rifle,Adaptive Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling']","['Tactical Mag', 'Appended Mag', 'Extended Mag']","['Tap the Trigger', 'Zen Moment', 'Subsistence']","['Demolitionist', 'Rampage', 'Multikill Clip']"
+gnawing hunger,https://www.light.gg/db/items/821154603,pvp,Auto Rifle,Adaptive Frame,"['Extended Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['Tactical Mag', 'Accurized Rounds']","['Tap the Trigger', 'Zen Moment']","['Demolitionist', 'Kill Clip']"
+hollow earth,https://www.light.gg/db/items/1842303080,pve,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+hollow earth,https://www.light.gg/db/items/1842303080,pvp,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+jiangshi ar4,https://www.light.gg/db/items/3778520449,pve,Auto Rifle,Precision Frame,[],[],[],[]
+jiangshi ar4,https://www.light.gg/db/items/3778520449,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+kibou ar3,https://www.light.gg/db/items/4014434381,pve,Auto Rifle,Precision Frame,[],[],[],[]
+kibou ar3,https://www.light.gg/db/items/4014434381,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+martyr's make,https://www.light.gg/db/items/3336215727,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+martyr's make,https://www.light.gg/db/items/3336215727,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+medley-45,https://www.light.gg/db/items/3920811074,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+medley-45,https://www.light.gg/db/items/3920811074,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+misfit,https://www.light.gg/db/items/819441402,pve,Auto Rifle,Rapid-Fire Frame,"['King Sight K1', 'Dusk Sight D1', 'Dusk Dot D1']","['High-Caliber Rounds', 'Flared Magwell', 'Light Mag']","['Tap the Trigger', 'Zen Moment', 'Dynamic Sway Reduction']","['Rampage', 'High-Impact Reserves', 'Under Pressure']"
+misfit,https://www.light.gg/db/items/819441402,pvp,Auto Rifle,Rapid-Fire Frame,"['King Sight K1', 'Dusk Sight D1', 'Dusk Dot D1']","['High-Caliber Rounds', 'Extended Mag']","['Tap the Trigger', 'Zen Moment', 'Snapshot Sights']","['Rampage', 'High-Impact Reserves', 'Under Pressure']"
+null calamity 9,https://www.light.gg/db/items/3188460622,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+null calamity 9,https://www.light.gg/db/items/3188460622,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+perseverance,https://www.light.gg/db/items/1327432221,pve,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+perseverance,https://www.light.gg/db/items/1327432221,pvp,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+positive outlook,https://www.light.gg/db/items/3393130645,pve,Auto Rifle,Precision Frame,[],[],[],[]
+positive outlook,https://www.light.gg/db/items/3393130645,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+prosecutor,https://www.light.gg/db/items/1909527966,pve,Auto Rifle,Precision Frame,[],[],[],[]
+prosecutor,https://www.light.gg/db/items/1909527966,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+reckless oracle,https://www.light.gg/db/items/3385326721,pve,Auto Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Chambered Compensator', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Extended Mag', 'Light Mag']","['Outlaw', 'Auto-Loading Holster']","['Kill Clip', 'Swashbuckler', 'Demolitionist']"
+reckless oracle,https://www.light.gg/db/items/3385326721,pvp,Auto Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Extended Barrel']","['High-Caliber Rounds', 'Ricochet Rounds']","['Outlaw', 'Mulligan']","['Kill Clip', 'Swashbuckler', 'Demolitionist']"
+restoration viii,https://www.light.gg/db/items/705774642,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+restoration viii,https://www.light.gg/db/items/705774642,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+solemn hymn,https://www.light.gg/db/items/3762467077,pve,Auto Rifle,Adaptive Frame,[],[],[],[]
+solemn hymn,https://www.light.gg/db/items/3762467077,pvp,Auto Rifle,Adaptive Frame,[],[],[],[]
+the number,https://www.light.gg/db/items/3854359821,pve,Auto Rifle,Precision Frame,[],[],[],[]
+the number,https://www.light.gg/db/items/3854359821,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+the ringing nail,https://www.light.gg/db/items/93253474,pve,Auto Rifle,Precision Frame,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds', 'Extended Mag', 'Light Mag']","['Zen Moment', 'Dragonfly', 'Shield Disorient']","['Kill Clip', 'Rampage', 'Disruption Break', 'High-Impact Reserves']"
+the ringing nail,https://www.light.gg/db/items/93253474,pvp,Auto Rifle,Precision Frame,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Zen Moment', 'Quickdraw']","['Kill Clip', 'Rampage', 'Disruption Break', 'Tap the Trigger']"
+the summoner,https://www.light.gg/db/items/1907698332,pve,Auto Rifle,Adaptive Frame,"['Arrowhead Brake', 'Extended Barrel', 'Fluted Barrel']","['High-Caliber Rounds', 'Light Mag', 'Appended Mag']","['Overflow', 'Moving Target']","['Elemental Capacitor', 'Rampage', 'Dragonfly']"
+the summoner,https://www.light.gg/db/items/1907698332,pvp,Auto Rifle,Adaptive Frame,"['Arrowhead Brake', 'Extended Barrel', 'Chambered Compensator', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Light Mag', 'Ricochet Rounds', 'Flared Magwell']","['Overflow', 'Moving Target', 'Zen Moment']","['Elemental Capacitor', 'Rangefinder', 'Celerity']"
+uriel's gift,https://www.light.gg/db/items/3762467076,pve,Auto Rifle,Precision Frame,[],[],[],[]
+uriel's gift,https://www.light.gg/db/items/3762467076,pvp,Auto Rifle,Precision Frame,[],[],[],[]
+uriel's gift,https://www.light.gg/db/items/3863882743,pve,Auto Rifle,Precision Frame,"['Torch HS3', 'Candle PS', 'Spark PS']","['High-Caliber Rounds', 'Ricochet Rounds', 'Armor-Piercing Rounds']","['Firmly Planted', 'Quickdraw', 'Field Prep']","['Tap the Trigger', 'Kill Clip', 'Disruption Break']"
+uriel's gift,https://www.light.gg/db/items/3863882743,pvp,Auto Rifle,Precision Frame,['Torch HS3'],"['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell']","['Firmly Planted', 'Quickdraw']","['Tap the Trigger', 'Kill Clip', 'Moving Target']"
+valakadyn,https://www.light.gg/db/items/1518042135,pve,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+valakadyn,https://www.light.gg/db/items/1518042135,pvp,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+valakadyn,https://www.light.gg/db/items/3762467079,pve,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+valakadyn,https://www.light.gg/db/items/3762467079,pvp,Auto Rifle,Rapid-Fire Frame,[],[],[],[]
+arsenic bite-4b,https://www.light.gg/db/items/720351795,pve,Combat Bow,Lightweight Frame,[],[],[],[]
+arsenic bite-4b,https://www.light.gg/db/items/720351795,pvp,Combat Bow,Lightweight Frame,[],[],[],[]
+hush,https://www.light.gg/db/items/1584643826,pve,Combat Bow,Precision Frame,[],[],[],[]
+hush,https://www.light.gg/db/items/1584643826,pvp,Combat Bow,Precision Frame,[],[],[],[]
+point of the stag,https://www.light.gg/db/items/3434944005,pve,Combat Bow,Precision Frame,[],[],[],[]
+point of the stag,https://www.light.gg/db/items/3434944005,pvp,Combat Bow,Precision Frame,[],[],[],[]
+subtle calamity,https://www.light.gg/db/items/3410721600,pve,Combat Bow,Precision Frame,"['Flexible String', 'Natural String', 'Polymer String']","['Carbon Arrow Shaft', 'Compact Arrow Shaft', 'Fiberglass Arrow Shaft']","['Rampage', 'Dragonfly']","['Explosive Head', ""Archer's Tempo""]"
+subtle calamity,https://www.light.gg/db/items/3410721600,pvp,Combat Bow,Precision Frame,"['Flexible String', 'Natural String', 'Polymer String']","['Carbon Arrow Shaft', 'Compact Arrow Shaft', 'Fiberglass Arrow Shaft']","['Hip-Fire Grip', 'Moving Target']","['Explosive Head', ""Archer's Tempo"", 'Sneak Bow']"
+the vow,https://www.light.gg/db/items/2009106091,pve,Combat Bow,Lightweight Frame,[],[],[],[]
+the vow,https://www.light.gg/db/items/2009106091,pvp,Combat Bow,Lightweight Frame,[],[],[],[]
+tyranny of heaven,https://www.light.gg/db/items/2721249463,pve,Combat Bow,Lightweight Frame,"['Flexible String', 'High Tension String']",['Straight Fletching'],"['Sneak Bow', ""Archer's Tempo""]",['Rampage']
+tyranny of heaven,https://www.light.gg/db/items/2721249463,pvp,Combat Bow,Lightweight Frame,[],[],[],[]
+cartesian coordinate,https://www.light.gg/db/items/2502422772,pve,Fusion Rifle,Rapid-Fire Frame,[],[],[],[]
+cartesian coordinate,https://www.light.gg/db/items/2502422772,pvp,Fusion Rifle,Rapid-Fire Frame,[],[],[],[]
+conjecture tsc,https://www.light.gg/db/items/3005879472,pve,Fusion Rifle,High-Impact Frame,[],[],[],[]
+conjecture tsc,https://www.light.gg/db/items/3005879472,pvp,Fusion Rifle,High-Impact Frame,[],[],[],[]
+critical sass,https://www.light.gg/db/items/1773600468,pve,Fusion Rifle,Rapid-Fire Frame,[],[],[],[]
+critical sass,https://www.light.gg/db/items/1773600468,pvp,Fusion Rifle,Rapid-Fire Frame,[],[],[],[]
+dream breaker,https://www.light.gg/db/items/2931957300,pve,Fusion Rifle,Adaptive Frame,"['Fluted Barrel', 'Corkscrew Rifling']","['Liquid Coils', 'Accelerated Coils', 'Enhanced Battery']","['Auto-Loading Holster', 'Underdog', 'Threat Detector']","['Rampage', 'Backup Plan', 'Disruption Break']"
+dream breaker,https://www.light.gg/db/items/2931957300,pvp,Fusion Rifle,Adaptive Frame,"['Fluted Barrel', 'Arrowhead Brake', 'Hammer-Forged Rifling']","['Liquid Coils', 'Particle Repeater', 'Projection Fuse']","['Firmly Planted', 'Moving Target', 'Rangefinder']","['Rampage', 'Backup Plan', 'Tap the Trigger']"
+elatha fr4,https://www.light.gg/db/items/4106983932,pve,Fusion Rifle,High-Impact Frame,"['Torch HS3', 'Candle PS', 'Spark PS']","['Enhanced Battery', 'Liquid Coils']","['Quickdraw', 'Firmly Planted', 'Field Prep']","['Demolitionist', 'Backup Plan', 'Kill Clip', 'Surrounded']"
+elatha fr4,https://www.light.gg/db/items/4106983932,pvp,Fusion Rifle,High-Impact Frame,['Torch HS3'],"['Particle Repeater', 'Projection Fuse']","['Quickdraw', 'Firmly Planted', 'No Distractions']","['Demolitionist', 'Backup Plan', 'Snapshot Sights']"
+elatha fr4,https://www.light.gg/db/items/4105447487,pve,Fusion Rifle,High-Impact Frame,[],[],[],[]
+elatha fr4,https://www.light.gg/db/items/4105447487,pvp,Fusion Rifle,High-Impact Frame,[],[],[],[]
+erentil fr4,https://www.light.gg/db/items/2398848320,pve,Fusion Rifle,High-Impact Frame,[],[],[],[]
+erentil fr4,https://www.light.gg/db/items/2398848320,pvp,Fusion Rifle,High-Impact Frame,[],[],[],[]
+erentil fr4,https://www.light.gg/db/items/3027844941,pve,Fusion Rifle,High-Impact Frame,"['Flash HS5', 'Torch HS3', 'Signal MS5', 'Impulse MS3']","['Particle Repeater', 'Projection Fuse', 'Enhanced Battery']","['Moving Target', 'Under Pressure', 'Firmly Planted', 'Auto-Loading Holster']","['Backup Plan', 'Rampage', 'Tap the Trigger', 'Kill Clip', 'High-Impact Reserves']"
+erentil fr4,https://www.light.gg/db/items/3027844941,pvp,Fusion Rifle,High-Impact Frame,"['Flash HS5', 'Torch HS3']","['Particle Repeater', 'Projection Fuse', 'Liquid Coils']","['Moving Target', 'Snapshot Sights']","['Backup Plan', 'Rampage', 'Tap the Trigger', 'Rangefinder']"
+exile's curse,https://www.light.gg/db/items/679281855,pve,Fusion Rifle,High-Impact Frame,"['Fluted Barrel', 'Smallbore', 'Arrowhead Brake']","['Liquid Coils', 'Enhanced Battery', 'Ionized Battery']","['Field Prep', 'Grave Robber']","['Elemental Capacitor', 'Feeding Frenzy', 'Multikill Clip', 'Disruption Break']"
+exile's curse,https://www.light.gg/db/items/679281855,pvp,Fusion Rifle,High-Impact Frame,"['Fluted Barrel', 'Smallbore', 'Polygonal Rifling']","['Liquid Coils', 'Particle Repeater']","['No Distractions', 'Firmly Planted']","['Elemental Capacitor', 'Feeding Frenzy', 'Celerity']"
+gallant charge,https://www.light.gg/db/items/1706206669,pve,Fusion Rifle,High-Impact Frame,"['Chambered Compensator', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore', 'Fluted Barrel']","['Liquid Coils', 'Enhanced Battery']","['Demolitionist', 'Auto-Loading Holster', 'Grave Robber']","['Swashbuckler', 'Lead from Gold', 'Multikill Clip']"
+gallant charge,https://www.light.gg/db/items/1706206669,pvp,Fusion Rifle,High-Impact Frame,"['Chambered Compensator', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore', 'Extended Barrel', 'Full Bore']","['Liquid Coils', 'Particle Repeater', 'Projection Fuse']","['Demolitionist', 'Auto-Loading Holster', 'Hip-Fire Grip']","['Swashbuckler', 'Rangefinder', 'Tap the Trigger']"
+loaded question,https://www.light.gg/db/items/580961571,pve,Fusion Rifle,High-Impact Frame,[],[],[],[]
+loaded question,https://www.light.gg/db/items/580961571,pvp,Fusion Rifle,High-Impact Frame,[],[],[],[]
+main ingredient,https://www.light.gg/db/items/3445437901,pve,Fusion Rifle,Precision Frame,[],[],[],[]
+main ingredient,https://www.light.gg/db/items/3445437901,pvp,Fusion Rifle,Precision Frame,[],[],[],[]
+main ingredient,https://www.light.gg/db/items/253196586,pve,Fusion Rifle,Precision Frame,"['Hitmark IS', 'Cleanshot IS']",['Enhanced Battery'],"['Under Pressure', 'Auto-Loading Holster']","['Rampage', 'Kill Clip', 'High-Impact Reserves']"
+main ingredient,https://www.light.gg/db/items/253196586,pvp,Fusion Rifle,Precision Frame,"['Hitmark IS', 'Red Dot 2 MOA', 'Red Dot Micro']","['Liquid Coils', 'Particle Repeater', 'Projection Fuse']","['Snapshot Sights', 'Moving Target']","['Rampage', 'Backup Plan', 'Rangefinder', 'Tap the Trigger']"
+nox echo iii,https://www.light.gg/db/items/2502422774,pve,Fusion Rifle,Adaptive Frame,[],[],[],[]
+nox echo iii,https://www.light.gg/db/items/2502422774,pvp,Fusion Rifle,Adaptive Frame,[],[],[],[]
+nox veneris ii,https://www.light.gg/db/items/4105447486,pve,Fusion Rifle,Adaptive Frame,[],[],[],[]
+nox veneris ii,https://www.light.gg/db/items/4105447486,pvp,Fusion Rifle,Adaptive Frame,[],[],[],[]
+proelium fr3,https://www.light.gg/db/items/3027844940,pve,Fusion Rifle,Rapid-Fire Frame,"['Flash HS5', 'Torch HS3']",['Enhanced Battery'],"['Under Pressure', 'Auto-Loading Holster', 'Threat Detector']","['Rampage', 'Kill Clip', 'High-Impact Reserves']"
+proelium fr3,https://www.light.gg/db/items/3027844940,pvp,Fusion Rifle,Rapid-Fire Frame,"['Flash HS5', 'Torch HS3']","['Liquid Coils', 'Particle Repeater', 'Projection Fuse']","['Snapshot Sights', 'Moving Target']","['Rampage', 'Backup Plan', 'Rangefinder', 'Tap the Trigger']"
+proelium fr3,https://www.light.gg/db/items/618554398,pve,Fusion Rifle,Rapid-Fire Frame,[],[],[],[]
+proelium fr3,https://www.light.gg/db/items/618554398,pvp,Fusion Rifle,Rapid-Fire Frame,[],[],[],[]
+shock and awe,https://www.light.gg/db/items/2502422773,pve,Fusion Rifle,High-Impact Frame,[],[],[],[]
+shock and awe,https://www.light.gg/db/items/2502422773,pvp,Fusion Rifle,High-Impact Frame,[],[],[],[]
+techeun force,https://www.light.gg/db/items/4094657108,pve,Fusion Rifle,Adaptive Frame,"['Chambered Compensator', 'Hammer-Forged Rifling', 'Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling', 'Smallbore']","['Accelerated Coils', 'Enhanced Battery']","['Kill Clip', 'Under Pressure']","['Backup Plan', 'Rampage', 'High-Impact Reserves']"
+techeun force,https://www.light.gg/db/items/4094657108,pvp,Fusion Rifle,Adaptive Frame,"['Chambered Compensator', 'Hammer-Forged Rifling', 'Arrowhead Brake']","['Liquid Coils', 'Particle Repeater', 'Projection Fuse']","['Kill Clip', 'Snapshot Sights']","['Backup Plan', 'Rampage', 'Rangefinder']"
+tempered dynamo,https://www.light.gg/db/items/2753269585,pve,Fusion Rifle,Precision Frame,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Enhanced Battery', 'Liquid Coils', 'Particle Repeater', 'Projection Fuse']","['Opening Shot', 'Shield Disorient']","['Rampage', 'Kill Clip', 'High-Impact Reserves']"
+tempered dynamo,https://www.light.gg/db/items/2753269585,pvp,Fusion Rifle,Precision Frame,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Enhanced Battery', 'Liquid Coils', 'Particle Repeater', 'Projection Fuse']","['Opening Shot', 'Backup Plan']","['Rampage', 'Kill Clip', 'High-Impact Reserves', 'Disruption Break']"
+the emperor's envy,https://www.light.gg/db/items/4288031461,pve,Fusion Rifle,Precision Frame,[],[],[],[]
+the emperor's envy,https://www.light.gg/db/items/4288031461,pvp,Fusion Rifle,Precision Frame,[],[],[],[]
+the epicurean,https://www.light.gg/db/items/4124357815,pve,Fusion Rifle,Precision Frame,"['Hammer-Forged Rifling', 'Smallbore', 'Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling']","['Liquid Coils', 'Projection Fuse', 'Enhanced Battery', 'Particle Repeater']","['Tap the Trigger', 'Feeding Frenzy', 'Quickdraw']","['Demolitionist', 'Backup Plan', 'Swashbuckler', 'Moving Target']"
+the epicurean,https://www.light.gg/db/items/4124357815,pvp,Fusion Rifle,Precision Frame,"['Hammer-Forged Rifling', 'Smallbore', 'Full Bore']","['Liquid Coils', 'Projection Fuse']","['Tap the Trigger', 'Feeding Frenzy', 'Quickdraw', 'Under Pressure']","['Demolitionist', 'Backup Plan', 'Swashbuckler', 'Rangefinder']"
+the wizened rebuke,https://www.light.gg/db/items/930590127,pve,Fusion Rifle,High-Impact Frame,"['Red Dot 2 MOA', 'Red Dot Micro', 'Cleanshot IS']","['Projection Fuse', 'Enhanced Battery', 'Particle Repeater']","['Auto-Loading Holster', 'Threat Detector']","['Backup Plan', 'High-Impact Reserves', 'Demolitionist']"
+the wizened rebuke,https://www.light.gg/db/items/930590127,pvp,Fusion Rifle,High-Impact Frame,"['Red Dot 2 MOA', 'Red Dot Micro']","['Projection Fuse', 'Liquid Coils']","['Auto-Loading Holster', 'Under Pressure', 'Moving Target']","['Backup Plan', 'High-Impact Reserves', 'Demolitionist', 'Rangefinder', 'Tap the Trigger']"
+the wizened rebuke,https://www.light.gg/db/items/2961807684,pve,Fusion Rifle,High-Impact Frame,[],[],[],[]
+the wizened rebuke,https://www.light.gg/db/items/2961807684,pvp,Fusion Rifle,High-Impact Frame,[],[],[],[]
+timelines' vertex,https://www.light.gg/db/items/1006783454,pve,Fusion Rifle,Adaptive Frame,[],[],[],[]
+timelines' vertex,https://www.light.gg/db/items/1006783454,pvp,Fusion Rifle,Adaptive Frame,[],[],[],[]
+timelines' vertex,https://www.light.gg/db/items/3055192515,pve,Fusion Rifle,Adaptive Frame,"['Torch HS3', 'Candle PS', 'Spark PS']","['Liquid Coils', 'Enhanced Battery', 'Ionized Battery']","['Lead from Gold', 'Field Prep', 'Auto-Loading Holster']","['Elemental Capacitor', 'Demolitionist', 'Disruption Break']"
+timelines' vertex,https://www.light.gg/db/items/3055192515,pvp,Fusion Rifle,Adaptive Frame,"['Torch HS3', 'Impulse MS3', 'Flash HS5']","['Liquid Coils', 'Particle Repeater']",['Firmly Planted'],"['Elemental Capacitor', 'Demolitionist', 'Snapshot Sights']"
+zealot's reward,https://www.light.gg/db/items/2209003210,pve,Fusion Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Extended Barrel', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['Accelerated Coils', 'Liquid Coils', 'Projection Fuse']","['Feeding Frenzy', 'Auto-Loading Holster', 'Shield Disorient']","['Backup Plan', 'Rampage', 'Disruption Break']"
+zealot's reward,https://www.light.gg/db/items/2209003210,pvp,Fusion Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Extended Barrel', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['Accelerated Coils', 'Liquid Coils', 'Projection Fuse', 'Particle Repeater']","['Feeding Frenzy', 'Auto-Loading Holster', 'Under Pressure']",['Backup Plan']
+flash and thunder,https://www.light.gg/db/items/1983332560,pve,Grenade Launcher,Lightweight Frame,[],[],[],[]
+flash and thunder,https://www.light.gg/db/items/1983332560,pvp,Grenade Launcher,Lightweight Frame,[],[],[],[]
+martyr's retribution,https://www.light.gg/db/items/3850168899,pve,Grenade Launcher,Wave Frame,"['Countermass', 'Quick Launch', 'Smart Drift Control']","['High-Velocity Rounds', 'Implosion Rounds']","['Auto-Loading Holster', 'Field Prep']","['Rangefinder', 'Demolitionist', 'Lead from Gold']"
+martyr's retribution,https://www.light.gg/db/items/3850168899,pvp,Grenade Launcher,Wave Frame,"['Volatile Launch', 'Confined Launch', 'Linear Compensator']","['High-Velocity Rounds', 'Implosion Rounds']","['Auto-Loading Holster', 'Field Prep']","['Rangefinder', 'Demolitionist']"
+orewing's maul,https://www.light.gg/db/items/2108920981,pve,Grenade Launcher,Lightweight Frame,"['Linear Compensator', 'Quick Launch', 'Smart Drift Control']","['Spike Grenades', 'High-Velocity Rounds']","['Grave Robber', 'Field Prep', 'Pulse Monitor']","['Auto-Loading Holster', 'Demolitionist']"
+orewing's maul,https://www.light.gg/db/items/2108920981,pvp,Grenade Launcher,Lightweight Frame,"['Volatile Launch', 'Countermass', 'Hard Launch']","['Spike Grenades', 'Proximity Grenades']",['Quickdraw'],"['Auto-Loading Holster', 'Demolitionist']"
+orewing's maul,https://www.light.gg/db/items/1870979911,pve,Grenade Launcher,Lightweight Frame,[],[],[],[]
+orewing's maul,https://www.light.gg/db/items/1870979911,pvp,Grenade Launcher,Lightweight Frame,[],[],[],[]
+truthteller,https://www.light.gg/db/items/3252697558,pve,Grenade Launcher,Lightweight Frame,[],[],[],[]
+truthteller,https://www.light.gg/db/items/3252697558,pvp,Grenade Launcher,Lightweight Frame,[],[],[],[]
+a cold sweat,https://www.light.gg/db/items/2071412133,pve,Hand Cannon,Precision Frame,[],[],[],[]
+a cold sweat,https://www.light.gg/db/items/2071412133,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+ancient gospel,https://www.light.gg/db/items/48643186,pve,Hand Cannon,Adaptive Frame,"['Smallbore', 'Chambered Compensator', 'Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Extended Mag']","['Rapid Hit', 'Slideshot', 'Outlaw']","['Kill Clip', 'Swashbuckler', 'Dragonfly']"
+ancient gospel,https://www.light.gg/db/items/48643186,pvp,Hand Cannon,Adaptive Frame,"['Smallbore', 'Full Bore', 'Hammer-Forged Rifling']","['Tactical Mag', 'Accurized Rounds']","['Rapid Hit', 'Slideshot', 'Outlaw', 'Eye of the Storm']","['Kill Clip', 'Swashbuckler', 'Rangefinder']"
+annual skate,https://www.light.gg/db/items/2145476623,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+annual skate,https://www.light.gg/db/items/2145476623,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+daedalus code,https://www.light.gg/db/items/1351035691,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+daedalus code,https://www.light.gg/db/items/1351035691,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+finite impactor,https://www.light.gg/db/items/701922966,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+finite impactor,https://www.light.gg/db/items/701922966,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+ikelos_hc_v1.0.1,https://www.light.gg/db/items/3866356643,pve,Hand Cannon,Precision Frame,[],[],[],[]
+ikelos_hc_v1.0.1,https://www.light.gg/db/items/3866356643,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+imset hc4,https://www.light.gg/db/items/3860697510,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+imset hc4,https://www.light.gg/db/items/3860697510,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+jack queen king 3,https://www.light.gg/db/items/410996590,pve,Hand Cannon,Lightweight Frame,"['TrueSight HCS', 'HitMark HCS', 'Fastdraw HCS', 'SteadyHand HCS']","['High-Caliber Rounds', 'Ricochet Rounds', 'Appended Mag', 'Armor-Piercing Rounds', 'Flared Magwell']","['Demolitionist', 'Subsistence', 'Auto-Loading Holster', 'Ambitious Assassin']","['Rampage', 'Swashbuckler', 'Dragonfly', 'Surrounded']"
+jack queen king 3,https://www.light.gg/db/items/410996590,pvp,Hand Cannon,Lightweight Frame,"['TrueSight HCS', 'HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']","['High-Caliber Rounds', 'Ricochet Rounds']","['Demolitionist', 'Subsistence', 'Threat Detector']","['Rampage', 'Swashbuckler', 'Snapshot Sights']"
+jack queen king 3,https://www.light.gg/db/items/3285365666,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+jack queen king 3,https://www.light.gg/db/items/3285365666,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+kindled orchid,https://www.light.gg/db/items/2575506895,pve,Hand Cannon,Adaptive Frame,['Hammer-Forged Rifling'],"['Accurized Rounds', 'Appended Mag', 'Tactical Mag', 'Flared Magwell']","['Outlaw', 'Kill Clip', 'Shield Disorient']","['Rapid Hit', 'Rampage', 'Disruption Break']"
+kindled orchid,https://www.light.gg/db/items/2575506895,pvp,Hand Cannon,Adaptive Frame,"['Hammer-Forged Rifling', 'Extended Barrel', 'Full Bore', 'Smallbore']",['Accurized Rounds'],"['Outlaw', 'Kill Clip', 'Rangefinder', 'Quickdraw']","['Rapid Hit', 'Rampage', 'Explosive Payload']"
+luna's howl,https://www.light.gg/db/items/153979396,pve,Hand Cannon,Precision Frame,[],[],[],[]
+luna's howl,https://www.light.gg/db/items/153979396,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+minuet-42,https://www.light.gg/db/items/3860697508,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+minuet-42,https://www.light.gg/db/items/3860697508,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+nation of beasts,https://www.light.gg/db/items/654370424,pve,Hand Cannon,Adaptive Frame,"['Extended Barrel', 'Full Bore', 'Hammer-Forged Rifling']",['Accurized Rounds'],['Outlaw'],['Kill Clip']
+nation of beasts,https://www.light.gg/db/items/654370424,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+nature of the beast,https://www.light.gg/db/items/468276817,pve,Hand Cannon,Precision Frame,[],[],[],[]
+nature of the beast,https://www.light.gg/db/items/468276817,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+not forgotten,https://www.light.gg/db/items/153979399,pve,Hand Cannon,Precision Frame,[],[],[],[]
+not forgotten,https://www.light.gg/db/items/153979399,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+older sister iii,https://www.light.gg/db/items/2693941407,pve,Hand Cannon,Adaptive Frame,[],[],[],[]
+older sister iii,https://www.light.gg/db/items/2693941407,pvp,Hand Cannon,Adaptive Frame,[],[],[],[]
+optative,https://www.light.gg/db/items/2138599001,pve,Hand Cannon,Precision Frame,"['Hammer-Forged Rifling', 'Corkscrew Rifling', 'Fluted Barrel']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Rapid Hit', 'Outlaw', ""Fourth Time's the Charm""]","['Kill Clip', 'Demolitionist']"
+optative,https://www.light.gg/db/items/2138599001,pvp,Hand Cannon,Precision Frame,"['Hammer-Forged Rifling', 'Extended Barrel', 'Full Bore']",['Accurized Rounds'],"['Rapid Hit', 'Outlaw']","['Kill Clip', 'Opening Shot']"
+shattered peace,https://www.light.gg/db/items/2145476622,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+shattered peace,https://www.light.gg/db/items/2145476622,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+the defiant,https://www.light.gg/db/items/2817949113,pve,Hand Cannon,Lightweight Frame,[],[],[],[]
+the defiant,https://www.light.gg/db/items/2817949113,pvp,Hand Cannon,Lightweight Frame,[],[],[],[]
+thin line,https://www.light.gg/db/items/1178886909,pve,Hand Cannon,Aggressive Frame,[],[],[],[]
+thin line,https://www.light.gg/db/items/1178886909,pvp,Hand Cannon,Aggressive Frame,[],[],[],[]
+trust,https://www.light.gg/db/items/4077196130,pve,Hand Cannon,Precision Frame,"['Extended Barrel', 'Full Bore', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['Accurized Rounds', 'Extended Mag', 'Alloy Magazine', 'Flared Magwell']","['Dragonfly', 'Outlaw', 'Triple Tap']","['Explosive Payload', 'Rampage', 'Rapid Hit', 'Zen Moment']"
+trust,https://www.light.gg/db/items/4077196130,pvp,Hand Cannon,Precision Frame,[],[],[],[]
+waking vigil,https://www.light.gg/db/items/334171687,pve,Hand Cannon,Lightweight Frame,"['HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']","['Extended Mag', 'Ricochet Rounds', 'Flared Magwell', 'Alloy Magazine']","['Opening Shot', 'Triple Tap', 'Zen Moment']","['Outlaw', 'Dragonfly']"
+waking vigil,https://www.light.gg/db/items/334171687,pvp,Hand Cannon,Lightweight Frame,"['HitMark HCS', 'Crossfire HCS', 'Sureshot HCS']","['Extended Mag', 'Ricochet Rounds', 'Flared Magwell']",['Opening Shot'],"['Outlaw', 'Slideshot']"
+adhortative,https://www.light.gg/db/items/1167153950,pve,Pulse Rifle,Adaptive Frame,"['Arrowhead Brake', 'Extended Barrel', 'Chambered Compensator', 'Corkscrew Rifling', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag', 'Extended Mag', 'Appended Mag', 'Armor-Piercing Rounds', 'Flared Magwell']","['Feeding Frenzy', 'Underdog', 'Field Prep']","['Dragonfly', 'Rampage', 'Multikill Clip']"
+adhortative,https://www.light.gg/db/items/1167153950,pvp,Pulse Rifle,Adaptive Frame,"['Arrowhead Brake', 'Extended Barrel']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Feeding Frenzy', 'Underdog', 'Firmly Planted']","['Dragonfly', 'Rangefinder']"
+agenda 5,https://www.light.gg/db/items/1513927139,pve,Pulse Rifle,Lightweight Frame,[],[],[],[]
+agenda 5,https://www.light.gg/db/items/1513927139,pvp,Pulse Rifle,Lightweight Frame,[],[],[],[]
+agrona pr4,https://www.light.gg/db/items/1178397318,pve,Pulse Rifle,Lightweight Frame,[],[],[],[]
+agrona pr4,https://www.light.gg/db/items/1178397318,pvp,Pulse Rifle,Lightweight Frame,[],[],[],[]
+cadenza-43,https://www.light.gg/db/items/339343291,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+cadenza-43,https://www.light.gg/db/items/339343291,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+claws of the wolf,https://www.light.gg/db/items/1280933460,pve,Pulse Rifle,Rapid-Fire Frame,['Chambered Compensator'],['Ricochet Rounds'],"['Outlaw', 'Slideshot']","['Kill Clip', 'Rangefinder']"
+claws of the wolf,https://www.light.gg/db/items/1280933460,pvp,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+darkest before,https://www.light.gg/db/items/325519402,pve,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+darkest before,https://www.light.gg/db/items/325519402,pvp,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+heart of time,https://www.light.gg/db/items/4145119417,pve,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+heart of time,https://www.light.gg/db/items/4145119417,pvp,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+horror's least,https://www.light.gg/db/items/1071542914,pve,Pulse Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Smallbore']","['Extended Mag', 'High-Caliber Rounds', 'Flared Magwell', 'Light Mag']","['Zen Moment', 'Full Auto Trigger System', 'Under Pressure']","['Kill Clip', 'High-Impact Reserves', 'Dragonfly']"
+horror's least,https://www.light.gg/db/items/1071542914,pvp,Pulse Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Polygonal Rifling']","['Extended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Zen Moment', 'Headseeker', 'Rangefinder']","['Kill Clip', 'High-Impact Reserves', 'Dragonfly']"
+impromptu-49,https://www.light.gg/db/items/228424224,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+impromptu-49,https://www.light.gg/db/items/228424224,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+inaugural address,https://www.light.gg/db/items/3325744914,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+inaugural address,https://www.light.gg/db/items/3325744914,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+infinite paths 8,https://www.light.gg/db/items/161537637,pve,Pulse Rifle,Lightweight Frame,[],[],[],[]
+infinite paths 8,https://www.light.gg/db/items/161537637,pvp,Pulse Rifle,Lightweight Frame,[],[],[],[]
+infinite paths 8,https://www.light.gg/db/items/3233390913,pve,Pulse Rifle,Lightweight Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Smallbore', 'Fluted Barrel']","['Accurized Rounds', 'Tactical Mag', 'Steady Rounds', 'Appended Mag', 'Flared Magwell']","['Demolitionist', 'Auto-Loading Holster', 'Genesis']","['Swashbuckler', 'Zen Moment', 'Dragonfly']"
+infinite paths 8,https://www.light.gg/db/items/3233390913,pvp,Pulse Rifle,Lightweight Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Smallbore', 'Extended Barrel']","['Accurized Rounds', 'Tactical Mag', 'Steady Rounds']","['Demolitionist', 'Moving Target']","['Swashbuckler', 'Zen Moment', 'Eye of the Storm']"
+jian 7 rifle,https://www.light.gg/db/items/625672050,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+jian 7 rifle,https://www.light.gg/db/items/625672050,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+jian 7 rifle,https://www.light.gg/db/items/1162247618,pve,Pulse Rifle,Adaptive Frame,"['SPO-57 Front', 'SPO-28 Front', 'SLO-12 Post']","['High-Caliber Rounds', 'Appended Mag', 'Armor-Piercing Rounds']","['Full Auto Trigger System', 'Grave Robber', 'Disruption Break']","['Rampage', 'Outlaw', 'Swashbuckler', 'Dragonfly']"
+jian 7 rifle,https://www.light.gg/db/items/1162247618,pvp,Pulse Rifle,Adaptive Frame,"['SPO-57 Front', 'SPO-28 Front', 'SRO-52 Ocular']","['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell', 'Light Mag']","['Full Auto Trigger System', 'Zen Moment', 'Firmly Planted']","['Rampage', 'Outlaw', 'Rangefinder']"
+jorum's claw,https://www.light.gg/db/items/622058944,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+jorum's claw,https://www.light.gg/db/items/622058944,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+last perdition,https://www.light.gg/db/items/962412079,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+last perdition,https://www.light.gg/db/items/962412079,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+last perdition,https://www.light.gg/db/items/188882152,pve,Pulse Rifle,Adaptive Frame,"['SPO-57 Front', 'SPO-28 Front', 'SPO-26 Front', 'SLO-10 Post']","['Accurized Rounds', 'Tactical Mag', 'Steady Rounds', 'Drop Mag', 'Appended Mag', 'Extended Mag', 'Flared Magwell']","['Outlaw', 'Rangefinder']","['Kill Clip', 'Rampage', 'High-Impact Reserves', 'Full Auto Trigger System']"
+last perdition,https://www.light.gg/db/items/188882152,pvp,Pulse Rifle,Adaptive Frame,"['SPO-57 Front', 'SPO-28 Front', 'SPO-26 Front']","['Accurized Rounds', 'Tactical Mag', 'Steady Rounds']","['Outlaw', 'Rangefinder', 'Moving Target']","['Kill Clip', 'Snapshot Sights', 'Zen Moment']"
+nergal pr4,https://www.light.gg/db/items/339343290,pve,Pulse Rifle,Lightweight Frame,[],[],[],[]
+nergal pr4,https://www.light.gg/db/items/339343290,pvp,Pulse Rifle,Lightweight Frame,[],[],[],[]
+outlast,https://www.light.gg/db/items/299665907,pve,Pulse Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Extended Barrel']","['Tactical Mag', 'Appended Mag', 'Extended Mag', 'Flared Magwell']","['Full Auto Trigger System', 'Outlaw', 'Feeding Frenzy']","['Rampage', 'Kill Clip', 'Demolitionist']"
+outlast,https://www.light.gg/db/items/299665907,pvp,Pulse Rifle,Rapid-Fire Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Extended Barrel']","['Tactical Mag', 'Accurized Rounds', 'Steady Rounds']","['Full Auto Trigger System', 'Outlaw', 'Feeding Frenzy', 'Rangefinder']","['Rampage', 'Kill Clip', 'Demolitionist']"
+premonition,https://www.light.gg/db/items/208088207,pve,Pulse Rifle,High-Impact Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Fluted Barrel']","['High-Caliber Rounds', 'Appended Mag']","['Firmly Planted', 'Outlaw']","['Kill Clip', 'Demolitionist', 'Dragonfly']"
+premonition,https://www.light.gg/db/items/208088207,pvp,Pulse Rifle,High-Impact Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Hammer-Forged Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds']","['Firmly Planted', 'Outlaw', 'Rangefinder']","['Kill Clip', 'Demolitionist', 'Headseeker']"
+requiem-45,https://www.light.gg/db/items/159056377,pve,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+requiem-45,https://www.light.gg/db/items/159056377,pvp,Pulse Rifle,Rapid-Fire Frame,[],[],[],[]
+right side of wrong,https://www.light.gg/db/items/3376406418,pve,Pulse Rifle,Aggressive Burst,[],[],[],[]
+right side of wrong,https://www.light.gg/db/items/3376406418,pvp,Pulse Rifle,Aggressive Burst,[],[],[],[]
+swift ride,https://www.light.gg/db/items/1513927136,pve,Pulse Rifle,Adaptive Frame,[],[],[],[]
+swift ride,https://www.light.gg/db/items/1513927136,pvp,Pulse Rifle,Adaptive Frame,[],[],[],[]
+swift ride xe8375,https://www.light.gg/db/items/1386601612,pve,Pulse Rifle,Adaptive Frame,"['SLO-12 Post', 'SLO-21 Post', 'SLO-10 Post', 'SPO-57 Front']","['Tactical Mag', 'Appended Mag', 'Extended Mag', 'Flared Magwell']","['Outlaw', 'Ambitious Assassin']","['Rampage', 'Kill Clip', 'Full Auto Trigger System']"
+swift ride xe8375,https://www.light.gg/db/items/1386601612,pvp,Pulse Rifle,Adaptive Frame,"['SLO-12 Post', 'SLO-21 Post', 'SLO-10 Post', 'SPO-57 Front']","['Tactical Mag', 'Accurized Rounds', 'Steady Rounds']","['Outlaw', 'Rangefinder', 'Moving Target']","['Rampage', 'Kill Clip', 'Headseeker', 'Zen Moment']"
+adverse possession ix,https://www.light.gg/db/items/1531295694,pve,Scout Rifle,Precision Frame,[],[],[],[]
+adverse possession ix,https://www.light.gg/db/items/1531295694,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+black scorpion-4sr,https://www.light.gg/db/items/525750263,pve,Scout Rifle,VEIST Rapid-Fire,"['Chambered Compensator', 'Fluted Barrel', 'Polygonal Rifling', 'Extended Barrel']","['Accurized Rounds', 'Tactical Mag', 'Steady Rounds', 'Extended Mag']","['Zen Moment', 'Moving Target', 'Triple Tap', 'High-Impact Reserves']","['Outlaw', 'Rampage', 'Genesis', 'Dragonfly']"
+black scorpion-4sr,https://www.light.gg/db/items/525750263,pvp,Scout Rifle,VEIST Rapid-Fire,"['Chambered Compensator', 'Fluted Barrel', 'Polygonal Rifling']","['Accurized Rounds', 'Tactical Mag', 'Steady Rounds']","['Zen Moment', 'Moving Target']","['Outlaw', 'Rampage']"
+black scorpion-4sr,https://www.light.gg/db/items/925326394,pve,Scout Rifle,VEIST Rapid-Fire,[],[],[],[]
+black scorpion-4sr,https://www.light.gg/db/items/925326394,pvp,Scout Rifle,VEIST Rapid-Fire,[],[],[],[]
+braytech rwp mk. ii,https://www.light.gg/db/items/717150101,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+braytech rwp mk. ii,https://www.light.gg/db/items/717150101,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+calusea noblesse,https://www.light.gg/db/items/2338088853,pve,Scout Rifle,High-Impact Frame,"['Chambered Compensator', 'Fluted Barrel', 'Corkscrew Rifling', 'Polygonal Rifling']","['Tactical Mag', 'Steady Rounds', 'Appended Mag']","['Outlaw', 'Moving Target', 'Subsistence', 'Disruption Break', 'Ambitious Assassin']","['Rampage', 'Dragonfly', 'Multikill Clip', 'Shield Disorient']"
+calusea noblesse,https://www.light.gg/db/items/2338088853,pvp,Scout Rifle,High-Impact Frame,"['Chambered Compensator', 'Fluted Barrel', 'Arrowhead Brake']","['Tactical Mag', 'Steady Rounds']","['Outlaw', 'Moving Target', 'Zen Moment']","['Rampage', 'Dragonfly']"
+conspirator,https://www.light.gg/db/items/3906942101,pve,Scout Rifle,Lightweight Frame,[],[],[],[]
+conspirator,https://www.light.gg/db/items/3906942101,pvp,Scout Rifle,Lightweight Frame,[],[],[],[]
+contingency plan,https://www.light.gg/db/items/2625782213,pve,Scout Rifle,VEIST Rapid-Fire,[],[],[],[]
+contingency plan,https://www.light.gg/db/items/2625782213,pvp,Scout Rifle,VEIST Rapid-Fire,[],[],[],[]
+distant relation,https://www.light.gg/db/items/2034817450,pve,Scout Rifle,Precision Frame,"['Chambered Compensator', 'Extended Barrel', 'Hammer-Forged Rifling']",['Accurized Rounds'],"['Outlaw', 'Auto-Loading Holster']","['Explosive Payload', 'Opening Shot']"
+distant relation,https://www.light.gg/db/items/2034817450,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+eternal blazon,https://www.light.gg/db/items/1927800278,pve,Scout Rifle,Lightweight Frame,[],[],[],[]
+eternal blazon,https://www.light.gg/db/items/1927800278,pvp,Scout Rifle,Lightweight Frame,[],[],[],[]
+frostmire's hex,https://www.light.gg/db/items/3005104939,pve,Scout Rifle,VEIST Rapid-Fire,[],[],[],[]
+frostmire's hex,https://www.light.gg/db/items/3005104939,pvp,Scout Rifle,VEIST Rapid-Fire,[],[],[],[]
+manannan sr4,https://www.light.gg/db/items/925326393,pve,Scout Rifle,Lightweight Frame,[],[],[],[]
+manannan sr4,https://www.light.gg/db/items/925326393,pvp,Scout Rifle,Lightweight Frame,[],[],[],[]
+metronome-52,https://www.light.gg/db/items/3434629515,pve,Scout Rifle,Precision Frame,[],[],[],[]
+metronome-52,https://www.light.gg/db/items/3434629515,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+motion to compel,https://www.light.gg/db/items/3425561386,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+motion to compel,https://www.light.gg/db/items/3425561386,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+no feelings,https://www.light.gg/db/items/1931556011,pve,Scout Rifle,Precision Frame,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Tactical Mag', 'Flared Magwell', 'Accurized Rounds', 'Appended Mag', 'Alloy Magazine']","['Outlaw', 'Rapid Hit', 'Triple Tap', 'Mulligan']","['Explosive Payload', 'Kill Clip', 'Rampage', 'Box Breathing']"
+no feelings,https://www.light.gg/db/items/1931556011,pvp,Scout Rifle,Precision Frame,"['Rasmussen ISA', 'Meyrin RDS', 'Meyrin RDL']","['Tactical Mag', 'Flared Magwell', 'Steady Rounds']","['Outlaw', 'Rapid Hit']","['Explosive Payload', 'Kill Clip', 'Zen Moment', 'Moving Target']"
+oxygen sr3,https://www.light.gg/db/items/3907337522,pve,Scout Rifle,Precision Frame,[],[],[],[]
+oxygen sr3,https://www.light.gg/db/items/3907337522,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+pleiades corrector,https://www.light.gg/db/items/1342668638,pve,Scout Rifle,Lightweight Frame,[],[],[],[]
+pleiades corrector,https://www.light.gg/db/items/1342668638,pvp,Scout Rifle,Lightweight Frame,[],[],[],[]
+seven-six-five,https://www.light.gg/db/items/1885753220,pve,Scout Rifle,Lightweight Frame,[],[],[],[]
+seven-six-five,https://www.light.gg/db/items/1885753220,pvp,Scout Rifle,Lightweight Frame,[],[],[],[]
+tango-45,https://www.light.gg/db/items/925326392,pve,Scout Rifle,Precision Frame,[],[],[],[]
+tango-45,https://www.light.gg/db/items/925326392,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+tango-45 xk5094,https://www.light.gg/db/items/20025671,pve,Scout Rifle,Precision Frame,"['SLO-12 Post', 'SLO-21 Post', 'SLO-10 Post', 'SPO-57 Front']","['Tactical Mag', 'Flared Magwell', 'Appended Mag', 'Alloy Magazine']","['Triple Tap', 'High-Impact Reserves']","['Outlaw', 'Rampage', 'Dragonfly']"
+tango-45 xk5094,https://www.light.gg/db/items/20025671,pvp,Scout Rifle,Precision Frame,"['SLO-12 Post', 'SLO-21 Post', 'SLO-10 Post', 'SPO-57 Front']","['Tactical Mag', 'Flared Magwell', 'Steady Rounds']","['Zen Moment', 'Moving Target']","['Outlaw', 'Explosive Payload', 'Opening Shot']"
+the cut and run,https://www.light.gg/db/items/3501969491,pve,Scout Rifle,High-Impact Frame,[],[],[],[]
+the cut and run,https://www.light.gg/db/items/3501969491,pvp,Scout Rifle,High-Impact Frame,[],[],[],[]
+the end,https://www.light.gg/db/items/1825472717,pve,Scout Rifle,Precision Frame,[],[],[],[]
+the end,https://www.light.gg/db/items/1825472717,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+tone patrol,https://www.light.gg/db/items/1885753223,pve,Scout Rifle,Precision Frame,[],[],[],[]
+tone patrol,https://www.light.gg/db/items/1885753223,pvp,Scout Rifle,Precision Frame,[],[],[],[]
+vacuna sr4,https://www.light.gg/db/items/1159252500,pve,Scout Rifle,Lightweight Frame,[],[],[],[]
+vacuna sr4,https://www.light.gg/db/items/1159252500,pvp,Scout Rifle,Lightweight Frame,[],[],[],[]
+vouchsafe,https://www.light.gg/db/items/3242168339,pve,Scout Rifle,Lightweight Frame,"['Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling', 'Chambered Compensator', 'Extended Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['Tactical Mag', 'Steady Rounds', 'Accurized Rounds', 'Flared Magwell']","['Full Auto Trigger System', 'Ambitious Assassin']","['Outlaw', 'Explosive Payload', 'Dragonfly', 'Triple Tap', 'Rapid Hit']"
+vouchsafe,https://www.light.gg/db/items/3242168339,pvp,Scout Rifle,Lightweight Frame,"['Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Steady Rounds']",['Full Auto Trigger System'],"['Outlaw', 'Explosive Payload']"
+a sudden death,https://www.light.gg/db/items/1879212552,pve,Shotgun,Aggressive Frame,[],[],[],[]
+a sudden death,https://www.light.gg/db/items/1879212552,pvp,Shotgun,Aggressive Frame,[],[],[],[]
+badlander,https://www.light.gg/db/items/1327264046,pve,Shotgun,Rapid-Fire Frame,"['Rifled Barrel', 'Full Choke']","['Tactical Mag', 'Steady Rounds']","['Slideshot', 'Threat Detector']","['Rampage', 'Genesis', 'Auto-Loading Holster']"
+badlander,https://www.light.gg/db/items/1327264046,pvp,Shotgun,Rapid-Fire Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],"['Slideshot', 'Threat Detector', 'Moving Target']","['Rampage', 'Snapshot Sights', 'Quickdraw']"
+basilisk,https://www.light.gg/db/items/2928437919,pve,Shotgun,Rapid-Fire Frame,[],[],[],[]
+basilisk,https://www.light.gg/db/items/2928437919,pvp,Shotgun,Rapid-Fire Frame,[],[],[],[]
+deadpan delivery,https://www.light.gg/db/items/3582424018,pve,Shotgun,Aggressive Frame,[],[],[],[]
+deadpan delivery,https://www.light.gg/db/items/3582424018,pvp,Shotgun,Aggressive Frame,[],[],[],[]
+emperor's courtesy,https://www.light.gg/db/items/3861448240,pve,Shotgun,Lightweight Frame,"['Rifled Barrel', 'Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Assault Mag', 'Appended Mag', 'Tactical Mag', 'Extended Mag']","['Grave Robber', 'Quickdraw']","['Swashbuckler', 'Surrounded', 'Rampage']"
+emperor's courtesy,https://www.light.gg/db/items/3861448240,pvp,Shotgun,Lightweight Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],"['Grave Robber', 'Quickdraw', 'Snapshot Sights']","['Swashbuckler', 'Surrounded', 'Rampage', 'Slideshot', 'Opening Shot']"
+"first in, last out",https://www.light.gg/db/items/515224227,pve,Shotgun,Precision Frame,[],[],[],[]
+"first in, last out",https://www.light.gg/db/items/515224227,pvp,Shotgun,Precision Frame,[],[],[],[]
+good bone structure,https://www.light.gg/db/items/731147178,pve,Shotgun,Precision Frame,[],[],[],[]
+good bone structure,https://www.light.gg/db/items/731147178,pvp,Shotgun,Precision Frame,[],[],[],[]
+good bone structure,https://www.light.gg/db/items/64236626,pve,Shotgun,Precision Frame,[],"['Assault Mag', 'Tactical Mag', 'Steady Rounds']","['Outlaw', 'Full Auto Trigger System']","['Rampage', 'Triple Tap']"
+good bone structure,https://www.light.gg/db/items/64236626,pvp,Shotgun,Precision Frame,[],['Accurized Rounds'],"['Outlaw', 'Threat Detector']",[]
+gravity slingshot,https://www.light.gg/db/items/1277015089,pve,Shotgun,Aggressive Frame,[],[],[],[]
+gravity slingshot,https://www.light.gg/db/items/1277015089,pvp,Shotgun,Aggressive Frame,[],[],[],[]
+gunnora's axe,https://www.light.gg/db/items/2326716489,pve,Shotgun,Precision Frame,"['Fluted Barrel', 'Smallbore', 'Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Polygonal Rifling']","['Assault Mag', 'Appended Mag', 'Tactical Mag']","['Outlaw', 'Full Auto Trigger System', 'Quickdraw']","['Rampage', 'Demolitionist', 'Swashbuckler', 'Triple Tap']"
+gunnora's axe,https://www.light.gg/db/items/2326716489,pvp,Shotgun,Precision Frame,"['Fluted Barrel', 'Smallbore', 'Extended Barrel', 'Full Bore', 'Hammer-Forged Rifling']","['Assault Mag', 'Accurized Rounds', 'Light Mag']","['Outlaw', 'Full Auto Trigger System', 'Quickdraw']","['Rampage', 'Demolitionist', 'Swashbuckler', 'Snapshot Sights', 'Moving Target', 'Slideshot', 'Opening Shot']"
+gunnora's axe,https://www.light.gg/db/items/94729174,pve,Shotgun,Precision Frame,[],[],[],[]
+gunnora's axe,https://www.light.gg/db/items/94729174,pvp,Shotgun,Precision Frame,[],[],[],[]
+ikelos_sg_v1.0.1,https://www.light.gg/db/items/1887808042,pve,Shotgun,Rapid-Fire Frame,[],[],[],[]
+ikelos_sg_v1.0.1,https://www.light.gg/db/items/1887808042,pvp,Shotgun,Rapid-Fire Frame,[],[],[],[]
+last man standing,https://www.light.gg/db/items/755130877,pve,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Smallbore', 'Corkscrew Rifling']","['Assault Mag', 'Appended Mag', 'Tactical Mag']","['Grave Robber', 'Field Prep']","['Rampage', 'Demolitionist', 'One-Two Punch']"
+last man standing,https://www.light.gg/db/items/755130877,pvp,Shotgun,Aggressive Frame,"['Rifled Barrel', 'Full Choke']","['Accurized Rounds', 'Light Mag']",['Opening Shot'],"['Rampage', 'Demolitionist', 'Swashbuckler']"
+mindbender's ambition,https://www.light.gg/db/items/4117693024,pve,Shotgun,Aggressive Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Assault Mag', 'Appended Mag', 'Tactical Mag']","['Slideshot', 'Threat Detector', 'Pulse Monitor']","['Rampage', 'Quickdraw', 'Auto-Loading Holster']"
+mindbender's ambition,https://www.light.gg/db/items/4117693024,pvp,Shotgun,Aggressive Frame,"['Smallbore', 'Rifled Barrel', 'Full Choke']","['Assault Mag', 'Accurized Rounds']","['Slideshot', 'Snapshot Sights']","['Rampage', 'Quickdraw', 'Moving Target']"
+motion to vacate,https://www.light.gg/db/items/1018777295,pve,Shotgun,Lightweight Frame,[],[],[],[]
+motion to vacate,https://www.light.gg/db/items/1018777295,pvp,Shotgun,Lightweight Frame,[],[],[],[]
+prophet of doom,https://www.light.gg/db/items/4020742303,pve,Shotgun,Precision Frame,"['Barrel Shroud', 'Smallbore', 'Corkscrew Rifling']","['Assault Mag', 'Appended Mag', 'Tactical Mag']","['Full Auto Trigger System', 'Feeding Frenzy']","['One-Two Punch', 'Rampage']"
+prophet of doom,https://www.light.gg/db/items/4020742303,pvp,Shotgun,Precision Frame,"['Barrel Shroud', 'Rifled Barrel', 'Full Choke']","['Assault Mag', 'Appended Mag', 'Tactical Mag', 'Accurized Rounds']","['Full Auto Trigger System', 'Feeding Frenzy', 'Slideways', 'Genesis']","['One-Two Punch', 'Rampage', 'Opening Shot', 'Shield Disorient']"
+python,https://www.light.gg/db/items/838556752,pve,Shotgun,Aggressive Frame,[],[],[],[]
+python,https://www.light.gg/db/items/838556752,pvp,Shotgun,Aggressive Frame,[],[],[],[]
+quitclaim shotgun iii,https://www.light.gg/db/items/2478247171,pve,Shotgun,Aggressive Frame,[],[],[],[]
+quitclaim shotgun iii,https://www.light.gg/db/items/2478247171,pvp,Shotgun,Aggressive Frame,[],[],[],[]
+retold tale,https://www.light.gg/db/items/346136302,pve,Shotgun,Precision Frame,['Full Choke'],['Accurized Rounds'],['Quickdraw'],['Full Auto Trigger System']
+retold tale,https://www.light.gg/db/items/346136302,pvp,Shotgun,Precision Frame,[],[],[],[]
+retrofuturist,https://www.light.gg/db/items/1325579289,pve,Shotgun,Lightweight Frame,[],[],[],[]
+retrofuturist,https://www.light.gg/db/items/1325579289,pvp,Shotgun,Lightweight Frame,[],[],[],[]
+seventh seraph cqc-12,https://www.light.gg/db/items/1821724780,pve,Shotgun,Lightweight Frame,"['Smallbore', 'Barrel Shroud', 'Corkscrew Rifling']","['Assault Mag', 'Tactical Mag', 'Appended Mag']","['Slideshot', 'Lead from Gold', 'Auto-Loading Holster']","['Vorpal Weapon', 'Trench Barrel']"
+seventh seraph cqc-12,https://www.light.gg/db/items/1821724780,pvp,Shotgun,Lightweight Frame,"['Smallbore', 'Rifled Barrel', 'Full Choke']","['Assault Mag', 'Tactical Mag', 'Accurized Rounds']","['Slideshot', 'Quickdraw']","['Vorpal Weapon', 'Snapshot Sights']"
+somerled-d,https://www.light.gg/db/items/2703340117,pve,Shotgun,Aggressive Frame,[],[],[],[]
+somerled-d,https://www.light.gg/db/items/2703340117,pvp,Shotgun,Aggressive Frame,[],[],[],[]
+the deicide,https://www.light.gg/db/items/3929685100,pve,Shotgun,Rapid-Fire Frame,[],[],[],[]
+the deicide,https://www.light.gg/db/items/3929685100,pvp,Shotgun,Rapid-Fire Frame,[],[],[],[]
+unification vii,https://www.light.gg/db/items/1988218406,pve,Shotgun,Precision Frame,[],[],[],[]
+unification vii,https://www.light.gg/db/items/1988218406,pvp,Shotgun,Precision Frame,[],[],[],[]
+wishbringer,https://www.light.gg/db/items/3190698551,pve,Shotgun,Rapid-Fire Frame,[],[],[],[]
+wishbringer,https://www.light.gg/db/items/3190698551,pvp,Shotgun,Rapid-Fire Frame,[],[],[],[]
+wishbringer,https://www.light.gg/db/items/3356526253,pve,Shotgun,Rapid-Fire Frame,"['Rifled Barrel', 'Barrel Shroud', 'Corkscrew Rifling']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Slideshot', 'Threat Detector']","['Rampage', 'Auto-Loading Holster']"
+wishbringer,https://www.light.gg/db/items/3356526253,pvp,Shotgun,Rapid-Fire Frame,"['Rifled Barrel', 'Full Choke']",['Accurized Rounds'],['Slideshot'],"['Rampage', 'Snapshot Sights', 'Opening Shot']"
+zenith of your kind,https://www.light.gg/db/items/2707464805,pve,Shotgun,Rapid-Fire Frame,[],[],[],[]
+zenith of your kind,https://www.light.gg/db/items/2707464805,pvp,Shotgun,Rapid-Fire Frame,[],[],[],[]
+18 kelvins,https://www.light.gg/db/items/1798874854,pve,Sidearm,Adaptive Frame,[],[],[],[]
+18 kelvins,https://www.light.gg/db/items/1798874854,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+a swift verdict,https://www.light.gg/db/items/3854037061,pve,Sidearm,Precision Frame,[],[],[],[]
+a swift verdict,https://www.light.gg/db/items/3854037061,pvp,Sidearm,Precision Frame,[],[],[],[]
+anonymous autumn,https://www.light.gg/db/items/3222518097,pve,Sidearm,Lightweight Frame,"['Shortspec SAS', 'Target SAS', 'Control SAS']","['Extended Mag', 'Appended Mag']","['Full Auto Trigger System', 'Outlaw']","['Kill Clip', 'Rampage']"
+anonymous autumn,https://www.light.gg/db/items/3222518097,pvp,Sidearm,Lightweight Frame,"['Shortspec SAS', 'Target SAS', 'QuickDot SAS']","['High-Caliber Rounds', 'Ricochet Rounds']","['Full Auto Trigger System', 'Moving Target', 'Quickdraw']","['Rangefinder', 'Grave Robber', 'Opening Shot']"
+dead man walking,https://www.light.gg/db/items/1911843790,pve,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+dead man walking,https://www.light.gg/db/items/1911843790,pvp,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+dead man walking xx7463,https://www.light.gg/db/items/3751622019,pve,Sidearm,SUROS Rapid-Fire,"['Control SAS', 'Shortspec SAS']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Quickdraw', 'Outlaw']","['Kill Clip', 'Rampage', 'Grave Robber']"
+dead man walking xx7463,https://www.light.gg/db/items/3751622019,pvp,Sidearm,SUROS Rapid-Fire,"['Control SAS', 'Shortspec SAS', 'Tactic SAS', 'Target SAS', 'FarPoint SAS']","['Appended Mag', 'Accurized Rounds', 'Steady Rounds']","['Quickdraw', 'Outlaw', 'Moving Target']","['Kill Clip', 'Rangefinder', 'Zen Moment', 'Opening Shot']"
+death by scorn,https://www.light.gg/db/items/3334276333,pve,Sidearm,Aggressive Burst,[],[],[],[]
+death by scorn,https://www.light.gg/db/items/3334276333,pvp,Sidearm,Aggressive Burst,[],[],[],[]
+drang,https://www.light.gg/db/items/2362471600,pve,Sidearm,Adaptive Frame,[],[],[],[]
+drang,https://www.light.gg/db/items/2362471600,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+drang (baroque),https://www.light.gg/db/items/79075821,pve,Sidearm,Together Forever,"['Extended Barrel', 'Hammer-Forged Rifling', 'Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Alloy Magazine', 'Appended Mag']","['Quickdraw', 'Disruption Break', 'Full Auto Trigger System']","['Rampage', 'Swashbuckler', 'Underdog']"
+drang (baroque),https://www.light.gg/db/items/79075821,pvp,Sidearm,Together Forever,"['Extended Barrel', 'Hammer-Forged Rifling', 'Full Bore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Quickdraw', 'Eye of the Storm', 'Moving Target']","['Rampage', 'Swashbuckler', 'Zen Moment']"
+eleventh hour,https://www.light.gg/db/items/48361213,pve,Sidearm,Lightweight Frame,[],[],[],[]
+eleventh hour,https://www.light.gg/db/items/48361213,pvp,Sidearm,Lightweight Frame,[],[],[],[]
+etana si4,https://www.light.gg/db/items/1533499361,pve,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+etana si4,https://www.light.gg/db/items/1533499361,pvp,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+eulogy si4,https://www.light.gg/db/items/2812672357,pve,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+eulogy si4,https://www.light.gg/db/items/2812672357,pvp,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+interregnum xvi,https://www.light.gg/db/items/227548887,pve,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+interregnum xvi,https://www.light.gg/db/items/227548887,pvp,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+last hope,https://www.light.gg/db/items/3622137132,pve,Sidearm,Omolon Adaptive Frame,"['QuickDot SAS', 'Control SAS', 'Shortspec SAS']","['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell', 'Appended Mag', 'Armor-Piercing Rounds']","['Feeding Frenzy', 'Quickdraw', 'Grave Robber']","['Multikill Clip', 'Dragonfly', 'Rampage']"
+last hope,https://www.light.gg/db/items/3622137132,pvp,Sidearm,Omolon Adaptive Frame,"['Tactic SAS', 'Target SAS', 'FarPoint SAS']","['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell']","['Feeding Frenzy', 'Quickdraw', 'Rangefinder']","['Multikill Clip', 'Zen Moment', 'Tap the Trigger']"
+last hope,https://www.light.gg/db/items/1911843791,pve,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+last hope,https://www.light.gg/db/items/1911843791,pvp,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+seventh seraph si-2,https://www.light.gg/db/items/3937866388,pve,Sidearm,Lightweight Frame,"['Fluted Barrel', 'Arrowhead Brake', 'Corkscrew Rifling']","['Tactical Mag', 'Appended Mag', 'Extended Mag']","['Full Auto Trigger System', 'Demolitionist']","['Vorpal Weapon', 'Dragonfly', 'Surrounded']"
+seventh seraph si-2,https://www.light.gg/db/items/3937866388,pvp,Sidearm,Lightweight Frame,"['Fluted Barrel', 'Chambered Compensator', 'Extended Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Accurized Rounds', 'Steady Rounds']","['Full Auto Trigger System', 'Demolitionist', 'Threat Detector']","['Vorpal Weapon', 'Elemental Capacitor', 'Snapshot Sights', 'Zen Moment']"
+swift solstice,https://www.light.gg/db/items/1084788061,pve,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+swift solstice,https://www.light.gg/db/items/1084788061,pvp,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+the fool's remedy,https://www.light.gg/db/items/3424403076,pve,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+the fool's remedy,https://www.light.gg/db/items/3424403076,pvp,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+the last dance,https://www.light.gg/db/items/2009277538,pve,Sidearm,Omolon Adaptive Frame,"['Control SAS', 'Shortspec SAS', 'Target SAS']","['Extended Mag', 'Appended Mag']","['Full Auto Trigger System', 'Outlaw']","['Kill Clip', 'Dragonfly']"
+the last dance,https://www.light.gg/db/items/2009277538,pvp,Sidearm,Omolon Adaptive Frame,"['Control SAS', 'Shortspec SAS', 'Target SAS']","['High-Caliber Rounds', 'Ricochet Rounds']","['Full Auto Trigger System', 'Moving Target']","['Rangefinder', 'Tap the Trigger', 'Opening Shot']"
+the last dance,https://www.light.gg/db/items/3967155859,pve,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+the last dance,https://www.light.gg/db/items/3967155859,pvp,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+the rattler,https://www.light.gg/db/items/1911843788,pve,Sidearm,Lightweight Frame,[],[],[],[]
+the rattler,https://www.light.gg/db/items/1911843788,pvp,Sidearm,Lightweight Frame,[],[],[],[]
+the vision,https://www.light.gg/db/items/293505772,pve,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+the vision,https://www.light.gg/db/items/293505772,pvp,Sidearm,Omolon Adaptive Frame,[],[],[],[]
+timecard,https://www.light.gg/db/items/1648316470,pve,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+timecard,https://www.light.gg/db/items/1648316470,pvp,Sidearm,SUROS Rapid-Fire,[],[],[],[]
+translation theory,https://www.light.gg/db/items/1843044398,pve,Sidearm,Adaptive Frame,[],[],[],[]
+translation theory,https://www.light.gg/db/items/1843044398,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+traveler's judgment 5,https://www.light.gg/db/items/2091737595,pve,Sidearm,Adaptive Frame,[],[],[],[]
+traveler's judgment 5,https://www.light.gg/db/items/2091737595,pvp,Sidearm,Adaptive Frame,[],[],[],[]
+traveler's judgment 5,https://www.light.gg/db/items/4149758318,pve,Sidearm,Adaptive Frame,"['QuickDot SAS', 'Control SAS', 'Tactic SAS', 'Shortspec SAS']","['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell', 'Appended Mag', 'Armor-Piercing Rounds']","['Rapid Hit', 'Feeding Frenzy', 'Auto-Loading Holster']","['Surrounded', 'Disruption Break', 'Dragonfly']"
+traveler's judgment 5,https://www.light.gg/db/items/4149758318,pvp,Sidearm,Adaptive Frame,"['QuickDot SAS', 'Control SAS', 'Tactic SAS', 'Target SAS', 'FarPoint SAS']","['High-Caliber Rounds', 'Ricochet Rounds', 'Flared Magwell']","['Rapid Hit', 'Feeding Frenzy', 'Firmly Planted', 'Hip-Fire Grip']","['Tap the Trigger', 'Headseeker']"
+urchin-3si,https://www.light.gg/db/items/1533499362,pve,Sidearm,Lightweight Frame,[],[],[],[]
+urchin-3si,https://www.light.gg/db/items/1533499362,pvp,Sidearm,Lightweight Frame,[],[],[],[]
+vestian dynasty,https://www.light.gg/db/items/3334276332,pve,Sidearm,Precision Frame,[],[],[],[]
+vestian dynasty,https://www.light.gg/db/items/3334276332,pvp,Sidearm,Precision Frame,[],[],[],[]
+a single clap,https://www.light.gg/db/items/3312073052,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+a single clap,https://www.light.gg/db/items/3312073052,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+anniella,https://www.light.gg/db/items/905092001,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+anniella,https://www.light.gg/db/items/905092001,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+apostate,https://www.light.gg/db/items/2164448701,pve,Sniper Rifle,Rapid-Fire Frame,"['Fluted Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['Appended Mag', 'Tactical Mag', 'Extended Mag']",['Outlaw'],"['Box Breathing', 'Rapid Hit', 'Multikill Clip']"
+apostate,https://www.light.gg/db/items/2164448701,pvp,Sniper Rifle,Rapid-Fire Frame,"['Fluted Barrel', 'Hammer-Forged Rifling', 'Smallbore']",['Accurized Rounds'],"['Outlaw', 'Moving Target', 'Firmly Planted']","['Box Breathing', 'Snapshot Sights', 'Quickdraw']"
+archimedes truth,https://www.light.gg/db/items/1940885628,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+archimedes truth,https://www.light.gg/db/items/1940885628,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+belfry bounty,https://www.light.gg/db/items/2295941920,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+belfry bounty,https://www.light.gg/db/items/2295941920,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+beloved,https://www.light.gg/db/items/4190932264,pve,Sniper Rifle,Adaptive Frame,"['Fluted Barrel', 'Corkscrew Rifling', 'Polygonal Rifling']","['Accurized Rounds', 'Tactical Mag', 'Flared Magwell', 'Appended Mag', 'Extended Mag']","['No Distractions', 'Demolitionist', 'Snapshot Sights', 'Mulligan']","['Quickdraw', 'Moving Target', 'Box Breathing', ""Fourth Time's the Charm"", 'Rampage']"
+beloved,https://www.light.gg/db/items/4190932264,pvp,Sniper Rifle,Adaptive Frame,"['Fluted Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['Accurized Rounds', 'Tactical Mag', 'Flared Magwell']","['No Distractions', 'Demolitionist', 'Snapshot Sights']","['Quickdraw', 'Moving Target']"
+copperhead-4sn,https://www.light.gg/db/items/3666954561,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+copperhead-4sn,https://www.light.gg/db/items/3666954561,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+distant tumulus,https://www.light.gg/db/items/2738174948,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+distant tumulus,https://www.light.gg/db/items/2738174948,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+distant tumulus,https://www.light.gg/db/items/2807687156,pve,Sniper Rifle,Rapid-Fire Frame,"['Fluted Barrel', 'Arrowhead Brake', 'Corkscrew Rifling']","['Tactical Mag', 'Appended Mag', 'Extended Mag']","['Dragonfly', 'Clown Cartridge', 'Lead from Gold']","['Outlaw', 'Firing Line']"
+distant tumulus,https://www.light.gg/db/items/2807687156,pvp,Sniper Rifle,Rapid-Fire Frame,"['Fluted Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['Tactical Mag', 'Accurized Rounds', 'Flared Magwell']","['Dragonfly', 'Pulse Monitor']","['Quickdraw', 'Snapshot Sights']"
+elegy-49,https://www.light.gg/db/items/1873270090,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+elegy-49,https://www.light.gg/db/items/1873270090,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+elegy-49,https://www.light.gg/db/items/3666954563,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+elegy-49,https://www.light.gg/db/items/3666954563,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+eye of foresight,https://www.light.gg/db/items/3272713429,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+eye of foresight,https://www.light.gg/db/items/3272713429,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+fate cries foul,https://www.light.gg/db/items/1684914716,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+fate cries foul,https://www.light.gg/db/items/1684914716,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+gentleman vagabond,https://www.light.gg/db/items/2660862359,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+gentleman vagabond,https://www.light.gg/db/items/2660862359,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+ikelos_sr_v1.0.1,https://www.light.gg/db/items/847450546,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+ikelos_sr_v1.0.1,https://www.light.gg/db/items/847450546,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+maestro-46,https://www.light.gg/db/items/2295941921,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+maestro-46,https://www.light.gg/db/items/2295941921,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+maxim xi,https://www.light.gg/db/items/3239754990,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+maxim xi,https://www.light.gg/db/items/3239754990,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+occluded finality,https://www.light.gg/db/items/3434507093,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+occluded finality,https://www.light.gg/db/items/3434507093,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+omniscient eye,https://www.light.gg/db/items/3454326177,pve,Sniper Rifle,Rapid-Fire Frame,"['Fluted Barrel', 'Smallbore', 'Arrowhead Brake']","['Appended Mag', 'Tactical Mag', 'Flared Magwell']","['Mulligan', 'Outlaw', 'No Distractions', 'Genesis']","['Dragonfly', 'Multikill Clip', 'Rampage']"
+omniscient eye,https://www.light.gg/db/items/3454326177,pvp,Sniper Rifle,Rapid-Fire Frame,"['Fluted Barrel', 'Smallbore', 'Hammer-Forged Rifling']","['Accurized Rounds', 'Steady Rounds']","['Mulligan', 'Outlaw', 'No Distractions']",['Snapshot Sights']
+persuader,https://www.light.gg/db/items/2290863050,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+persuader,https://www.light.gg/db/items/2290863050,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+persuader,https://www.light.gg/db/items/4083045006,pve,Sniper Rifle,Rapid-Fire Frame,['50VAL Telescopic'],"['Tactical Mag', 'Flared Magwell', 'Appended Mag', 'Extended Mag']","['Rapid Hit', 'Field Prep']","['Outlaw', 'Triple Tap']"
+persuader,https://www.light.gg/db/items/4083045006,pvp,Sniper Rifle,Rapid-Fire Frame,['50VAL Telescopic'],"['Tactical Mag', 'Flared Magwell', 'Accurized Rounds', 'Steady Rounds']","['Firmly Planted', 'Snapshot Sights']","['Outlaw', 'Moving Target']"
+show of force,https://www.light.gg/db/items/3312073054,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+show of force,https://www.light.gg/db/items/3312073054,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+sole survivor,https://www.light.gg/db/items/1115104187,pve,Sniper Rifle,Adaptive Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Polygonal Rifling']","['Appended Mag', 'Flared Magwell', 'Extended Mag']","['Triple Tap', ""Fourth Time's the Charm"", 'Rapid Hit']","['Opening Shot', 'Demolitionist', 'Firing Line']"
+sole survivor,https://www.light.gg/db/items/1115104187,pvp,Sniper Rifle,Adaptive Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel']","['Appended Mag', 'Flared Magwell', 'Ricochet Rounds']",['Snapshot Sights'],"['Opening Shot', 'Demolitionist', 'Slideshot']"
+tatara gaze,https://www.light.gg/db/items/1449922174,pve,Sniper Rifle,Aggressive Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Flared Magwell', 'Appended Mag', 'Extended Mag']","['Quickdraw', 'Snapshot Sights', 'Outlaw', 'Rapid Hit']","['Kill Clip', 'Box Breathing', 'Rampage', 'Dragonfly']"
+tatara gaze,https://www.light.gg/db/items/1449922174,pvp,Sniper Rifle,Aggressive Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling']","['Tactical Mag', 'Flared Magwell', 'Steady Rounds']","['Quickdraw', 'Snapshot Sights']","['Kill Clip', 'Box Breathing', 'Opening Shot']"
+the domino,https://www.light.gg/db/items/4272442416,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+the domino,https://www.light.gg/db/items/4272442416,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+the long goodbye,https://www.light.gg/db/items/2154059444,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+the long goodbye,https://www.light.gg/db/items/2154059444,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+the long walk,https://www.light.gg/db/items/174804902,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+the long walk,https://www.light.gg/db/items/174804902,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+the mornin' comes,https://www.light.gg/db/items/2535939781,pve,Sniper Rifle,Adaptive Frame,[],[],[],[]
+the mornin' comes,https://www.light.gg/db/items/2535939781,pvp,Sniper Rifle,Adaptive Frame,[],[],[],[]
+trophy hunter,https://www.light.gg/db/items/4166221755,pve,Sniper Rifle,Aggressive Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Lead from Gold', 'Triple Tap']","['Vorpal Weapon', 'Dragonfly', 'Disruption Break']"
+trophy hunter,https://www.light.gg/db/items/4166221755,pvp,Sniper Rifle,Aggressive Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel', 'Polygonal Rifling', 'Smallbore']","['Appended Mag', 'Tactical Mag', 'Accurized Rounds']","['Lead from Gold', 'Triple Tap', 'Pulse Monitor']","['Vorpal Weapon', 'Snapshot Sights']"
+twilight oath,https://www.light.gg/db/items/3297863558,pve,Sniper Rifle,Rapid-Fire Frame,['Fluted Barrel'],['Accurized Rounds'],['Rapid Hit'],['Triple Tap']
+twilight oath,https://www.light.gg/db/items/3297863558,pvp,Sniper Rifle,Rapid-Fire Frame,['Fluted Barrel'],['Accurized Rounds'],['Opening Shot'],['Triple Tap']
+veleda-d,https://www.light.gg/db/items/3666954562,pve,Sniper Rifle,Aggressive Frame,[],[],[],[]
+veleda-d,https://www.light.gg/db/items/3666954562,pvp,Sniper Rifle,Aggressive Frame,[],[],[],[]
+widow's bite,https://www.light.gg/db/items/3312073055,pve,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+widow's bite,https://www.light.gg/db/items/3312073055,pvp,Sniper Rifle,Rapid-Fire Frame,[],[],[],[]
+bad reputation,https://www.light.gg/db/items/2105827099,pve,Submachine Gun,Precision Frame,"['King Sight K1', 'Dusk Sight D1']","['Appended Mag', 'High-Caliber Rounds', 'Alloy Magazine']","['Genesis', 'Grave Robber', 'Zen Moment']","['Kill Clip', 'Outlaw', 'High-Impact Reserves']"
+bad reputation,https://www.light.gg/db/items/2105827099,pvp,Submachine Gun,Precision Frame,"['King Sight K1', 'Dusk Sight D1']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Genesis', 'Tap the Trigger']","['Kill Clip', 'Outlaw', 'Dynamic Sway Reduction']"
+breath of the dragon,https://www.light.gg/db/items/1357080535,pve,Submachine Gun,Lightweight Frame,['Hammer-Forged Rifling'],"['Ricochet Rounds', 'Light Mag']","['Zen Moment', 'Slideways']",['Kill Clip']
+breath of the dragon,https://www.light.gg/db/items/1357080535,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+bug-out bag,https://www.light.gg/db/items/2744715540,pve,Submachine Gun,Adaptive Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling']","['Tactical Mag', 'Appended Mag', 'Extended Mag']","['Zen Moment', 'Subsistence']","['Demolitionist', 'Multikill Clip']"
+bug-out bag,https://www.light.gg/db/items/2744715540,pvp,Submachine Gun,Adaptive Frame,"['Extended Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['Tactical Mag', 'Accurized Rounds']",['Zen Moment'],['Demolitionist']
+calus mini-tool,https://www.light.gg/db/items/174192097,pve,Submachine Gun,MIDA Synergy,"['Extended Barrel', 'Arrowhead Brake', 'Chambered Compensator', 'Fluted Barrel']","['Ricochet Rounds', 'Appended Mag', 'High-Caliber Rounds', 'Flared Magwell']","['Moving Target', 'Slideways', 'Eye of the Storm', 'Dynamic Sway Reduction', 'Grave Robber']","['Disruption Break', 'Feeding Frenzy', 'Surrounded']"
+calus mini-tool,https://www.light.gg/db/items/174192097,pvp,Submachine Gun,MIDA Synergy,"['Extended Barrel', 'Hammer-Forged Rifling', 'Smallbore']",['Ricochet Rounds'],"['Moving Target', 'Slideways']","['Disruption Break', 'Feeding Frenzy', 'Tap the Trigger']"
+death adder,https://www.light.gg/db/items/2517599010,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+death adder,https://www.light.gg/db/items/2517599010,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+every waking moment,https://www.light.gg/db/items/4277547616,pve,Submachine Gun,Precision Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Fluted Barrel']","['High-Caliber Rounds', 'Extended Mag']","['Zen Moment', 'Outlaw', 'Slideways']","['Swashbuckler', 'Kill Clip', 'Demolitionist']"
+every waking moment,https://www.light.gg/db/items/4277547616,pvp,Submachine Gun,Precision Frame,"['Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Zen Moment', 'Outlaw', 'Slideways']","['Swashbuckler', 'Kill Clip', 'Demolitionist', 'Eye of the Storm']"
+foggy notion,https://www.light.gg/db/items/2700862856,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+foggy notion,https://www.light.gg/db/items/2700862856,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+ikelos_smg_v1.0.1,https://www.light.gg/db/items/1723472487,pve,Submachine Gun,Aggressive Frame,[],[],[],[]
+ikelos_smg_v1.0.1,https://www.light.gg/db/items/1723472487,pvp,Submachine Gun,Aggressive Frame,[],[],[],[]
+mida mini-tool,https://www.light.gg/db/items/3089417788,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+mida mini-tool,https://www.light.gg/db/items/3089417788,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+mob justice,https://www.light.gg/db/items/3954531357,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+mob justice,https://www.light.gg/db/items/3954531357,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+out of options,https://www.light.gg/db/items/2700862858,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+out of options,https://www.light.gg/db/items/2700862858,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+phosphorus mg4,https://www.light.gg/db/items/566976654,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+phosphorus mg4,https://www.light.gg/db/items/566976654,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+radiant stardust,https://www.light.gg/db/items/1587779165,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+radiant stardust,https://www.light.gg/db/items/1587779165,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+red mamba,https://www.light.gg/db/items/2700862859,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+red mamba,https://www.light.gg/db/items/2700862859,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+resonance-42,https://www.light.gg/db/items/566976652,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+resonance-42,https://www.light.gg/db/items/566976652,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+royal dispensation ii,https://www.light.gg/db/items/3889907763,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+royal dispensation ii,https://www.light.gg/db/items/3889907763,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+seventh seraph vy-7,https://www.light.gg/db/items/766323545,pve,Submachine Gun,Precision Frame,"['Fluted Barrel', 'Smallbore', 'Arrowhead Brake']","['Appended Mag', 'Tactical Mag', 'Extended Mag']","['Firmly Planted', 'Ambitious Assassin', ""Fourth Time's the Charm""]","['Feeding Frenzy', 'Vorpal Weapon', 'Dragonfly']"
+seventh seraph vy-7,https://www.light.gg/db/items/766323545,pvp,Submachine Gun,Precision Frame,"['Fluted Barrel', 'Smallbore', 'Hammer-Forged Rifling', 'Polygonal Rifling']","['Appended Mag', 'Tactical Mag', 'Accurized Rounds', 'Steady Rounds']","['Firmly Planted', 'Pulse Monitor']","['Feeding Frenzy', 'Vorpal Weapon', 'Elemental Capacitor']"
+sol pariah 6,https://www.light.gg/db/items/3991544422,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+sol pariah 6,https://www.light.gg/db/items/3991544422,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+stochastic variable,https://www.light.gg/db/items/1339362514,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+stochastic variable,https://www.light.gg/db/items/1339362514,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+subjunctive,https://www.light.gg/db/items/2663204025,pve,Submachine Gun,Lightweight Frame,"['Polygonal Rifling', 'Smallbore', 'Chambered Compensator', 'Corkscrew Rifling', 'Fluted Barrel']","['Ricochet Rounds', 'Appended Mag']","['Outlaw', 'Quickdraw', 'Hip-Fire Grip', 'Threat Detector', 'Genesis']","['Swashbuckler', 'Rampage', 'Surrounded', 'Multikill Clip']"
+subjunctive,https://www.light.gg/db/items/2663204025,pvp,Submachine Gun,Lightweight Frame,"['Polygonal Rifling', 'Smallbore', 'Full Bore']","['Ricochet Rounds', 'High-Caliber Rounds']","['Outlaw', 'Quickdraw', 'Pulse Monitor']","['Swashbuckler', 'Rampage']"
+the hero's burden,https://www.light.gg/db/items/2909905776,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+the hero's burden,https://www.light.gg/db/items/2909905776,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+the hero's burden,https://www.light.gg/db/items/1865351684,pve,Submachine Gun,Adaptive Frame,"['SPO-57 Front', 'SPO-28 Front', 'SPO-26 Front']","['Appended Mag', 'Ricochet Rounds', 'Flared Magwell']","['Zen Moment', 'Moving Target']",['Kill Clip']
+the hero's burden,https://www.light.gg/db/items/1865351684,pvp,Submachine Gun,Adaptive Frame,"['SPO-57 Front', 'SPO-28 Front']","['Appended Mag', 'Ricochet Rounds', 'High-Caliber Rounds']","['Zen Moment', 'Moving Target', 'Slideways']","['Kill Clip', 'Tap the Trigger', 'Threat Detector']"
+the quickstep,https://www.light.gg/db/items/2433826056,pve,Submachine Gun,Adaptive Frame,[],[],[],[]
+the quickstep,https://www.light.gg/db/items/2433826056,pvp,Submachine Gun,Adaptive Frame,[],[],[],[]
+the recluse,https://www.light.gg/db/items/3354242550,pve,Submachine Gun,Lightweight Frame,[],[],[],[]
+the recluse,https://www.light.gg/db/items/3354242550,pvp,Submachine Gun,Lightweight Frame,[],[],[],[]
+acantha-d,https://www.light.gg/db/items/896923850,pve,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+acantha-d,https://www.light.gg/db/items/896923850,pvp,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+acantha-d xk8434,https://www.light.gg/db/items/1757129747,pve,Grenade Launcher,Rapid-Fire Frame,"['Volatile Launch', 'Linear Compensator', 'Confined Launch']","['Proximity Grenades', 'Spike Grenades', 'High-Explosive Ordnance']","['Auto-Loading Holster', 'Field Prep', 'Threat Detector']",['Rampage']
+acantha-d xk8434,https://www.light.gg/db/items/1757129747,pvp,Grenade Launcher,Rapid-Fire Frame,"['Volatile Launch', 'Linear Compensator']","['Proximity Grenades', 'Spike Grenades']","['Auto-Loading Holster', 'Rangefinder']","['Rampage', 'Quickdraw']"
+berenger's memory,https://www.light.gg/db/items/1983332562,pve,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+berenger's memory,https://www.light.gg/db/items/1983332562,pvp,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+bushwhacker,https://www.light.gg/db/items/311852248,pve,Grenade Launcher,Precision Frame,[],[],[],[]
+bushwhacker,https://www.light.gg/db/items/311852248,pvp,Grenade Launcher,Precision Frame,[],[],[],[]
+courageous surrender,https://www.light.gg/db/items/1489452902,pve,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+courageous surrender,https://www.light.gg/db/items/1489452902,pvp,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+doomsday,https://www.light.gg/db/items/736901634,pve,Grenade Launcher,Adaptive Frame,"['Countermass', 'Linear Compensator', 'Quick Launch']","['Spike Grenades', 'Augmented Drum', 'High-Explosive Ordnance']","['Auto-Loading Holster', 'Field Prep']","['Demolitionist', 'Ambitious Assassin']"
+doomsday,https://www.light.gg/db/items/736901634,pvp,Grenade Launcher,Adaptive Frame,"['Volatile Launch', 'Confined Launch', 'Smart Drift Control']","['Spike Grenades', 'Proximity Grenades']","['Auto-Loading Holster', 'Rangefinder', 'Threat Detector']","['Demolitionist', 'Full Court', 'Quickdraw']"
+edge transit,https://www.light.gg/db/items/218335759,pve,Grenade Launcher,Adaptive Frame,"['Volatile Launch', 'Linear Compensator', 'Quick Launch']","['Proximity Grenades', 'High-Explosive Ordnance']","['Rangefinder', 'Threat Detector']","['Rampage', 'Quickdraw', 'Genesis']"
+edge transit,https://www.light.gg/db/items/218335759,pvp,Grenade Launcher,Adaptive Frame,"['Volatile Launch', 'Linear Compensator', 'Quick Launch']",['Proximity Grenades'],"['Rangefinder', 'Snapshot Sights']","['Rampage', 'Quickdraw']"
+i am alive,https://www.light.gg/db/items/3886263130,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+i am alive,https://www.light.gg/db/items/3886263130,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+interference vi,https://www.light.gg/db/items/2257180473,pve,Grenade Launcher,Adaptive Frame,"['Confined Launch', 'Volatile Launch', 'Hard Launch']","['Spike Grenades', 'Alloy Casing', 'Augmented Drum']","['Auto-Loading Holster', 'Field Prep', 'Clown Cartridge']","['Demolitionist', 'Swashbuckler', 'Full Court']"
+interference vi,https://www.light.gg/db/items/2257180473,pvp,Grenade Launcher,Adaptive Frame,"['Confined Launch', 'Linear Compensator', 'Quick Launch']","['Proximity Grenades', 'High-Velocity Rounds']",['Auto-Loading Holster'],"['Demolitionist', 'Swashbuckler', 'Threat Detector']"
+interference vi,https://www.light.gg/db/items/1443049976,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+interference vi,https://www.light.gg/db/items/1443049976,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+love and death,https://www.light.gg/db/items/3690523502,pve,Grenade Launcher,Rapid-Fire Frame,"['Volatile Launch', 'Hard Launch']","['Spike Grenades', 'Augmented Drum', 'Mini Frags']","['Threat Detector', 'Field Prep']","['Quickdraw', 'Full Court']"
+love and death,https://www.light.gg/db/items/3690523502,pvp,Grenade Launcher,Rapid-Fire Frame,"['Confined Launch', 'Linear Compensator']","['Proximity Grenades', 'High-Explosive Ordnance']",['Rangefinder'],['Quickdraw']
+memory interdict,https://www.light.gg/db/items/3329842376,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+memory interdict,https://www.light.gg/db/items/3329842376,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+orthrus,https://www.light.gg/db/items/1983332561,pve,Grenade Launcher,Precision Frame,[],[],[],[]
+orthrus,https://www.light.gg/db/items/1983332561,pvp,Grenade Launcher,Precision Frame,[],[],[],[]
+outrageous fortune,https://www.light.gg/db/items/4146702548,pve,Grenade Launcher,Rapid-Fire Frame,"['Volatile Launch', 'Linear Compensator', 'Quick Launch']","['Proximity Grenades', 'Black Powder', 'High-Explosive Ordnance']","['Rangefinder', 'Threat Detector']","['Rampage', 'Quickdraw', 'Genesis']"
+outrageous fortune,https://www.light.gg/db/items/4146702548,pvp,Grenade Launcher,Rapid-Fire Frame,"['Volatile Launch', 'Linear Compensator', 'Quick Launch']",['Proximity Grenades'],"['Rangefinder', 'Snapshot Sights']","['Rampage', 'Quickdraw']"
+play of the game,https://www.light.gg/db/items/2621637518,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+play of the game,https://www.light.gg/db/items/2621637518,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+play of the game,https://www.light.gg/db/items/195440257,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+play of the game,https://www.light.gg/db/items/195440257,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+sunrise gl4,https://www.light.gg/db/items/4213221671,pve,Grenade Launcher,Precision Frame,[],[],[],[]
+sunrise gl4,https://www.light.gg/db/items/4213221671,pvp,Grenade Launcher,Precision Frame,[],[],[],[]
+swarm of the raven,https://www.light.gg/db/items/1972985595,pve,Grenade Launcher,Rapid-Fire Frame,['Volatile Launch'],['Proximity Grenades'],"['Field Prep', 'Auto-Loading Holster']",['Genesis']
+swarm of the raven,https://www.light.gg/db/items/1972985595,pvp,Grenade Launcher,Rapid-Fire Frame,['Volatile Launch'],['Proximity Grenades'],"['Field Prep', 'Auto-Loading Holster']",['Rampage']
+terran wind,https://www.light.gg/db/items/301362380,pve,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+terran wind,https://www.light.gg/db/items/301362380,pvp,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+the day's fury,https://www.light.gg/db/items/807192446,pve,Grenade Launcher,Precision Frame,[],[],[],[]
+the day's fury,https://www.light.gg/db/items/807192446,pvp,Grenade Launcher,Precision Frame,[],[],[],[]
+the permanent truth,https://www.light.gg/db/items/1720373217,pve,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+the permanent truth,https://www.light.gg/db/items/1720373217,pvp,Grenade Launcher,Rapid-Fire Frame,[],[],[],[]
+through fire and flood,https://www.light.gg/db/items/301362381,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+through fire and flood,https://www.light.gg/db/items/301362381,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+wendigo gl3,https://www.light.gg/db/items/578459533,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+wendigo gl3,https://www.light.gg/db/items/578459533,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+wicked sister,https://www.light.gg/db/items/2168486467,pve,Grenade Launcher,Adaptive Frame,[],[],[],[]
+wicked sister,https://www.light.gg/db/items/2168486467,pvp,Grenade Launcher,Adaptive Frame,[],[],[],[]
+crooked fang-4fr,https://www.light.gg/db/items/3419149443,pve,Linear Fusion Rifle,Precision Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel']",['Enhanced Battery'],"['High-Impact Reserves', 'Auto-Loading Holster']","['Rampage', 'Dragonfly', 'Genesis', 'Box Breathing']"
+crooked fang-4fr,https://www.light.gg/db/items/3419149443,pvp,Linear Fusion Rifle,Precision Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel']","['Enhanced Battery', 'Projection Fuse']","['Opening Shot', 'Snapshot Sights', 'Moving Target']","['Rampage', 'Backup Plan', 'Kill Clip', 'Rangefinder']"
+crooked fang-4fr,https://www.light.gg/db/items/3005879473,pve,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+crooked fang-4fr,https://www.light.gg/db/items/3005879473,pvp,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+dead-ender,https://www.light.gg/db/items/1813667283,pve,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+dead-ender,https://www.light.gg/db/items/1813667283,pvp,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+komodo-4fr,https://www.light.gg/db/items/2697058914,pve,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+komodo-4fr,https://www.light.gg/db/items/2697058914,pvp,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+line in the sand,https://www.light.gg/db/items/946443267,pve,Linear Fusion Rifle,Precision Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel']","['Enhanced Battery', 'Ionized Battery', 'Liquid Coils']","['Rapid Hit', 'Genesis']","['Backup Plan', 'Firing Line', 'Clown Cartridge', 'Dragonfly']"
+line in the sand,https://www.light.gg/db/items/946443267,pvp,Linear Fusion Rifle,Precision Frame,"['Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel', 'Full Bore', 'Hammer-Forged Rifling', 'Smallbore']","['Accelerated Coils', 'Projection Fuse']","['Rapid Hit', 'Rangefinder', 'Moving Target']","['Backup Plan', 'Rampage', 'Auto-Loading Holster']"
+man o' war,https://www.light.gg/db/items/3909683950,pve,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+man o' war,https://www.light.gg/db/items/3909683950,pvp,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+tarantula,https://www.light.gg/db/items/2502422775,pve,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+tarantula,https://www.light.gg/db/items/2502422775,pvp,Linear Fusion Rifle,Precision Frame,[],[],[],[]
+21% delirium,https://www.light.gg/db/items/1600633250,pve,Machine Gun,Rapid-Fire Frame,[],[],[],[]
+21% delirium,https://www.light.gg/db/items/1600633250,pvp,Machine Gun,Rapid-Fire Frame,[],[],[],[]
+a fine memorial,https://www.light.gg/db/items/3325778512,pve,Machine Gun,Adaptive Frame,"['Fluted Barrel', 'Arrowhead Brake', 'Corkscrew Rifling']","['High-Caliber Rounds', 'Appended Mag', 'Flared Magwell']","['Quickdraw', 'Pulse Monitor']","['Demolitionist', 'Surrounded']"
+a fine memorial,https://www.light.gg/db/items/3325778512,pvp,Machine Gun,Adaptive Frame,"['Fluted Barrel', 'Hammer-Forged Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Quickdraw', 'Moving Target']","['Demolitionist', 'Tap the Trigger']"
+avalanche,https://www.light.gg/db/items/66875353,pve,Machine Gun,Adaptive Frame,"['SLO-12 Post', 'SLO-21 Post', 'SLO-10 Post', 'SPO-57 Front']","['High-Caliber Rounds', 'Extended Mag', 'Alloy Magazine', 'Appended Mag']","['Slideways', 'Threat Detector', 'Feeding Frenzy']","['Rampage', 'High-Impact Reserves', 'Hip-Fire Grip']"
+avalanche,https://www.light.gg/db/items/66875353,pvp,Machine Gun,Adaptive Frame,"['SLO-12 Post', 'SLO-21 Post', 'SLO-10 Post', 'SPO-57 Front']","['High-Caliber Rounds', 'Armor-Piercing Rounds', 'Ricochet Rounds']","['Slideways', 'Moving Target']","['Rampage', 'High-Impact Reserves', 'Quickdraw']"
+bane of sorrow,https://www.light.gg/db/items/1496419775,pve,Machine Gun,High-Impact Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Polygonal Rifling', 'Corkscrew Rifling', 'Fluted Barrel']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds', 'Extended Mag']","['Feeding Frenzy', 'Eye of the Storm', 'Under Pressure']","['Demolitionist', 'Kill Clip', 'Rampage']"
+bane of sorrow,https://www.light.gg/db/items/1496419775,pvp,Machine Gun,High-Impact Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Polygonal Rifling', 'Extended Barrel', 'Hammer-Forged Rifling']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Feeding Frenzy', 'Eye of the Storm', 'Tap the Trigger']","['Demolitionist', 'Kill Clip', 'Rampage', 'Mulligan']"
+edgewise,https://www.light.gg/db/items/847329160,pve,Machine Gun,Rapid-Fire Frame,[],[],[],[]
+edgewise,https://www.light.gg/db/items/847329160,pvp,Machine Gun,Rapid-Fire Frame,[],[],[],[]
+fixed odds,https://www.light.gg/db/items/1642384931,pve,Machine Gun,High-Impact Frame,"['Chambered Compensator', 'Arrowhead Brake', 'Corkscrew Rifling', 'Fluted Barrel']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds', 'Extended Mag']","['Quickdraw', 'Feeding Frenzy']","['Rampage', 'Surrounded']"
+fixed odds,https://www.light.gg/db/items/1642384931,pvp,Machine Gun,High-Impact Frame,"['Chambered Compensator', 'Extended Barrel', 'Hammer-Forged Rifling']","['Appended Mag', 'High-Caliber Rounds', 'Ricochet Rounds']","['Quickdraw', 'No Distractions']","['Rampage', 'Rangefinder', 'Tap the Trigger']"
+hammerhead,https://www.light.gg/db/items/603242241,pve,Machine Gun,Adaptive Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Extended Barrel', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['Armor-Piercing Rounds', 'High-Caliber Rounds', 'Ricochet Rounds', 'Extended Mag', 'Alloy Magazine', 'Appended Mag']","['Feeding Frenzy', 'Quickdraw', 'Shield Disorient']","['Surrounded', 'Rampage', 'High-Impact Reserves', 'Ambitious Assassin', 'Genesis']"
+hammerhead,https://www.light.gg/db/items/603242241,pvp,Machine Gun,Adaptive Frame,"['Arrowhead Brake', 'Chambered Compensator', 'Corkscrew Rifling', 'Extended Barrel', 'Fluted Barrel', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['Armor-Piercing Rounds', 'High-Caliber Rounds', 'Ricochet Rounds']","['Feeding Frenzy', 'Quickdraw', 'Tap the Trigger']","['Surrounded', 'Rampage', 'High-Impact Reserves']"
+seventh seraph saw,https://www.light.gg/db/items/2582755344,pve,Machine Gun,High-Impact Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling']","['Appended Mag', 'Armor-Piercing Rounds', 'Flared Magwell']","['Clown Cartridge', 'Auto-Loading Holster', 'Field Prep']","['Vorpal Weapon', 'Firing Line', 'Elemental Capacitor']"
+seventh seraph saw,https://www.light.gg/db/items/2582755344,pvp,Machine Gun,High-Impact Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Polygonal Rifling', 'Smallbore']","['Appended Mag', 'Armor-Piercing Rounds', 'Flared Magwell', 'High-Caliber Rounds', 'Ricochet Rounds']","['Clown Cartridge', 'Auto-Loading Holster', 'Field Prep', 'Zen Moment']","['Vorpal Weapon', 'Firing Line', 'Elemental Capacitor', 'Opening Shot', 'Mulligan']"
+temporal clause,https://www.light.gg/db/items/3369545945,pve,Machine Gun,Rapid-Fire Frame,"['Arrowhead Brake', 'Fluted Barrel', 'Chambered Compensator', 'Corkscrew Rifling', 'Hammer-Forged Rifling', 'Polygonal Rifling', 'Smallbore']","['High-Caliber Rounds', 'Ricochet Rounds', 'Appended Mag', 'Flared Magwell']","['Quickdraw', 'Firmly Planted', 'Auto-Loading Holster', 'Ambitious Assassin']","['Rangefinder', 'Rampage', 'Surrounded']"
+temporal clause,https://www.light.gg/db/items/3369545945,pvp,Machine Gun,Rapid-Fire Frame,"['Arrowhead Brake', 'Fluted Barrel']","['High-Caliber Rounds', 'Ricochet Rounds', 'Light Mag']","['Quickdraw', 'Firmly Planted']","['Rangefinder', 'Rampage', 'Eye of the Storm']"
+apex predator,https://www.light.gg/db/items/2545083870,pve,Rocket Launcher,Adaptive Frame,"['Linear Compensator', 'Quick Launch']",['High-Velocity Rounds'],['Tracking Module'],"['Auto-Loading Holster', 'Snapshot Sights']"
+apex predator,https://www.light.gg/db/items/2545083870,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+bad omens,https://www.light.gg/db/items/991314988,pve,Rocket Launcher,Aggressive Frame,"['Volatile Launch', 'Linear Compensator']","['Alloy Casing', 'Black Powder', 'High-Velocity Rounds']","['Tracking Module', 'Auto-Loading Holster']","['Cluster Bomb', 'Genesis', 'Kill Clip']"
+bad omens,https://www.light.gg/db/items/991314988,pvp,Rocket Launcher,Aggressive Frame,"['Volatile Launch', 'Linear Compensator']","['Alloy Casing', 'Black Powder', 'High-Velocity Rounds']","['Tracking Module', 'Snapshot Sights']","['Cluster Bomb', 'Quickdraw']"
+bellowing giant,https://www.light.gg/db/items/2186258845,pve,Rocket Launcher,Adaptive Frame,"['Volatile Launch', 'Linear Compensator', 'Hard Launch', 'Quick Launch']","['Alloy Casing', 'Impact Casing', 'Implosion Rounds']","['Tracking Module', 'Quickdraw', 'Field Prep']","['Cluster Bomb', 'Auto-Loading Holster', 'Ambitious Assassin']"
+bellowing giant,https://www.light.gg/db/items/2186258845,pvp,Rocket Launcher,Adaptive Frame,"['Volatile Launch', 'Linear Compensator', 'Confined Launch']","['Alloy Casing', 'Impact Casing', 'Black Powder']","['Tracking Module', 'Quickdraw']","['Cluster Bomb', 'Auto-Loading Holster']"
+blue shift,https://www.light.gg/db/items/417474226,pve,Rocket Launcher,High-Impact Frame,[],[],[],[]
+blue shift,https://www.light.gg/db/items/417474226,pvp,Rocket Launcher,High-Impact Frame,[],[],[],[]
+braytech osprey,https://www.light.gg/db/items/1929278169,pve,Rocket Launcher,High-Impact Frame,[],[],[],[]
+braytech osprey,https://www.light.gg/db/items/1929278169,pvp,Rocket Launcher,High-Impact Frame,[],[],[],[]
+broadsword launcher,https://www.light.gg/db/items/1392429335,pve,Rocket Launcher,Adaptive Frame,[],[],[],[]
+broadsword launcher,https://www.light.gg/db/items/1392429335,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+classical-42,https://www.light.gg/db/items/2149166938,pve,Rocket Launcher,Adaptive Frame,[],[],[],[]
+classical-42,https://www.light.gg/db/items/2149166938,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+countess sa/2,https://www.light.gg/db/items/2149166939,pve,Rocket Launcher,Adaptive Frame,[],[],[],[]
+countess sa/2,https://www.light.gg/db/items/2149166939,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+curtain call,https://www.light.gg/db/items/137879537,pve,Rocket Launcher,Aggressive Frame,[],[],[],[]
+curtain call,https://www.light.gg/db/items/137879537,pvp,Rocket Launcher,Aggressive Frame,[],[],[],[]
+heretic,https://www.light.gg/db/items/3067821200,pve,Rocket Launcher,Aggressive Frame,"['Linear Compensator', 'Hard Launch', 'Quick Launch']",['Impact Casing'],['Demolitionist'],"['Cluster Bomb', 'Quickdraw', 'Kill Clip']"
+heretic,https://www.light.gg/db/items/3067821200,pvp,Rocket Launcher,Aggressive Frame,"['Linear Compensator', 'Volatile Launch', 'Confined Launch']","['Black Powder', 'High-Velocity Rounds']","['Demolitionist', 'Rangefinder']","['Cluster Bomb', 'Quickdraw']"
+hoosegow,https://www.light.gg/db/items/417474224,pve,Rocket Launcher,Adaptive Frame,[],[],[],[]
+hoosegow,https://www.light.gg/db/items/417474224,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+hoosegow xe5837,https://www.light.gg/db/items/2817798849,pve,Rocket Launcher,Adaptive Frame,"['Linear Compensator', 'Hard Launch', 'Quick Launch']","['Alloy Casing', 'Impact Casing', 'Implosion Rounds']","['Auto-Loading Holster', 'Field Prep']","['Cluster Bomb', 'Quickdraw', 'Ambitious Assassin']"
+hoosegow xe5837,https://www.light.gg/db/items/2817798849,pvp,Rocket Launcher,Adaptive Frame,"['Linear Compensator', 'Volatile Launch', 'Confined Launch']","['Alloy Casing', 'Impact Casing', 'Black Powder']",['Auto-Loading Holster'],"['Cluster Bomb', 'Quickdraw']"
+morrigan-d,https://www.light.gg/db/items/3748713779,pve,Rocket Launcher,Häkke Precision Frame,[],[],[],[]
+morrigan-d,https://www.light.gg/db/items/3748713779,pvp,Rocket Launcher,Häkke Precision Frame,[],[],[],[]
+mos epoch iii,https://www.light.gg/db/items/417474225,pve,Rocket Launcher,Aggressive Frame,[],[],[],[]
+mos epoch iii,https://www.light.gg/db/items/417474225,pvp,Rocket Launcher,Aggressive Frame,[],[],[],[]
+mos epoch iii,https://www.light.gg/db/items/1529450902,pve,Rocket Launcher,Aggressive Frame,"['Quick Launch', 'Hard Launch', 'Smart Drift Control']","['Alloy Casing', 'Implosion Rounds', 'Impact Casing']","['Auto-Loading Holster', 'Tracking Module']","['Quickdraw', 'Cluster Bomb', 'Disruption Break']"
+mos epoch iii,https://www.light.gg/db/items/1529450902,pvp,Rocket Launcher,Aggressive Frame,"['Quick Launch', 'Volatile Launch', 'Confined Launch']","['Alloy Casing', 'Black Powder']","['Auto-Loading Holster', 'Tracking Module']","['Quickdraw', 'Cluster Bomb']"
+pentatonic-48,https://www.light.gg/db/items/3748713778,pve,Rocket Launcher,Adaptive Frame,[],[],[],[]
+pentatonic-48,https://www.light.gg/db/items/3748713778,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+pit launcher,https://www.light.gg/db/items/4095462486,pve,Rocket Launcher,Aggressive Frame,[],[],[],[]
+pit launcher,https://www.light.gg/db/items/4095462486,pvp,Rocket Launcher,Aggressive Frame,[],[],[],[]
+pyroclastic flow,https://www.light.gg/db/items/1289324202,pve,Rocket Launcher,Precision Frame,"['Hard Launch', 'Linear Compensator', 'Quick Launch']","['Impact Casing', 'Alloy Casing']","['Ambitious Assassin', 'Quickdraw']","['Cluster Bomb', 'Auto-Loading Holster']"
+pyroclastic flow,https://www.light.gg/db/items/1289324202,pvp,Rocket Launcher,Precision Frame,"['Hard Launch', 'Linear Compensator', 'Volatile Launch', 'Countermass']","['Impact Casing', 'Black Powder', 'High-Velocity Rounds']","['Ambitious Assassin', 'Quickdraw', 'Underdog', 'Genesis']","['Cluster Bomb', 'Auto-Loading Holster']"
+roar of the bear,https://www.light.gg/db/items/308332265,pve,Rocket Launcher,High-Impact Frame,"['Volatile Launch', 'Linear Compensator', 'Hard Launch', 'Quick Launch']","['Alloy Casing', 'Black Powder', 'High-Velocity Rounds', 'Implosion Rounds']",['Tracking Module'],"['Auto-Loading Holster', 'Kill Clip']"
+roar of the bear,https://www.light.gg/db/items/308332265,pvp,Rocket Launcher,High-Impact Frame,"['Volatile Launch', 'Linear Compensator']","['Alloy Casing', 'Black Powder', 'High-Velocity Rounds']","['Tracking Module', 'Snapshot Sights']",['Quickdraw']
+scipio-d,https://www.light.gg/db/items/2544285846,pve,Rocket Launcher,High-Impact Frame,[],[],[],[]
+scipio-d,https://www.light.gg/db/items/2544285846,pvp,Rocket Launcher,High-Impact Frame,[],[],[],[]
+shining sphere,https://www.light.gg/db/items/432716552,pve,Rocket Launcher,Adaptive Frame,[],[],[],[]
+shining sphere,https://www.light.gg/db/items/432716552,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+shining sphere,https://www.light.gg/db/items/136525518,pve,Rocket Launcher,Adaptive Frame,"['Volatile Launch', 'Confined Launch', 'Linear Compensator']","['Alloy Casing', 'Black Powder', 'Impact Casing']","['Auto-Loading Holster', 'Field Prep']","['Tracking Module', 'Demolitionist']"
+shining sphere,https://www.light.gg/db/items/136525518,pvp,Rocket Launcher,Adaptive Frame,"['Volatile Launch', 'Confined Launch', 'Linear Compensator']","['Alloy Casing', 'Black Powder', 'High-Velocity Rounds']",['Auto-Loading Holster'],"['Tracking Module', 'Demolitionist']"
+sins of the past,https://www.light.gg/db/items/3691881271,pve,Rocket Launcher,High-Impact Frame,[],[],[],[]
+sins of the past,https://www.light.gg/db/items/3691881271,pvp,Rocket Launcher,High-Impact Frame,[],[],[],[]
+sleepless,https://www.light.gg/db/items/3740842661,pve,Rocket Launcher,High-Impact Frame,"['Linear Compensator', 'Quick Launch']",['High-Velocity Rounds'],['Auto-Loading Holster'],['Cluster Bomb']
+sleepless,https://www.light.gg/db/items/3740842661,pvp,Rocket Launcher,High-Impact Frame,[],[],[],[]
+the button,https://www.light.gg/db/items/4041111172,pve,Rocket Launcher,Adaptive Frame,[],[],[],[]
+the button,https://www.light.gg/db/items/4041111172,pvp,Rocket Launcher,Adaptive Frame,[],[],[],[]
+tiebreaker,https://www.light.gg/db/items/2792181427,pve,Rocket Launcher,Aggressive Frame,[],[],[],[]
+tiebreaker,https://www.light.gg/db/items/2792181427,pvp,Rocket Launcher,Aggressive Frame,[],[],[],[]
+tomorrow's answer,https://www.light.gg/db/items/958384347,pve,Rocket Launcher,High-Impact Frame,"['Volatile Launch', 'Linear Compensator', 'Confined Launch']","['Impact Casing', 'Black Powder', 'High-Velocity Rounds']","['Tracking Module', 'Field Prep']","['Cluster Bomb', 'Disruption Break', 'Clown Cartridge']"
+tomorrow's answer,https://www.light.gg/db/items/958384347,pvp,Rocket Launcher,High-Impact Frame,"['Volatile Launch', 'Linear Compensator']",['Impact Casing'],"['Tracking Module', 'Moving Target']","['Cluster Bomb', 'Snapshot Sights']"
+zenobia-d,https://www.light.gg/db/items/3776129137,pve,Rocket Launcher,Häkke Precision Frame,"['Volatile Launch', 'Linear Compensator']","['Alloy Casing', 'Black Powder', 'High-Velocity Rounds']","['Snapshot Sights', 'Auto-Loading Holster']","['Cluster Bomb', 'Quickdraw', 'Kill Clip']"
+zenobia-d,https://www.light.gg/db/items/3776129137,pvp,Rocket Launcher,Häkke Precision Frame,"['Volatile Launch', 'Linear Compensator']","['Alloy Casing', 'Black Powder', 'High-Velocity Rounds']",['Snapshot Sights'],"['Cluster Bomb', 'Quickdraw']"
+zenobia-d,https://www.light.gg/db/items/1411084669,pve,Rocket Launcher,Häkke Precision Frame,[],[],[],[]
+zenobia-d,https://www.light.gg/db/items/1411084669,pvp,Rocket Launcher,Häkke Precision Frame,[],[],[],[]
+abide the return,https://www.light.gg/db/items/1644160541,pve,Sword,Adaptive Frame,"['Hungry Edge', 'Tempered Edge', 'Honed Edge']","['Balanced Guard', 'Heavy Guard']","['Relentless Strikes', 'Tireless Blade']","[""Assassin's Blade"", 'Whirlwind Blade']"
+abide the return,https://www.light.gg/db/items/1644160541,pvp,Sword,Adaptive Frame,"['Hungry Edge', 'Tempered Edge']","['Balanced Guard', 'Heavy Guard']",['Relentless Strikes'],"[""Assassin's Blade""]"
+complex solution,https://www.light.gg/db/items/287042893,pve,Sword,Adaptive Frame,[],[],[],[]
+complex solution,https://www.light.gg/db/items/287042893,pvp,Sword,Adaptive Frame,[],[],[],[]
+double-edged answer,https://www.light.gg/db/items/3551104348,pve,Sword,Adaptive Frame,[],[],[],[]
+double-edged answer,https://www.light.gg/db/items/3551104348,pvp,Sword,Adaptive Frame,[],[],[],[]
+future safe 10,https://www.light.gg/db/items/1490571337,pve,Sword,Adaptive Frame,[],[],[],[]
+future safe 10,https://www.light.gg/db/items/1490571337,pvp,Sword,Adaptive Frame,[],[],[],[]
+hagakure,https://www.light.gg/db/items/276918162,pve,Sword,Adaptive Frame,[],[],[],[]
+hagakure,https://www.light.gg/db/items/276918162,pvp,Sword,Adaptive Frame,[],[],[],[]
+honor's edge,https://www.light.gg/db/items/2276266837,pve,Sword,Adaptive Frame,[],[],[],[]
+honor's edge,https://www.light.gg/db/items/2276266837,pvp,Sword,Adaptive Frame,[],[],[],[]
+honor's edge,https://www.light.gg/db/items/2857348871,pve,Sword,Adaptive Frame,"['Honed Edge', 'Jagged Edge', 'Tempered Edge', 'Enduring Blade']","['Balanced Guard', 'Burst Guard', ""Swordmaster's Guard""]","['Tireless Blade', 'Relentless Strikes']","['Counterattack', 'Flash Counter', 'Surrounded']"
+honor's edge,https://www.light.gg/db/items/2857348871,pvp,Sword,Adaptive Frame,"['Honed Edge', 'Jagged Edge', 'Tempered Edge']","['Balanced Guard', 'Burst Guard', 'Heavy Guard']","['Tireless Blade', 'Energy Transfer']","['Counterattack', 'Shattering Blade', 'En Garde']"
+it stared back,https://www.light.gg/db/items/1018072983,pve,Sword,Adaptive Frame,[],[],[],[]
+it stared back,https://www.light.gg/db/items/1018072983,pvp,Sword,Adaptive Frame,[],[],[],[]
+just in case,https://www.light.gg/db/items/715338174,pve,Sword,Adaptive Frame,"['Hungry Edge', 'Tempered Edge']","['Heavy Guard', 'Balanced Guard']","['Tireless Blade', 'Relentless Strikes']","['Shattering Blade', 'En Garde', 'Whirlwind Blade']"
+just in case,https://www.light.gg/db/items/715338174,pvp,Sword,Adaptive Frame,"['Honed Edge', 'Jagged Edge']","['Heavy Guard', 'Enduring Guard']",['Tireless Blade'],"['Shattering Blade', 'En Garde', ""Assassin's Blade""]"
+negative space,https://www.light.gg/db/items/287042892,pve,Sword,Adaptive Frame,[],[],[],[]
+negative space,https://www.light.gg/db/items/287042892,pvp,Sword,Adaptive Frame,[],[],[],[]
+night terror,https://www.light.gg/db/items/3870811754,pve,Sword,Adaptive Frame,"['Honed Edge', 'Jagged Edge', 'Tempered Edge']",['Heavy Guard'],"['Tireless Blade', 'Relentless Strikes']",['Whirlwind Blade']
+night terror,https://www.light.gg/db/items/3870811754,pvp,Sword,Adaptive Frame,"['Honed Edge', 'Hungry Edge', 'Enduring Blade']",['Heavy Guard'],['Tireless Blade'],"['En Garde', ""Assassin's Blade""]"
+steel sybil z-14,https://www.light.gg/db/items/4230993599,pve,Sword,Adaptive Frame,[],[],[],[]
+steel sybil z-14,https://www.light.gg/db/items/4230993599,pvp,Sword,Adaptive Frame,[],[],[],[]
+steel sybil z-14,https://www.light.gg/db/items/4174481098,pve,Sword,Adaptive Frame,[],[],[],[]
+steel sybil z-14,https://www.light.gg/db/items/4174481098,pvp,Sword,Adaptive Frame,[],[],[],[]
+stryker's sure-hand,https://www.light.gg/db/items/3704653637,pve,Sword,Adaptive Frame,"['Tempered Edge', 'Hungry Edge']","['Heavy Guard', 'Balanced Guard', 'Enduring Guard']","['Tireless Blade', 'Relentless Strikes']","['Surrounded', 'Whirlwind Blade']"
+stryker's sure-hand,https://www.light.gg/db/items/3704653637,pvp,Sword,Adaptive Frame,"['Tempered Edge', 'Honed Edge', 'Jagged Edge']","['Heavy Guard', 'Burst Guard']","['Tireless Blade', ""Assassin's Blade""]","['Surrounded', 'En Garde']"
+traitor's fate,https://www.light.gg/db/items/2683682446,pve,Sword,Adaptive Frame,[],[],[],[]
+traitor's fate,https://www.light.gg/db/items/2683682446,pvp,Sword,Adaptive Frame,[],[],[],[]
+unspoken promise,https://www.light.gg/db/items/287042894,pve,Sword,Adaptive Frame,[],[],[],[]
+unspoken promise,https://www.light.gg/db/items/287042894,pvp,Sword,Adaptive Frame,[],[],[],[]
+zephyr,https://www.light.gg/db/items/4203034886,pve,Sword,Adaptive Frame,[],[],[],[]
+zephyr,https://www.light.gg/db/items/4203034886,pvp,Sword,Adaptive Frame,[],[],[],[]

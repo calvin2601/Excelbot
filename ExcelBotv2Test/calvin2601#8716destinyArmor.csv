@@ -1,0 +1,273 @@
+Name,Tier,Type,Equippable,Power,Masterwork Type,Masterwork Tier,Season,Mobility (Base),Resilience (Base),Recovery (Base),Discipline (Base),Intellect (Base),Strength (Base),Total (Base),Seasonal Mod,Perks 5,"Sum (Mob,Rec,Str)","Sum (Rec,Int,Dis)"
+Wing Discipline,Legendary,Helmet,Titan,958,Arc Energy Capacity,6.0,9,17,2,6,2,9,16,52,dawn,,39,17
+Wing Discipline,Legendary,Helmet,Titan,960,Void Energy Capacity,7.0,9,6,2,17,17,7,2,51,dawn,,25,41
+Prodigal Helm,Legendary,Helmet,Titan,962,Solar Energy Capacity,5.0,4,6,13,6,13,2,10,50,,,22,21
+Prodigal Helm,Legendary,Helmet,Titan,960,Arc Energy Capacity,2.0,4,6,2,16,2,6,16,48,,,38,24
+Iron Will Helm,Legendary,Helmet,Titan,960,Arc Energy Capacity,8.0,8,6,2,23,6,14,7,58,undying,,36,43
+Notorious Sentry Helm,Legendary,Helmet,Titan,960,Void Energy Capacity,4.0,6,10,12,7,6,9,15,59,,,32,22
+Midnight Exigent Helm,Legendary,Helmet,Titan,960,Arc Energy Capacity,4.0,3,2,12,11,8,6,12,51,,,25,25
+Midnight Exigent Helm,Legendary,Helmet,Titan,960,Void Energy Capacity,1.0,3,2,18,6,6,7,13,52,,,21,19
+Iron Will Gauntlets,Legendary,Gauntlets,Titan,960,Solar Energy Capacity,7.0,8,2,10,18,20,7,2,59,undying,,22,45
+Ancient Apocalypse Gauntlets,Legendary,Gauntlets,Titan,962,Solar Energy Capacity,4.0,9,7,16,2,13,12,2,52,dawn,,11,27
+Ancient Apocalypse Gauntlets,Legendary,Gauntlets,Titan,960,Arc Energy Capacity,1.0,9,6,6,12,13,7,6,50,dawn,,24,32
+Vigil of Heroes,Legendary,Gauntlets,Titan,960,Arc Energy Capacity,6.0,9,2,6,16,2,6,18,50,dawn,,36,24
+Notorious Reaper Gauntlets,Legendary,Gauntlets,Titan,960,Arc Energy Capacity,1.0,6,6,14,8,2,13,12,55,,,26,23
+Mimetic Savior Gauntlets,Legendary,Gauntlets,Titan,962,Void Energy Capacity,1.0,4,8,9,10,13,2,10,52,,,28,25
+Outlawed Sentry Plate,Legendary,Chest Armor,Titan,957,Arc Energy Capacity,6.0,6,7,7,12,12,7,8,53,,,27,31
+Notorious Sentry Plate,Legendary,Chest Armor,Titan,960,Arc Energy Capacity,5.0,6,13,2,13,6,8,12,54,,,38,27
+Mimetic Savior Plate,Legendary,Chest Armor,Titan,959,Void Energy Capacity,8.0,4,8,2,18,16,7,2,53,,,28,41
+Mimetic Savior Plate,Legendary,Chest Armor,Titan,962,Void Energy Capacity,1.0,4,12,6,6,12,11,2,49,,,20,29
+Midnight Exigent Plate,Legendary,Chest Armor,Titan,957,Solar Energy Capacity,10.0,3,2,6,18,16,12,2,56,,,22,46
+Mimetic Savior Plate,Legendary,Chest Armor,Titan,962,Void Energy Capacity,3.0,4,2,12,12,17,2,6,51,,,20,31
+Tangled Web Plate,Legendary,Chest Armor,Titan,960,Arc Energy Capacity,7.0,4,8,6,12,7,2,17,52,,,37,21
+Peregrine Greaves,Exotic,Leg Armor,Titan,960,Solar Energy Capacity,9.0,7,12,9,12,14,8,7,62,,,31,34
+Antaeus Wards,Exotic,Leg Armor,Titan,962,Solar Energy Capacity,1.0,4,3,11,15,2,9,17,57,,,35,26
+Wing Discipline,Legendary,Leg Armor,Titan,959,Arc Energy Capacity,7.0,9,10,2,14,2,6,18,52,dawn,,42,22
+Peregrine Greaves,Exotic,Leg Armor,Titan,960,Arc Energy Capacity,8.0,7,18,10,6,14,12,2,62,,Upgrade Armor*,26,32
+Tangled Web Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,3.0,4,2,13,10,17,2,7,51,,,19,29
+Ancient Apocalypse Greaves,Legendary,Leg Armor,Titan,962,Arc Energy Capacity,2.0,9,18,2,6,8,10,6,50,dawn,,30,24
+Notorious Sentry Greaves,Legendary,Leg Armor,Titan,959,Arc Energy Capacity,1.0,6,2,13,12,6,18,6,57,,,20,36
+Prodigal Greaves,Legendary,Leg Armor,Titan,960,Void Energy Capacity,1.0,4,8,12,6,7,2,16,51,,,30,15
+Opulent Duelist Mark,Legendary,Titan Mark,Titan,962,Arc Energy Capacity,10.0,7,12,2,2,2,2,2,22,opulent,,16,6
+Prodigal Mark,Legendary,Titan Mark,Titan,960,Void Energy Capacity,2.0,4,0,0,0,0,0,0,0,,,0,0
+Midnight Exigent Mark,Legendary,Titan Mark,Titan,960,Void Energy Capacity,4.0,3,0,0,0,0,0,0,0,,,0,0
+Midnight Exigent Mark,Legendary,Titan Mark,Titan,960,Void Energy Capacity,3.0,3,0,0,0,0,0,0,0,,,0,0
+Midnight Exigent Mark,Legendary,Titan Mark,Titan,960,Void Energy Capacity,1.0,3,0,0,0,0,0,0,0,,,0,0
+Mimetic Savior Bond,Legendary,Titan Mark,Titan,960,Arc Energy Capacity,1.0,4,0,0,0,0,0,0,0,,,0,0
+Wing Discipline,Legendary,Titan Mark,Titan,962,Void Energy Capacity,1.0,9,0,0,0,0,0,0,0,dawn,,0,0
+Ancient Apocalypse Mark,Legendary,Titan Mark,Titan,960,Void Energy Capacity,2.0,9,0,0,0,0,0,0,0,dawn,,0,0
+Prodigal Cuirass,Legendary,Chest Armor,Titan,962,Solar Energy Capacity,5.0,4,11,2,10,17,2,7,49,,,28,29
+Ancient Apocalypse Helm,Legendary,Helmet,Titan,959,Arc Energy Capacity,1.0,9,16,8,2,12,6,6,50,dawn,,24,20
+Mark of Confrontation,Rare,Titan Mark,Titan,960,Void Energy Capacity,5.0,4,0,0,0,0,0,0,0,,,0,0
+Tangled Web Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,7.0,4,2,2,22,10,12,2,50,,,26,44
+Outlawed Sentry Gauntlets,Legendary,Gauntlets,Titan,957,Solar Energy Capacity,5.0,6,2,17,7,14,13,2,55,,,11,34
+Armamentarium,Exotic,Chest Armor,Titan,960,Solar Energy Capacity,6.0,3,14,11,7,16,10,2,60,,,23,33
+Iron Truage Greaves,Legendary,Leg Armor,Titan,960,Solar Energy Capacity,10.0,9,6,2,24,14,14,2,62,dawn,,32,52
+Outlawed Sentry Mark,Legendary,Titan Mark,Titan,958,Arc Energy Capacity,4.0,6,0,0,10,0,0,0,10,,,10,10
+Crown of Tempests,Exotic,Helmet,Warlock,960,Arc Energy Capacity,1.0,1,13,6,7,6,12,6,50,,,26,25
+Apotheosis Veil,Exotic,Helmet,Warlock,959,Arc Energy Capacity,1.0,3,10,7,7,6,12,6,48,,,23,25
+Eye of Another World,Exotic,Helmet,Warlock,960,Void Energy Capacity,1.0,1,6,6,14,12,2,12,52,,,32,28
+Aeon Soul,Exotic,Gauntlets,Warlock,958,Arc Energy Capacity,1.0,2,6,8,13,6,6,12,51,,,31,25
+Starfire Protocol,Exotic,Chest Armor,Warlock,960,Void Energy Capacity,1.0,1,6,7,12,12,6,6,49,,,24,30
+Raven Shard,Uncommon,Chest Armor,Warlock,750,,,1,2,12,12,2,6,16,50,,,30,20
+Raven Shard,Uncommon,Helmet,Warlock,750,,,1,11,6,7,7,2,16,49,,,34,16
+Raven Shard,Uncommon,Gauntlets,Warlock,750,,,1,16,7,3,17,2,6,51,,,25,22
+Starfire Protocol,Exotic,Chest Armor,Warlock,957,Void Energy Capacity,1.0,1,6,7,12,12,6,6,49,,,24,30
+Raven Shard,Uncommon,Leg Armor,Warlock,750,,,1,13,6,7,6,10,6,48,,,26,23
+Bond of the Raven Shard,Uncommon,Warlock Bond,Warlock,750,,,1,0,0,0,0,0,0,0,,,0,0
+Knucklehead Radar,Exotic,Helmet,Hunter,960,Void Energy Capacity,1.0,1,11,3,10,22,2,2,50,,,23,34
+Aeon Swift,Exotic,Gauntlets,Hunter,960,Arc Energy Capacity,1.0,2,11,3,11,6,6,10,47,,,32,23
+The Dragon's Shadow,Exotic,Chest Armor,Hunter,958,Void Energy Capacity,1.0,1,13,8,6,6,10,6,49,,,25,22
+Raiden Flux,Exotic,Chest Armor,Hunter,960,Arc Energy Capacity,1.0,1,8,11,6,6,12,6,49,,,20,24
+Scavenger Suit,Uncommon,Leg Armor,Hunter,750,,,1,3,23,2,23,2,2,55,,,7,27
+Scavenger Cloak,Uncommon,Hunter Cloak,Hunter,750,,,1,0,0,0,0,0,0,0,,,0,0
+Scavenger Suit,Uncommon,Helmet,Hunter,750,,,1,7,10,6,6,6,10,45,,,23,18
+Scavenger Suit,Uncommon,Gauntlets,Hunter,750,,,1,7,17,2,10,6,6,48,,,15,18
+Scavenger Suit,Uncommon,Chest Armor,Hunter,750,,,1,9,7,10,6,2,17,51,,,36,18
+Lucky Pants,Exotic,Leg Armor,Hunter,958,Void Energy Capacity,1.0,1,7,7,10,12,6,6,48,,,23,28
+Prodigal Cloak,Legendary,Hunter Cloak,Hunter,862,Void Energy Capacity,2.0,4,0,0,0,0,0,0,0,,,0,0
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,960,Void Energy Capacity,3.0,4,2,17,9,12,2,11,53,,,22,23
+Tangled Web Helm,Legendary,Helmet,Titan,959,Solar Energy Capacity,3.0,4,2,2,22,2,18,6,52,,,30,42
+Illicit Collector Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,3.0,6,7,7,12,7,2,20,55,,,39,21
+Outlawed Reaper Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,1.0,6,14,6,6,13,14,2,55,,,22,33
+Righteous Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,1.0,9,8,2,16,13,6,6,51,dawn,,30,35
+Opulent Duelist Greaves,Legendary,Leg Armor,Titan,959,Arc Energy Capacity,4.0,7,12,2,11,13,2,12,52,opulent,,35,26
+Hallowfire Heart,Exotic,Chest Armor,Titan,957,Solar Energy Capacity,1.0,1,9,14,7,8,6,16,60,,,32,21
+Outlawed Reaper Greaves,Legendary,Leg Armor,Titan,959,Arc Energy Capacity,3.0,6,15,6,6,2,19,6,54,,,27,27
+Wormgod Caress,Exotic,Gauntlets,Titan,958,Solar Energy Capacity,1.0,3,2,11,11,6,6,12,48,,,25,23
+Lion Rampant,Exotic,Leg Armor,Titan,950,Solar Energy Capacity,3.0,1,8,12,9,10,12,7,58,,,24,31
+Wing Discipline,Legendary,Chest Armor,Titan,960,Arc Energy Capacity,1.0,9,2,10,17,8,19,2,58,dawn,,21,44
+Outlawed Reaper Greaves,Legendary,Leg Armor,Titan,959,Solar Energy Capacity,1.0,6,6,17,2,8,7,12,52,,,20,17
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,960,Void Energy Capacity,1.0,4,6,8,12,6,13,6,51,,,24,31
+Khepri's Horn,Exotic,Helmet,Titan,960,Void Energy Capacity,3.0,2,6,9,18,2,18,11,64,,,35,38
+An Insurmountable Skullfort,Exotic,Helmet,Titan,960,Solar Energy Capacity,4.0,1,10,3,22,6,13,9,63,,,41,41
+Prodigal Helm,Legendary,Helmet,Titan,960,Void Energy Capacity,5.0,4,2,8,16,7,12,7,52,,,25,35
+Peregrine Greaves,Exotic,Leg Armor,Titan,959,Arc Energy Capacity,1.0,7,13,13,2,6,6,12,52,,,27,14
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,960,Solar Energy Capacity,2.0,4,11,2,11,6,10,7,47,,,29,27
+Lion Rampant,Exotic,Leg Armor,Titan,959,Arc Energy Capacity,3.0,1,16,8,2,6,12,6,50,,,24,20
+Prodigal Gauntlets,Legendary,Gauntlets,Titan,960,Void Energy Capacity,3.0,4,15,11,2,7,8,12,55,,,29,17
+Forged Machinist Gauntlets,Legendary,Gauntlets,Titan,960,Void Energy Capacity,1.0,5,10,6,6,2,8,19,51,forge,,35,16
+Midnight Exigent Greaves,Legendary,Leg Armor,Titan,960,Solar Energy Capacity,4.0,3,7,12,6,10,8,7,50,,,20,24
+Mimetic Savior Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,1.0,4,11,6,6,12,12,2,49,,,19,30
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,962,Void Energy Capacity,5.0,4,17,2,7,11,8,6,51,,,30,26
+Mimetic Savior Plate,Legendary,Chest Armor,Titan,960,Solar Energy Capacity,5.0,4,12,6,6,6,12,8,50,,,26,24
+Ancient Apocalypse Plate,Legendary,Chest Armor,Titan,959,Solar Energy Capacity,1.0,9,6,12,6,7,7,11,49,dawn,,23,20
+Eternal Warrior,Exotic,Helmet,Titan,961,Void Energy Capacity,4.0,3,6,22,2,6,6,16,58,,,24,14
+Prodigal Helm,Legendary,Helmet,Titan,959,Void Energy Capacity,1.0,4,6,2,17,25,2,2,54,,,25,44
+Helm of Saint-14,Exotic,Helmet,Titan,961,Solar Energy Capacity,2.0,2,2,20,9,7,6,16,60,,,27,22
+Antaeus Wards,Exotic,Leg Armor,Titan,960,Arc Energy Capacity,3.0,4,7,13,8,22,2,6,58,,,21,32
+One-Eyed Mask,Exotic,Helmet,Titan,956,Solar Energy Capacity,5.0,4,12,7,15,13,13,2,62,,,29,41
+Outlawed Reaper Helm,Legendary,Helmet,Titan,959,Solar Energy Capacity,4.0,6,13,6,6,7,14,6,52,,,25,27
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,962,Void Energy Capacity,3.0,4,13,12,2,2,12,13,54,,,28,16
+Tangled Web Gauntlets,Legendary,Gauntlets,Titan,960,Void Energy Capacity,2.0,4,2,2,22,6,6,12,50,,,36,34
+Iron Truage Helm,Legendary,Helmet,Titan,963,Void Energy Capacity,1.0,9,15,6,6,9,6,12,54,dawn,,33,21
+Tangled Web Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,1.0,4,2,11,13,7,2,17,52,,,32,22
+Vigil of Heroes,Legendary,Chest Armor,Titan,961,Solar Energy Capacity,1.0,9,10,7,7,13,6,9,52,dawn,,26,26
+Righteous Plate,Legendary,Chest Armor,Titan,960,Solar Energy Capacity,2.0,9,2,6,17,17,8,2,52,dawn,,21,42
+Mimetic Savior Gauntlets,Legendary,Gauntlets,Titan,960,Solar Energy Capacity,1.0,4,11,13,2,6,6,10,48,,,23,14
+Mimetic Savior Gauntlets,Legendary,Gauntlets,Titan,962,Arc Energy Capacity,1.0,4,18,6,2,2,16,8,52,,,28,20
+Opulent Duelist Greaves,Legendary,Leg Armor,Titan,948,Solar Energy Capacity,3.0,7,7,6,13,8,6,12,52,opulent,,32,27
+Iron Truage Gauntlets,Legendary,Gauntlets,Titan,959,Arc Energy Capacity,1.0,9,19,2,6,9,2,19,57,dawn,,44,17
+Forged Machinist Plate,Legendary,Chest Armor,Titan,959,Solar Energy Capacity,2.0,5,17,6,2,2,10,10,47,forge,,29,14
+Peacekeepers,Exotic,Leg Armor,Titan,950,Solar Energy Capacity,1.0,1,7,7,12,6,12,6,50,,,25,30
+Prodigal Gauntlets,Legendary,Gauntlets,Titan,960,Solar Energy Capacity,4.0,4,13,2,12,7,11,7,52,,,32,30
+Tangled Web Plate,Legendary,Chest Armor,Titan,950,Solar Energy Capacity,6.0,4,2,7,19,12,12,2,54,,,23,43
+Prodigal Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,1.0,4,2,2,22,18,6,2,52,,,26,46
+Tangled Web Plate,Legendary,Chest Armor,Titan,960,Solar Energy Capacity,2.0,4,2,12,13,6,7,12,52,,,27,26
+Mimetic Savior Plate,Legendary,Chest Armor,Titan,960,Solar Energy Capacity,2.0,4,2,12,13,12,2,12,53,,,27,27
+Midnight Exigent Plate,Legendary,Chest Armor,Titan,960,Arc Energy Capacity,4.0,3,12,11,2,6,17,2,50,,,16,25
+Ancient Apocalypse Plate,Legendary,Chest Armor,Titan,962,Solar Energy Capacity,1.0,9,8,2,18,6,16,2,52,dawn,,28,40
+Khepri's Horn,Exotic,Helmet,Titan,960,Arc Energy Capacity,1.0,2,6,21,3,2,16,11,59,,,20,21
+Notorious Sentry Helm,Legendary,Helmet,Titan,959,Void Energy Capacity,4.0,6,2,17,12,12,7,9,59,,,23,31
+Wing Discipline,Legendary,Helmet,Titan,960,Void Energy Capacity,6.0,9,7,2,18,11,2,16,56,dawn,,41,31
+Outlawed Reaper Gauntlets,Legendary,Gauntlets,Titan,960,Arc Energy Capacity,2.0,6,15,7,6,8,6,13,55,,,34,20
+Aeon Safe,Exotic,Gauntlets,Titan,961,Void Energy Capacity,5.0,2,13,8,12,2,15,13,63,,,38,29
+Iron Truage Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,1.0,9,15,6,9,8,2,18,58,dawn,,42,19
+Mark of Confrontation,Rare,Titan Mark,Titan,960,Arc Energy Capacity,5.0,4,0,0,0,0,0,0,0,,,0,0
+Dunemarchers,Exotic,Leg Armor,Titan,960,Arc Energy Capacity,1.0,1,9,21,2,13,7,8,60,,,19,22
+One-Eyed Mask,Exotic,Helmet,Titan,960,Solar Energy Capacity,2.0,4,7,7,16,6,2,22,60,,,45,24
+Peregrine Greaves,Exotic,Leg Armor,Titan,961,Solar Energy Capacity,5.0,7,14,3,14,14,6,9,60,,,37,34
+Dunemarchers,Exotic,Leg Armor,Titan,924,Arc Energy Capacity,1.0,1,13,7,6,6,6,12,50,,,31,18
+Reverie Dawn Helm,Legendary,Helmet,Titan,959,Solar Energy Capacity,5.0,4,11,7,7,7,2,17,51,outlaw,Upgrade Armor*,35,16
+Peacekeepers,Exotic,Leg Armor,Titan,960,Void Energy Capacity,1.0,1,14,3,12,13,2,13,57,,,39,27
+Legion-Bane,Rare,Leg Armor,Titan,959,Arc Energy Capacity,5.0,4,16,6,2,12,2,12,50,,,30,16
+Tangled Web Greaves,Legendary,Leg Armor,Titan,960,Void Energy Capacity,2.0,4,2,14,12,6,6,11,51,,,25,24
+Iron Truage Gauntlets,Legendary,Gauntlets,Titan,959,Solar Energy Capacity,2.0,9,10,8,10,2,2,25,57,dawn,,45,14
+Illicit Sentry Greaves,Legendary,Leg Armor,Titan,959,Arc Energy Capacity,2.0,6,10,7,11,16,2,7,53,,,28,29
+Phoenix Strife Type 0,Legendary,Chest Armor,Titan,960,Solar Energy Capacity,6.0,7,10,2,13,25,2,2,54,undying,,25,40
+Illicit Sentry Gauntlets,Legendary,Gauntlets,Titan,957,Solar Energy Capacity,2.0,6,10,6,7,2,11,11,47,,,28,20
+Prodigal Gauntlets,Legendary,Gauntlets,Titan,957,Solar Energy Capacity,6.0,4,6,2,19,6,6,15,54,,,40,31
+Prodigal Gauntlets,Legendary,Gauntlets,Titan,962,Arc Energy Capacity,2.0,4,6,13,7,18,2,6,52,,,19,27
+Forged Machinist Gauntlets,Legendary,Gauntlets,Titan,959,Solar Energy Capacity,1.0,5,8,2,19,11,7,7,54,forge,,34,37
+Devastation Complex,Legendary,Gauntlets,Titan,957,Void Energy Capacity,6.0,1,6,6,11,2,23,2,50,,,19,36
+Forged Machinist Helm,Legendary,Helmet,Titan,959,Solar Energy Capacity,2.0,5,2,9,18,12,10,2,53,forge,,22,40
+Ancient Apocalypse Helm,Legendary,Helmet,Titan,959,Arc Energy Capacity,1.0,9,12,6,7,14,12,2,53,dawn,,21,33
+Opulent Duelist Helm,Legendary,Helmet,Titan,955,Void Energy Capacity,8.0,7,6,19,2,8,14,7,56,opulent,,15,24
+Prodigal Mark,Legendary,Titan Mark,Titan,960,Void Energy Capacity,2.0,4,0,0,0,0,0,0,0,,,0,0
+Forged Machinist Greaves,Legendary,Leg Armor,Titan,958,Solar Energy Capacity,3.0,5,12,2,12,6,17,2,51,forge,,26,35
+Tangled Web Gauntlets,Legendary,Gauntlets,Titan,959,Solar Energy Capacity,2.0,4,6,6,13,11,6,8,50,,,27,30
+Vigil of Heroes,Legendary,Gauntlets,Titan,962,Arc Energy Capacity,1.0,9,9,13,6,11,7,6,52,dawn,,21,24
+Helm of Saint-14,Exotic,Helmet,Titan,909,Void Energy Capacity,2.0,2,8,7,15,6,19,2,57,,,25,40
+One-Eyed Mask,Exotic,Helmet,Titan,949,Void Energy Capacity,1.0,4,6,7,13,6,6,10,48,,,29,25
+Heart of Inmost Light,Exotic,Chest Armor,Titan,961,Arc Energy Capacity,3.0,4,19,3,8,8,10,8,56,,,35,26
+Eternal Warrior,Exotic,Helmet,Titan,904,Arc Energy Capacity,1.0,3,16,12,2,2,8,18,58,,,36,12
+An Insurmountable Skullfort,Exotic,Helmet,Titan,910,Void Energy Capacity,1.0,1,7,9,15,18,2,10,61,,,32,35
+Phoenix Strife Type 0,Legendary,Gauntlets,Titan,960,Void Energy Capacity,5.0,7,2,2,22,6,2,16,50,undying,,40,30
+Opulent Duelist Greaves,Legendary,Leg Armor,Titan,955,Solar Energy Capacity,2.0,7,6,8,13,2,10,11,50,opulent,,30,25
+Tangled Web Gauntlets,Legendary,Gauntlets,Titan,959,Solar Energy Capacity,4.0,4,15,2,12,2,2,24,57,,,51,16
+Prodigal Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,2.0,4,16,7,2,9,12,6,52,,,24,23
+Mimetic Savior Gauntlets,Legendary,Gauntlets,Titan,960,Arc Energy Capacity,6.0,4,7,2,16,2,22,2,51,,,25,40
+Wing Discipline,Legendary,Chest Armor,Titan,960,Solar Energy Capacity,5.0,9,19,2,6,8,2,16,53,dawn,,41,16
+Antaeus Wards,Exotic,Leg Armor,Titan,958,Arc Energy Capacity,1.0,4,14,2,14,14,8,8,60,,,36,36
+Forged Machinist Plate,Legendary,Chest Armor,Titan,959,Solar Energy Capacity,1.0,5,12,10,2,2,2,22,50,forge,,36,6
+Ancient Apocalypse Greaves,Legendary,Leg Armor,Titan,959,Arc Energy Capacity,6.0,9,17,6,2,2,2,22,51,dawn,,41,6
+Prodigal Gauntlets,Legendary,Gauntlets,Titan,960,Void Energy Capacity,5.0,4,7,6,12,2,2,23,52,,,42,16
+Righteous Helm,Legendary,Helmet,Titan,959,Solar Energy Capacity,3.0,9,16,2,12,7,7,11,55,dawn,,39,26
+Crest of Alpha Lupi,Exotic,Chest Armor,Titan,960,Solar Energy Capacity,5.0,1,9,10,14,6,19,2,60,,,25,39
+Ancient Apocalypse Gauntlets,Legendary,Gauntlets,Titan,960,Void Energy Capacity,4.0,9,12,11,2,18,7,2,52,dawn,,16,27
+Righteous Gauntlets,Legendary,Gauntlets,Titan,959,Solar Energy Capacity,1.0,9,10,6,7,6,2,18,49,dawn,,35,15
+Righteous Gauntlets,Legendary,Gauntlets,Titan,957,Arc Energy Capacity,2.0,9,2,2,22,8,10,10,54,dawn,,34,40
+Stronghold,Exotic,Gauntlets,Titan,962,Solar Energy Capacity,2.0,6,2,15,14,14,13,2,60,,,18,41
+Opulent Duelist Greaves,Legendary,Leg Armor,Titan,958,Arc Energy Capacity,7.0,7,7,2,20,2,17,6,54,opulent,,33,39
+Tangled Web Greaves,Legendary,Leg Armor,Titan,959,Solar Energy Capacity,6.0,4,7,6,13,2,2,22,52,,,42,17
+Illicit Collector Plate,Legendary,Chest Armor,Titan,958,Solar Energy Capacity,3.0,6,7,16,2,12,6,8,51,,,17,20
+Aeon Safe,Exotic,Gauntlets,Titan,962,Solar Energy Capacity,1.0,2,8,9,12,7,19,2,57,,,22,38
+Outlawed Reaper Mark,Legendary,Titan Mark,Titan,960,Arc Energy Capacity,4.0,6,0,0,0,0,0,0,0,,,0,0
+Righteous Mark,Legendary,Titan Mark,Titan,960,Solar Energy Capacity,1.0,9,0,0,0,0,0,0,0,dawn,,0,0
+Ancient Apocalypse Greaves,Legendary,Leg Armor,Titan,960,Void Energy Capacity,1.0,9,2,17,6,7,6,11,49,dawn,,19,19
+Righteous Mark,Legendary,Titan Mark,Titan,960,Void Energy Capacity,3.0,9,0,0,0,0,0,0,0,dawn,,0,0
+Righteous Mark,Legendary,Titan Mark,Titan,960,Arc Energy Capacity,3.0,9,0,0,0,0,0,0,0,dawn,,0,0
+Crest of Alpha Lupi,Exotic,Chest Armor,Titan,960,Solar Energy Capacity,4.0,1,3,14,17,19,2,6,61,,,26,38
+Prodigal Greaves,Legendary,Leg Armor,Titan,960,Void Energy Capacity,8.0,4,8,2,16,17,7,2,52,,,26,40
+Righteous Greaves,Legendary,Leg Armor,Titan,959,Void Energy Capacity,1.0,9,6,6,12,7,16,2,49,dawn,,20,35
+Prodigal Greaves,Legendary,Leg Armor,Titan,958,Void Energy Capacity,8.0,4,16,2,8,2,7,16,51,,,40,17
+Opulent Duelist Gauntlets,Legendary,Gauntlets,Titan,955,Void Energy Capacity,5.0,7,7,12,7,12,12,2,52,opulent,,16,31
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,960,Solar Energy Capacity,1.0,4,12,6,12,8,12,6,56,,,30,32
+Righteous Greaves,Legendary,Leg Armor,Titan,959,Solar Energy Capacity,2.0,9,12,6,6,2,6,17,49,dawn,,35,14
+Righteous Greaves,Legendary,Leg Armor,Titan,960,Solar Energy Capacity,1.0,9,6,2,18,2,2,22,52,dawn,,46,22
+Tangled Web Greaves,Legendary,Leg Armor,Titan,958,Void Energy Capacity,6.0,4,10,2,11,2,2,22,49,,,43,15
+Tangled Web Greaves,Legendary,Leg Armor,Titan,960,Solar Energy Capacity,1.0,4,2,22,2,12,6,6,50,,,10,20
+Eternal Warrior,Exotic,Helmet,Titan,959,Solar Energy Capacity,2.0,3,19,12,2,14,11,2,60,,,23,27
+Prodigal Gauntlets,Legendary,Gauntlets,Titan,960,Solar Energy Capacity,1.0,4,7,2,16,9,6,10,50,,,33,31
+Forged Machinist Helm,Legendary,Helmet,Titan,957,Arc Energy Capacity,5.0,5,12,2,12,17,7,2,52,forge,,26,36
+Heart of Inmost Light,Exotic,Chest Armor,Titan,960,Arc Energy Capacity,4.0,4,8,9,13,9,2,19,60,,,40,24
+Mask of the Quiet One,Exotic,Helmet,Titan,949,Void Energy Capacity,8.0,1,6,8,10,6,6,12,48,,,28,22
+Ancient Apocalypse Plate,Legendary,Chest Armor,Titan,962,Solar Energy Capacity,3.0,9,12,2,13,12,7,6,52,dawn,,31,32
+Tangled Web Gauntlets,Legendary,Gauntlets,Titan,960,Arc Energy Capacity,2.0,4,8,10,7,11,2,13,51,,,28,20
+Tangled Web Plate,Legendary,Chest Armor,Titan,960,Arc Energy Capacity,7.0,4,2,6,16,24,2,2,52,,,20,42
+Crest of Alpha Lupi,Exotic,Chest Armor,Titan,960,Solar Energy Capacity,2.0,1,8,14,11,12,2,14,61,,,33,25
+Doom Fang Pauldron,Exotic,Gauntlets,Titan,908,Void Energy Capacity,2.0,1,19,3,12,14,8,6,62,,,37,34
+Mask of the Quiet One,Exotic,Helmet,Titan,958,Void Energy Capacity,6.0,1,12,10,6,10,9,9,56,,,27,25
+Synthoceps,Exotic,Gauntlets,Titan,936,Void Energy Capacity,4.0,1,6,21,3,7,2,21,60,,,30,12
+Aeon Safe,Exotic,Gauntlets,Titan,950,Solar Energy Capacity,1.0,2,9,9,12,20,9,2,61,,,23,41
+Ashen Wake,Exotic,Gauntlets,Titan,910,Solar Energy Capacity,1.0,3,6,8,10,12,6,6,48,,,22,28
+Opulent Duelist Plate,Legendary,Chest Armor,Titan,960,Solar Energy Capacity,2.0,7,6,6,15,12,2,12,53,opulent,,33,29
+Wormgod Caress,Exotic,Gauntlets,Titan,935,Void Energy Capacity,3.0,3,11,13,9,6,15,10,64,,,30,30
+Midnight Exigent Plate,Legendary,Chest Armor,Titan,959,Arc Energy Capacity,2.0,3,13,7,6,11,2,12,51,,,31,19
+Ursa Furiosa,Exotic,Gauntlets,Titan,949,Void Energy Capacity,1.0,4,6,14,6,6,12,6,50,,,18,24
+ACD/0 Feedback Fence,Exotic,Gauntlets,Titan,901,Arc Energy Capacity,1.0,1,2,12,10,6,6,12,48,,,24,22
+Prodigal Cuirass,Legendary,Chest Armor,Titan,960,Void Energy Capacity,6.0,4,7,9,14,2,2,23,57,,,44,18
+Hardcase Helm,Rare,Helmet,Titan,960,Void Energy Capacity,5.0,4,2,6,17,2,6,17,50,,,36,25
+Scatterhorn Mark,Legendary,Titan Mark,Titan,959,Void Energy Capacity,1.0,4,0,0,0,0,0,0,0,,,0,0
+Actium War Rig,Exotic,Chest Armor,Titan,911,Solar Energy Capacity,2.0,1,14,3,13,7,2,18,57,,,45,22
+Prodigal Mark,Legendary,Titan Mark,Titan,959,Void Energy Capacity,5.0,4,0,0,0,0,0,0,0,,,0,0
+Armamentarium,Exotic,Chest Armor,Titan,922,Solar Energy Capacity,4.0,3,11,11,10,13,6,10,61,,,31,29
+Prodigal Mark,Legendary,Titan Mark,Titan,962,Solar Energy Capacity,1.0,4,0,0,0,0,0,0,0,,,0,0
+Mimetic Savior Bond,Legendary,Titan Mark,Titan,962,Void Energy Capacity,1.0,4,0,0,0,0,0,0,0,,,0,0
+Dunemarchers,Exotic,Leg Armor,Titan,960,Arc Energy Capacity,4.0,1,3,15,10,13,6,9,56,,,22,29
+Mimetic Savior Helm,Legendary,Helmet,Titan,962,Solar Energy Capacity,2.0,4,2,12,10,13,2,12,51,,,24,25
+Mimetic Savior Helm,Legendary,Helmet,Titan,962,Solar Energy Capacity,3.0,4,12,7,6,6,16,2,49,,,20,28
+Mimetic Savior Helm,Legendary,Helmet,Titan,960,Void Energy Capacity,1.0,4,18,2,7,12,7,6,52,,,31,26
+Wing Discipline,Legendary,Helmet,Titan,962,Arc Energy Capacity,1.0,9,10,2,17,2,17,6,54,dawn,,33,36
+Prodigal Helm,Legendary,Helmet,Titan,960,Arc Energy Capacity,1.0,4,2,7,17,16,2,7,51,,,26,35
+Mask of the Quiet One,Exotic,Helmet,Titan,962,Solar Energy Capacity,1.0,1,8,15,7,2,14,12,58,,,27,23
+Tangled Web Greaves,Legendary,Leg Armor,Titan,959,Arc Energy Capacity,1.0,4,6,9,12,12,11,2,52,,,20,35
+Tangled Web Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,3.0,4,2,22,2,13,6,7,52,,,11,21
+Kerak Type 2,Legendary,Gauntlets,Titan,960,Solar Energy Capacity,3.0,1,10,2,16,7,11,7,53,,,33,34
+Dunemarchers,Exotic,Leg Armor,Titan,957,Void Energy Capacity,1.0,1,9,14,7,7,6,14,57,,,30,20
+Legion-Bane,Rare,Helmet,Titan,960,Void Energy Capacity,5.0,4,18,2,7,6,7,12,52,,,37,20
+Mk. 44 Stand Asides,Exotic,Leg Armor,Titan,958,Void Energy Capacity,1.0,2,7,10,13,18,7,2,57,,,22,38
+Hallowfire Heart,Exotic,Chest Armor,Titan,960,Solar Energy Capacity,9.0,1,8,7,10,6,12,6,49,,,24,28
+Scatterhorn Greaves,Legendary,Leg Armor,Titan,962,Solar Energy Capacity,1.0,4,2,10,12,6,16,2,48,,,16,34
+Prodigal Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,2.0,4,6,2,17,6,2,17,50,,,40,25
+Baseline Mark,Rare,Titan Mark,Titan,959,Arc Energy Capacity,5.0,4,0,0,0,0,0,0,0,,,0,0
+Prodigal Cuirass,Legendary,Chest Armor,Titan,959,Void Energy Capacity,1.0,4,6,2,18,13,2,11,52,,,35,33
+Opulent Duelist Plate,Legendary,Chest Armor,Titan,955,Arc Energy Capacity,7.0,7,7,13,7,6,11,7,51,opulent,,21,24
+Wing Discipline,Legendary,Helmet,Titan,960,Arc Energy Capacity,1.0,9,7,16,2,7,6,13,51,dawn,,22,15
+Actium War Rig,Exotic,Chest Armor,Titan,959,Arc Energy Capacity,1.0,1,7,11,7,6,6,10,47,,,24,19
+Prodigal Cuirass,Legendary,Chest Armor,Titan,959,Arc Energy Capacity,2.0,4,2,13,11,2,10,12,50,,,25,23
+Scatterhorn Helm,Legendary,Helmet,Titan,962,Solar Energy Capacity,2.0,4,6,2,17,11,2,14,52,,,37,30
+Tangled Web Helm,Legendary,Helmet,Titan,962,Arc Energy Capacity,5.0,4,7,7,13,8,10,8,53,,,28,31
+Midnight Exigent Gauntlets,Legendary,Gauntlets,Titan,960,Void Energy Capacity,4.0,3,7,10,7,16,7,2,49,,,16,30
+Mimetic Savior Helm,Legendary,Helmet,Titan,960,Arc Energy Capacity,5.0,4,6,10,7,12,6,7,48,,,20,25
+Midnight Exigent Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,1.0,3,7,6,13,6,7,12,51,,,32,26
+One-Eyed Mask,Exotic,Helmet,Titan,959,Arc Energy Capacity,1.0,4,19,3,9,8,20,2,61,,,30,37
+Shadow's Mark,Legendary,Titan Mark,Titan,958,Arc Energy Capacity,3.0,1,0,0,0,0,0,0,0,opulent,,0,0
+Helm of Saint-14,Exotic,Helmet,Titan,960,Void Energy Capacity,1.0,2,2,11,11,6,12,6,48,,,19,29
+Terra Concord Plate,Legendary,Chest Armor,Titan,960,Arc Energy Capacity,1.0,1,2,12,12,6,16,2,50,,,16,34
+Stronghold,Exotic,Gauntlets,Titan,960,Void Energy Capacity,2.0,6,2,15,13,13,7,7,57,,,22,33
+Vigil of Heroes,Legendary,Leg Armor,Titan,964,Void Energy Capacity,1.0,9,2,23,2,10,8,7,52,dawn,,11,20
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,959,Void Energy Capacity,4.0,4,8,11,6,2,7,16,50,,,30,15
+Forged Machinist Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,5.0,5,11,7,12,6,13,6,55,forge,,29,31
+Tangled Web Mark,Legendary,Titan Mark,Titan,961,Void Energy Capacity,2.0,4,0,0,0,0,0,0,0,,,0,0
+Vigil of Heroes,Legendary,Titan Mark,Titan,962,Solar Energy Capacity,1.0,9,0,0,0,0,0,0,0,dawn,,0,0
+Wing Discipline,Legendary,Titan Mark,Titan,961,Void Energy Capacity,3.0,9,0,0,0,0,0,0,0,dawn,,0,0
+Prodigal Helm,Legendary,Helmet,Titan,960,Arc Energy Capacity,2.0,4,7,11,7,11,10,2,48,,,16,28
+Forged Machinist Mark,Legendary,Titan Mark,Titan,958,Arc Energy Capacity,1.0,5,0,0,0,0,0,0,0,forge,,0,0
+Forged Machinist Mark,Legendary,Titan Mark,Titan,960,Solar Energy Capacity,3.0,5,0,0,0,0,0,0,0,forge,,0,0
+Opulent Duelist Mark,Legendary,Titan Mark,Titan,960,Solar Energy Capacity,2.0,7,0,0,0,0,0,0,0,opulent,,0,0
+Opulent Duelist Mark,Legendary,Titan Mark,Titan,959,Void Energy Capacity,3.0,7,0,0,0,0,0,0,0,opulent,,0,0
+Mimetic Savior Greaves,Legendary,Leg Armor,Titan,960,Void Energy Capacity,1.0,4,6,2,17,6,18,2,51,,,25,41
+Mimetic Savior Gauntlets,Legendary,Gauntlets,Titan,959,Solar Energy Capacity,2.0,4,2,7,17,12,12,2,52,,,21,41
+Tangled Web Gauntlets,Legendary,Gauntlets,Titan,960,Solar Energy Capacity,3.0,4,6,12,6,12,8,6,50,,,18,26
+Midnight Exigent Greaves,Legendary,Leg Armor,Titan,960,Arc Energy Capacity,1.0,3,6,6,12,2,12,12,50,,,30,26
+Notorious Sentry Helm,Legendary,Helmet,Titan,960,Solar Energy Capacity,3.0,6,7,7,14,12,16,2,58,,,23,42
+Tangled Web Helm,Legendary,Helmet,Titan,960,Void Energy Capacity,1.0,4,18,7,2,6,2,17,52,,,37,10
+Notorious Sentry Helm,Legendary,Helmet,Titan,960,Void Energy Capacity,3.0,6,9,8,10,7,14,8,56,,,27,31
+Notorious Sentry Helm,Legendary,Helmet,Titan,959,Solar Energy Capacity,2.0,6,7,12,12,13,13,2,59,,,21,38
+Hallowfire Heart,Exotic,Chest Armor,Titan,962,Void Energy Capacity,2.0,1,8,7,14,7,8,12,56,,,34,29
+Wing Discipline,Legendary,Chest Armor,Titan,961,Void Energy Capacity,6.0,9,2,2,24,7,10,8,53,dawn,,34,41
+Wing Discipline,Legendary,Chest Armor,Titan,960,Void Energy Capacity,7.0,9,12,6,6,2,2,22,50,dawn,,40,10
+Tangled Web Plate,Legendary,Chest Armor,Titan,960,Void Energy Capacity,3.0,4,7,7,12,6,13,6,51,,,25,31
+Illicit Sentry Helm,Legendary,Helmet,Titan,957,Arc Energy Capacity,6.0,6,2,11,13,17,2,6,51,,,21,32
+Mimetic Savior Helm,Legendary,Helmet,Titan,962,Arc Energy Capacity,1.0,4,13,2,13,6,7,12,53,,,38,26
